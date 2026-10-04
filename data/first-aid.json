@@ -1,0 +1,1407 @@
+{
+  "profession": "first-aid",
+  "skill_id": 129,
+  "url": "https://www.wowhead.com/forever/skill=129/first-aid",
+  "scraped_at": "2026-10-04T19:11:32.195371+00:00",
+  "recipes": [
+    {
+      "id": 7934,
+      "name": "Anti-Venom",
+      "creates": {
+        "item_id": 6452,
+        "min_qty": 3,
+        "max_qty": 3
+      },
+      "skill_ranges": {
+        "orange": 80,
+        "yellow": 80,
+        "green": 115,
+        "gray": 150
+      },
+      "learned_at": 80,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1475,
+          "name": "Small Venom Sac",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1259343,
+      "name": "Clever Poultice",
+      "creates": {
+        "item_id": 255717,
+        "min_qty": 3,
+        "max_qty": 3
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 160,
+        "green": 190,
+        "gray": 220
+      },
+      "learned_at": 160,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1468,
+          "name": "Murloc Fin",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        },
+        {
+          "item_id": 2686,
+          "name": "Thunder Ale",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 470349,
+      "name": "Dense Runecloth Bandage",
+      "creates": {
+        "item_id": 232433,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 315,
+        "green": 327,
+        "gray": 340
+      },
+      "learned_at": 315,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 14530,
+          "name": "Heavy Runecloth Bandage",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1244434,
+      "name": "Greater Healing Potion",
+      "creates": {
+        "item_id": 1710,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 175,
+        "green": 195,
+        "gray": 215
+      },
+      "learned_at": 175,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 3
+        },
+        {
+          "item_id": 3357,
+          "name": "Liferoot",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1244433,
+      "name": "Healing Potion",
+      "creates": {
+        "item_id": 929,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 135,
+        "green": 155,
+        "gray": 175
+      },
+      "learned_at": 135,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        },
+        {
+          "item_id": 2453,
+          "name": "Bruiseweed",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3276,
+      "name": "Heavy Linen Bandage",
+      "creates": {
+        "item_id": 2581,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 40,
+        "yellow": 50,
+        "green": 75,
+        "gray": 100
+      },
+      "learned_at": 40,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2589,
+          "name": "Linen Cloth",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 10841,
+      "name": "Heavy Mageweave Bandage",
+      "creates": {
+        "item_id": 8545,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 240,
+        "yellow": 240,
+        "green": 270,
+        "gray": 300
+      },
+      "learned_at": 240,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4338,
+          "name": "Mageweave Cloth",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 18630,
+      "name": "Heavy Runecloth Bandage",
+      "creates": {
+        "item_id": 14530,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 290,
+        "yellow": 290,
+        "green": 320,
+        "gray": 350
+      },
+      "learned_at": 290,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 14047,
+          "name": "Runecloth",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 7929,
+      "name": "Heavy Silk Bandage",
+      "creates": {
+        "item_id": 6451,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 180,
+        "yellow": 180,
+        "green": 210,
+        "gray": 240
+      },
+      "learned_at": 180,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4306,
+          "name": "Silk Cloth",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 3278,
+      "name": "Heavy Wool Bandage",
+      "creates": {
+        "item_id": 3531,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 115,
+        "yellow": 115,
+        "green": 150,
+        "gray": 185
+      },
+      "learned_at": 115,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2592,
+          "name": "Wool Cloth",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1259348,
+      "name": "Leather Tourniquet",
+      "creates": {
+        "item_id": 255721,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 220,
+        "green": 250,
+        "gray": 280
+      },
+      "learned_at": 220,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4304,
+          "name": "Thick Leather",
+          "quantity": 2
+        },
+        {
+          "item_id": 4291,
+          "name": "Silken Thread",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1244432,
+      "name": "Lesser Healing Potion",
+      "creates": {
+        "item_id": 858,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 85,
+        "green": 105,
+        "gray": 125
+      },
+      "learned_at": 85,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 2
+        },
+        {
+          "item_id": 2450,
+          "name": "Briarthorn",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3275,
+      "name": "Linen Bandage",
+      "creates": {
+        "item_id": 1251,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 1,
+        "yellow": 30,
+        "green": 45,
+        "gray": 60
+      },
+      "learned_at": 1,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2589,
+          "name": "Linen Cloth",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 10840,
+      "name": "Mageweave Bandage",
+      "creates": {
+        "item_id": 8544,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 210,
+        "yellow": 210,
+        "green": 240,
+        "gray": 270
+      },
+      "learned_at": 210,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4338,
+          "name": "Mageweave Cloth",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1244436,
+      "name": "Major Healing Potion",
+      "creates": {
+        "item_id": 13446,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 290,
+        "green": 310,
+        "gray": 330
+      },
+      "learned_at": 290,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 3
+        },
+        {
+          "item_id": 13464,
+          "name": "Golden Sansam",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1244431,
+      "name": "Minor Healing Potion",
+      "creates": {
+        "item_id": 118,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 55,
+        "green": 75,
+        "gray": 95
+      },
+      "learned_at": 55,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        },
+        {
+          "item_id": 2447,
+          "name": "Peacebloom",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1259341,
+      "name": "Potent Anti-Venom",
+      "creates": {
+        "item_id": 255715,
+        "min_qty": 3,
+        "max_qty": 3
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 230,
+        "green": 260,
+        "gray": 290
+      },
+      "learned_at": 230,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 255645,
+          "name": "Swollen Venom Sac",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 23787,
+      "name": "Powerful Anti-Venom",
+      "creates": {
+        "item_id": 19440,
+        "min_qty": 3,
+        "max_qty": 3
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 300,
+        "green": 330,
+        "gray": 360
+      },
+      "learned_at": 300,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 19441,
+          "name": "Huge Venom Sac",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1259345,
+      "name": "Powerful Poultice",
+      "creates": {
+        "item_id": 255719,
+        "min_qty": 3,
+        "max_qty": 3
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 295,
+        "green": 325,
+        "gray": 355
+      },
+      "learned_at": 295,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7080,
+          "name": "Essence of Water",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        },
+        {
+          "item_id": 2594,
+          "name": "Flagon of Dwarven Honeymead",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 18629,
+      "name": "Runecloth Bandage",
+      "creates": {
+        "item_id": 14529,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 260,
+        "yellow": 260,
+        "green": 290,
+        "gray": 320
+      },
+      "learned_at": 260,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 14047,
+          "name": "Runecloth",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7928,
+      "name": "Silk Bandage",
+      "creates": {
+        "item_id": 6450,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 150,
+        "yellow": 150,
+        "green": 180,
+        "gray": 210
+      },
+      "learned_at": 150,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4306,
+          "name": "Silk Cloth",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1259342,
+      "name": "Simple Poultice",
+      "creates": {
+        "item_id": 255716,
+        "min_qty": 3,
+        "max_qty": 3
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 90,
+        "green": 125,
+        "gray": 160
+      },
+      "learned_at": 90,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3174,
+          "name": "Spider Ichor",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        },
+        {
+          "item_id": 2723,
+          "name": "Bottle of Dalaran Noir",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7935,
+      "name": "Strong Anti-Venom",
+      "creates": {
+        "item_id": 6453,
+        "min_qty": 3,
+        "max_qty": 3
+      },
+      "skill_ranges": {
+        "orange": 130,
+        "yellow": 130,
+        "green": 165,
+        "gray": 200
+      },
+      "learned_at": 130,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1288,
+          "name": "Large Venom Sac",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1244435,
+      "name": "Superior Healing Potion",
+      "creates": {
+        "item_id": 3928,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 230,
+        "green": 250,
+        "gray": 270
+      },
+      "learned_at": 230,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        },
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1259344,
+      "name": "Superior Poultice",
+      "creates": {
+        "item_id": 255718,
+        "min_qty": 3,
+        "max_qty": 3
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 225,
+        "green": 255,
+        "gray": 285
+      },
+      "learned_at": 225,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7070,
+          "name": "Elemental Water",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        },
+        {
+          "item_id": 2596,
+          "name": "Skin of Dwarven Stout",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1259349,
+      "name": "Surgical Tourniquet",
+      "creates": {
+        "item_id": 255722,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 280,
+        "green": 310,
+        "gray": 340
+      },
+      "learned_at": 280,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8170,
+          "name": "Rugged Leather",
+          "quantity": 2
+        },
+        {
+          "item_id": 14047,
+          "name": "Runecloth",
+          "quantity": 2
+        },
+        {
+          "item_id": 8343,
+          "name": "Heavy Silken Thread",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 3277,
+      "name": "Wool Bandage",
+      "creates": {
+        "item_id": 3530,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 80,
+        "yellow": 80,
+        "green": 115,
+        "gray": 150
+      },
+      "learned_at": 80,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2592,
+          "name": "Wool Cloth",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1259347,
+      "name": "Woolen Tourniquet",
+      "creates": {
+        "item_id": 255720,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 120,
+        "green": 155,
+        "gray": 190
+      },
+      "learned_at": 120,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2592,
+          "name": "Wool Cloth",
+          "quantity": 2
+        },
+        {
+          "item_id": 2321,
+          "name": "Fine Thread",
+          "quantity": 2
+        }
+      ]
+    }
+  ],
+  "items": {
+    "16084": {
+      "name": "Expert First Aid - Under Wraps",
+      "sell_price": 2500,
+      "buy_price": 10000
+    },
+    "2589": {
+      "name": "Linen Cloth",
+      "sell_price": 13,
+      "buy_price": 0
+    },
+    "1251": {
+      "name": "Linen Bandage",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "2581": {
+      "name": "Heavy Linen Bandage",
+      "sell_price": 20,
+      "buy_price": 0
+    },
+    "2592": {
+      "name": "Wool Cloth",
+      "sell_price": 33,
+      "buy_price": 0
+    },
+    "3530": {
+      "name": "Wool Bandage",
+      "sell_price": 28,
+      "buy_price": 0
+    },
+    "3531": {
+      "name": "Heavy Wool Bandage",
+      "sell_price": 57,
+      "buy_price": 0
+    },
+    "4306": {
+      "name": "Silk Cloth",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "6450": {
+      "name": "Silk Bandage",
+      "sell_price": 200,
+      "buy_price": 0
+    },
+    "6451": {
+      "name": "Heavy Silk Bandage",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "1475": {
+      "name": "Small Venom Sac",
+      "sell_price": 82,
+      "buy_price": 0
+    },
+    "6452": {
+      "name": "Anti-Venom",
+      "sell_price": 28,
+      "buy_price": 0
+    },
+    "1288": {
+      "name": "Large Venom Sac",
+      "sell_price": 185,
+      "buy_price": 0
+    },
+    "6453": {
+      "name": "Strong Anti-Venom",
+      "sell_price": 62,
+      "buy_price": 0
+    },
+    "4338": {
+      "name": "Mageweave Cloth",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "8544": {
+      "name": "Mageweave Bandage",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "8545": {
+      "name": "Heavy Mageweave Bandage",
+      "sell_price": 600,
+      "buy_price": 0
+    },
+    "14047": {
+      "name": "Runecloth",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "14529": {
+      "name": "Runecloth Bandage",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "14530": {
+      "name": "Heavy Runecloth Bandage",
+      "sell_price": 1000,
+      "buy_price": 4000,
+      "orgrimmar_vendor": false
+    },
+    "19441": {
+      "name": "Huge Venom Sac",
+      "sell_price": 1500,
+      "buy_price": 0
+    },
+    "19440": {
+      "name": "Powerful Anti-Venom",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "23567": {
+      "name": "DEPRECATED ITEM",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "23684": {
+      "name": "Crystal Infused Bandage",
+      "sell_price": 1500,
+      "buy_price": 0
+    },
+    "232433": {
+      "name": "Dense Runecloth Bandage",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "159": {
+      "name": "Refreshing Spring Water",
+      "sell_price": 1,
+      "buy_price": 25,
+      "orgrimmar_vendor": true
+    },
+    "279968": {
+      "name": "First Aid Kit",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "3371": {
+      "name": "Empty Vial",
+      "sell_price": 1,
+      "buy_price": 20,
+      "orgrimmar_vendor": true
+    },
+    "2678": {
+      "name": "Mild Spices",
+      "sell_price": 0,
+      "buy_price": 10,
+      "orgrimmar_vendor": true
+    },
+    "2447": {
+      "name": "Peacebloom",
+      "sell_price": 10,
+      "buy_price": 40,
+      "orgrimmar_vendor": false
+    },
+    "118": {
+      "name": "Minor Healing Potion",
+      "sell_price": 5,
+      "buy_price": 0
+    },
+    "2450": {
+      "name": "Briarthorn",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "858": {
+      "name": "Lesser Healing Potion",
+      "sell_price": 25,
+      "buy_price": 100
+    },
+    "3372": {
+      "name": "Leaded Vial",
+      "sell_price": 10,
+      "buy_price": 200,
+      "orgrimmar_vendor": true
+    },
+    "2692": {
+      "name": "Hot Spices",
+      "sell_price": 10,
+      "buy_price": 40,
+      "orgrimmar_vendor": true
+    },
+    "2453": {
+      "name": "Bruiseweed",
+      "sell_price": 25,
+      "buy_price": 100,
+      "orgrimmar_vendor": false
+    },
+    "929": {
+      "name": "Healing Potion",
+      "sell_price": 75,
+      "buy_price": 300
+    },
+    "3357": {
+      "name": "Liferoot",
+      "sell_price": 75,
+      "buy_price": 300,
+      "orgrimmar_vendor": false
+    },
+    "1710": {
+      "name": "Greater Healing Potion",
+      "sell_price": 125,
+      "buy_price": 500
+    },
+    "8925": {
+      "name": "Crystal Vial",
+      "sell_price": 125,
+      "buy_price": 2500,
+      "orgrimmar_vendor": true
+    },
+    "3713": {
+      "name": "Soothing Spices",
+      "sell_price": 40,
+      "buy_price": 160,
+      "orgrimmar_vendor": true
+    },
+    "8838": {
+      "name": "Sungrass",
+      "sell_price": 60,
+      "buy_price": 0
+    },
+    "3928": {
+      "name": "Superior Healing Potion",
+      "sell_price": 250,
+      "buy_price": 1000
+    },
+    "13464": {
+      "name": "Golden Sansam",
+      "sell_price": 100,
+      "buy_price": 400,
+      "orgrimmar_vendor": false
+    },
+    "13446": {
+      "name": "Major Healing Potion",
+      "sell_price": 1000,
+      "buy_price": 4000
+    },
+    "8170": {
+      "name": "Rugged Leather",
+      "sell_price": 500,
+      "buy_price": 2000,
+      "orgrimmar_vendor": false
+    },
+    "8343": {
+      "name": "Heavy Silken Thread",
+      "sell_price": 500,
+      "buy_price": 2000,
+      "orgrimmar_vendor": true
+    },
+    "255722": {
+      "name": "Surgical Tourniquet",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "4304": {
+      "name": "Thick Leather",
+      "sell_price": 300,
+      "buy_price": 1200,
+      "orgrimmar_vendor": false
+    },
+    "4291": {
+      "name": "Silken Thread",
+      "sell_price": 125,
+      "buy_price": 500,
+      "orgrimmar_vendor": true
+    },
+    "255721": {
+      "name": "Leather Tourniquet",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "2321": {
+      "name": "Fine Thread",
+      "sell_price": 25,
+      "buy_price": 100,
+      "orgrimmar_vendor": true
+    },
+    "255720": {
+      "name": "Woolen Tourniquet",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "7080": {
+      "name": "Essence of Water",
+      "sell_price": 400,
+      "buy_price": 1600,
+      "orgrimmar_vendor": false
+    },
+    "2594": {
+      "name": "Flagon of Dwarven Honeymead",
+      "sell_price": 375,
+      "buy_price": 1500,
+      "orgrimmar_vendor": true
+    },
+    "255719": {
+      "name": "Powerful Poultice",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "7070": {
+      "name": "Elemental Water",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "2596": {
+      "name": "Skin of Dwarven Stout",
+      "sell_price": 30,
+      "buy_price": 120,
+      "orgrimmar_vendor": true
+    },
+    "255718": {
+      "name": "Superior Poultice",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "1468": {
+      "name": "Murloc Fin",
+      "sell_price": 28,
+      "buy_price": 0
+    },
+    "2686": {
+      "name": "Thunder Ale",
+      "sell_price": 12,
+      "buy_price": 50,
+      "orgrimmar_vendor": false
+    },
+    "255717": {
+      "name": "Clever Poultice",
+      "sell_price": 62,
+      "buy_price": 0
+    },
+    "3174": {
+      "name": "Spider Ichor",
+      "sell_price": 16,
+      "buy_price": 0
+    },
+    "2723": {
+      "name": "Bottle of Dalaran Noir",
+      "sell_price": 12,
+      "buy_price": 50,
+      "orgrimmar_vendor": true
+    },
+    "255716": {
+      "name": "Simple Poultice",
+      "sell_price": 28,
+      "buy_price": 0
+    },
+    "255645": {
+      "name": "Swollen Venom Sac",
+      "sell_price": 370,
+      "buy_price": 0
+    },
+    "255715": {
+      "name": "Potent Anti-Venom",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "4470": {
+      "name": "Simple Wood",
+      "sell_price": 9,
+      "buy_price": 38,
+      "orgrimmar_vendor": true
+    },
+    "279940": {
+      "name": "Toxin Study",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "279951": {
+      "name": "Plague Doctor's Laboratory",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "6454": {
+      "name": "Manual: Strong Anti-Venom",
+      "sell_price": 225,
+      "buy_price": 0
+    },
+    "8547": {
+      "name": "Formula: Powerful Smelling Salts",
+      "sell_price": 200000,
+      "buy_price": 0
+    },
+    "16112": {
+      "name": "Manual: Heavy Silk Bandage",
+      "sell_price": 550,
+      "buy_price": 2200
+    },
+    "16113": {
+      "name": "Manual: Mageweave Bandage",
+      "sell_price": 1250,
+      "buy_price": 5000
+    },
+    "19442": {
+      "name": "Formula: Powerful Anti-Venom",
+      "sell_price": 25000,
+      "buy_price": 100000
+    },
+    "232434": {
+      "name": "Manual: Dense Runecloth Bandage",
+      "sell_price": 22000,
+      "buy_price": 110000
+    },
+    "255723": {
+      "name": "Manual: Greater Healing Potion",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "255724": {
+      "name": "Manual: Clever Poultice",
+      "sell_price": 425,
+      "buy_price": 0
+    },
+    "255725": {
+      "name": "Manual: Superior Healing Potion",
+      "sell_price": 1375,
+      "buy_price": 0
+    },
+    "255726": {
+      "name": "Manual: Leather Tourniquet",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "255727": {
+      "name": "Manual: Superior Poultice",
+      "sell_price": 1500,
+      "buy_price": 0
+    },
+    "255728": {
+      "name": "Manual: Potent Anti-Venom",
+      "sell_price": 1600,
+      "buy_price": 0
+    },
+    "255729": {
+      "name": "Manual: Major Healing Potion",
+      "sell_price": 20000,
+      "buy_price": 80000
+    },
+    "255730": {
+      "name": "Manual: Surgical Tourniquet",
+      "sell_price": 22500,
+      "buy_price": 0
+    },
+    "255731": {
+      "name": "Manual: Powerful Poultice",
+      "sell_price": 25000,
+      "buy_price": 0
+    },
+    "273105": {
+      "name": "Blueprint: Toxin Study",
+      "sell_price": 375,
+      "buy_price": 0
+    },
+    "273118": {
+      "name": "Blueprint: Plague Doctor's Laboratory",
+      "sell_price": 120000,
+      "buy_price": 0
+    },
+    "8546": {
+      "name": "Powerful Smelling Salts",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "19066": {
+      "name": "Warsong Gulch Runecloth Bandage",
+      "sell_price": 100,
+      "buy_price": 2000
+    },
+    "19067": {
+      "name": "Warsong Gulch Mageweave Bandage",
+      "sell_price": 75,
+      "buy_price": 1500
+    },
+    "19068": {
+      "name": "Warsong Gulch Silk Bandage",
+      "sell_price": 50,
+      "buy_price": 1000
+    },
+    "19307": {
+      "name": "Alterac Heavy Runecloth Bandage",
+      "sell_price": 100,
+      "buy_price": 8000
+    },
+    "20065": {
+      "name": "Arathi Basin Mageweave Bandage",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "20066": {
+      "name": "Arathi Basin Runecloth Bandage",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "20067": {
+      "name": "Arathi Basin Silk Bandage",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "20232": {
+      "name": "Defiler's Mageweave Bandage",
+      "sell_price": 75,
+      "buy_price": 1500
+    },
+    "20234": {
+      "name": "Defiler's Runecloth Bandage",
+      "sell_price": 100,
+      "buy_price": 2000
+    },
+    "20235": {
+      "name": "Defiler's Silk Bandage",
+      "sell_price": 50,
+      "buy_price": 1000
+    },
+    "20237": {
+      "name": "Highlander's Mageweave Bandage",
+      "sell_price": 75,
+      "buy_price": 1500
+    },
+    "20243": {
+      "name": "Highlander's Runecloth Bandage",
+      "sell_price": 100,
+      "buy_price": 2000
+    },
+    "20244": {
+      "name": "Highlander's Silk Bandage",
+      "sell_price": 50,
+      "buy_price": 1000
+    },
+    "272056": {
+      "name": "Darkspear Islands Silk Bandage",
+      "sell_price": 50,
+      "buy_price": 1000
+    },
+    "272057": {
+      "name": "Darkspear Islands Mageweave Bandage",
+      "sell_price": 75,
+      "buy_price": 1500
+    },
+    "272058": {
+      "name": "Darkspear Islands Runecloth Bandage",
+      "sell_price": 100,
+      "buy_price": 2000
+    }
+  }
+}

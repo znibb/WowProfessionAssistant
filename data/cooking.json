@@ -1,0 +1,6088 @@
+{
+  "profession": "cooking",
+  "skill_id": 185,
+  "url": "https://www.wowhead.com/forever/skill=185/cooking",
+  "scraped_at": "2026-10-04T19:09:16.574148+00:00",
+  "recipes": [
+    {
+      "id": 18247,
+      "name": "Baked Salmon",
+      "creates": {
+        "item_id": 13935,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 315,
+        "green": 335,
+        "gray": 355
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13889,
+          "name": "Raw Whitescale Salmon",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 4094,
+      "name": "Barbecued Buzzard Wing",
+      "creates": {
+        "item_id": 4457,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 215,
+        "green": 235,
+        "gray": 255
+      },
+      "learned_at": 175,
+      "source": [
+        4,
+        5,
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3404,
+          "name": "Buzzard Wing",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1229737,
+      "name": "Basic Campfire",
+      "creates": {
+        "item_id": 279981,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 0,
+        "green": 0,
+        "gray": 20
+      },
+      "learned_at": 20,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4470,
+          "name": "Simple Wood",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250144,
+      "name": "Bat Hachee",
+      "creates": {
+        "item_id": 250067,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 280,
+        "green": 295,
+        "gray": 310
+      },
+      "learned_at": 275,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12223,
+          "name": "Meaty Bat Wing",
+          "quantity": 3
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1250151,
+      "name": "Bear Brisket",
+      "creates": {
+        "item_id": 250074,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 200,
+        "green": 210,
+        "gray": 220
+      },
+      "learned_at": 175,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3730,
+          "name": "Big Bear Meat",
+          "quantity": 2
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 1250147,
+      "name": "Bear Bruscitti",
+      "creates": {
+        "item_id": 250070,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 275,
+        "green": 290,
+        "gray": 305
+      },
+      "learned_at": 275,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3730,
+          "name": "Big Bear Meat",
+          "quantity": 3
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 2795,
+      "name": "Beer Basted Boar Ribs",
+      "creates": {
+        "item_id": 2888,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 25,
+        "yellow": 60,
+        "green": 80,
+        "gray": 100
+      },
+      "learned_at": 25,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2886,
+          "name": "Crag Boar Rib",
+          "quantity": 1
+        },
+        {
+          "item_id": 2894,
+          "name": "Rhapsody Malt",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3397,
+      "name": "Big Bear Steak",
+      "creates": {
+        "item_id": 3726,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 110,
+        "yellow": 150,
+        "green": 170,
+        "gray": 190
+      },
+      "learned_at": 110,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3730,
+          "name": "Big Bear Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3371,
+      "name": "Blood Sausage",
+      "creates": {
+        "item_id": 3220,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 60,
+        "yellow": 100,
+        "green": 120,
+        "gray": 140
+      },
+      "learned_at": 60,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3173,
+          "name": "Bear Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 3172,
+          "name": "Boar Intestines",
+          "quantity": 1
+        },
+        {
+          "item_id": 3174,
+          "name": "Spider Ichor",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 6499,
+      "name": "Boiled Clams",
+      "creates": {
+        "item_id": 5525,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 50,
+        "yellow": 90,
+        "green": 110,
+        "gray": 130
+      },
+      "learned_at": 50,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5503,
+          "name": "Clam Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 159,
+          "name": "Refreshing Spring Water",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250157,
+      "name": "Breakfast Omelette",
+      "creates": {
+        "item_id": 250080,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 75,
+        "yellow": 75,
+        "green": 92,
+        "gray": 110
+      },
+      "learned_at": 75,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6889,
+          "name": "Small Egg",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 7751,
+      "name": "Brilliant Smallfish",
+      "creates": {
+        "item_id": 6290,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 1,
+        "yellow": 45,
+        "green": 65,
+        "gray": 85
+      },
+      "learned_at": 1,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6291,
+          "name": "Raw Brilliant Smallfish",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1295805,
+      "name": "Briny Seafood Stew",
+      "creates": {
+        "item_id": 274971,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 200,
+        "yellow": 220,
+        "green": 230,
+        "gray": 240
+      },
+      "learned_at": 200,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 730,
+          "name": "Murloc Eye",
+          "quantity": 2
+        },
+        {
+          "item_id": 12206,
+          "name": "Tender Crab Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7755,
+      "name": "Bristle Whisker Catfish",
+      "creates": {
+        "item_id": 4593,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 100,
+        "yellow": 140,
+        "green": 160,
+        "gray": 180
+      },
+      "learned_at": 100,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6308,
+          "name": "Raw Bristle Whisker Catfish",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249966,
+      "name": "Calcified Smoothie",
+      "creates": {
+        "item_id": 249874,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 180,
+        "yellow": 185,
+        "green": 190,
+        "gray": 195
+      },
+      "learned_at": 180,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1708,
+          "name": "Sweet Nectar",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 3
+        },
+        {
+          "item_id": 5637,
+          "name": "Large Fang",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 15863,
+      "name": "Carrion Surprise",
+      "creates": {
+        "item_id": 12213,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 215,
+        "green": 235,
+        "gray": 255
+      },
+      "learned_at": 175,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12037,
+          "name": "Mystery Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2538,
+      "name": "Charred Wolf Meat",
+      "creates": {
+        "item_id": 2679,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 45,
+        "green": 65,
+        "gray": 85
+      },
+      "learned_at": 0,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2672,
+          "name": "Stringy Wolf Meat",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 6501,
+      "name": "Clam Chowder",
+      "creates": {
+        "item_id": 5526,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 90,
+        "yellow": 130,
+        "green": 150,
+        "gray": 170
+      },
+      "learned_at": 90,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5503,
+          "name": "Clam Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 1179,
+          "name": "Ice Cold Milk",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250158,
+      "name": "Clam Linguine",
+      "creates": {
+        "item_id": 250081,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 0,
+        "green": 0,
+        "gray": 275
+      },
+      "learned_at": 275,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7974,
+          "name": "Zesty Clam Meat",
+          "quantity": 3
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 2545,
+      "name": "Cooked Crab Claw",
+      "creates": {
+        "item_id": 2682,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 85,
+        "yellow": 125,
+        "green": 145,
+        "gray": 165
+      },
+      "learned_at": 85,
+      "source": [
+        2,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2675,
+          "name": "Crawler Claw",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 18239,
+      "name": "Cooked Glossy Mightfish",
+      "creates": {
+        "item_id": 13927,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 265,
+        "green": 285,
+        "gray": 305
+      },
+      "learned_at": 225,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13754,
+          "name": "Raw Glossy Mightfish",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1262978,
+      "name": "Cookie's Feast",
+      "creates": {
+        "item_id": 279957,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 140,
+        "yellow": 140,
+        "green": 142,
+        "gray": 145
+      },
+      "learned_at": 140,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12037,
+          "name": "Mystery Meat",
+          "quantity": 2
+        },
+        {
+          "item_id": 12204,
+          "name": "Heavy Kodo Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2541,
+      "name": "Coyote Steak",
+      "creates": {
+        "item_id": 2684,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 50,
+        "yellow": 90,
+        "green": 110,
+        "gray": 130
+      },
+      "learned_at": 50,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2673,
+          "name": "Coyote Meat",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2544,
+      "name": "Crab Cake",
+      "creates": {
+        "item_id": 2683,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 75,
+        "yellow": 115,
+        "green": 135,
+        "gray": 155
+      },
+      "learned_at": 75,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2674,
+          "name": "Crawler Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 15935,
+      "name": "Crispy Bat Wing",
+      "creates": {
+        "item_id": 12224,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 1,
+        "yellow": 45,
+        "green": 65,
+        "gray": 85
+      },
+      "learned_at": 1,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12223,
+          "name": "Meaty Bat Wing",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 6418,
+      "name": "Crispy Lizard Tail",
+      "creates": {
+        "item_id": 5479,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 100,
+        "yellow": 140,
+        "green": 160,
+        "gray": 180
+      },
+      "learned_at": 100,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5470,
+          "name": "Thunder Lizard Tail",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3373,
+      "name": "Crocolisk Gumbo",
+      "creates": {
+        "item_id": 3664,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 120,
+        "yellow": 160,
+        "green": 180,
+        "gray": 200
+      },
+      "learned_at": 120,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3667,
+          "name": "Tender Crocolisk Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3370,
+      "name": "Crocolisk Steak",
+      "creates": {
+        "item_id": 3662,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 80,
+        "yellow": 120,
+        "green": 140,
+        "gray": 160
+      },
+      "learned_at": 80,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2924,
+          "name": "Crocolisk Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3376,
+      "name": "Curiously Tasty Omelet",
+      "creates": {
+        "item_id": 3665,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 130,
+        "yellow": 170,
+        "green": 190,
+        "gray": 210
+      },
+      "learned_at": 130,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3685,
+          "name": "Raptor Egg",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 470359,
+      "name": "Darkclaw Bisque",
+      "creates": {
+        "item_id": 232436,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 325,
+        "green": 345,
+        "gray": 365
+      },
+      "learned_at": 300,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13888,
+          "name": "Darkclaw Lobster",
+          "quantity": 1
+        },
+        {
+          "item_id": 227813,
+          "name": "Drinkable Stratholme Holy Water",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 6417,
+      "name": "Dig Rat Stew",
+      "creates": {
+        "item_id": 5478,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 90,
+        "yellow": 130,
+        "green": 150,
+        "gray": 170
+      },
+      "learned_at": 90,
+      "source": [
+        4
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5051,
+          "name": "Dig Rat",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 25659,
+      "name": "Dirge's Kickin' Chimaerok Chops",
+      "creates": {
+        "item_id": 21023,
+        "min_qty": 5,
+        "max_qty": 5
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 325,
+        "green": 345,
+        "gray": 365
+      },
+      "learned_at": 300,
+      "source": [
+        4
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        },
+        {
+          "item_id": 9061,
+          "name": "Goblin Rocket Fuel",
+          "quantity": 1
+        },
+        {
+          "item_id": 8150,
+          "name": "Deeprock Salt",
+          "quantity": 1
+        },
+        {
+          "item_id": 21024,
+          "name": "Chimaerok Tenderloin",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 15906,
+      "name": "Dragonbreath Chili",
+      "creates": {
+        "item_id": 12217,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 200,
+        "yellow": 240,
+        "green": 260,
+        "gray": 280
+      },
+      "learned_at": 200,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12037,
+          "name": "Mystery Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 4402,
+          "name": "Small Flame Sac",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2546,
+      "name": "Dry Pork Ribs",
+      "creates": {
+        "item_id": 2687,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 80,
+        "yellow": 120,
+        "green": 140,
+        "gray": 160
+      },
+      "learned_at": 80,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2677,
+          "name": "Boar Ribs",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 21144,
+      "name": "Egg Nog",
+      "creates": {
+        "item_id": 17198,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 35,
+        "yellow": 75,
+        "green": 95,
+        "gray": 115
+      },
+      "learned_at": 35,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6889,
+          "name": "Small Egg",
+          "quantity": 1
+        },
+        {
+          "item_id": 1179,
+          "name": "Ice Cold Milk",
+          "quantity": 1
+        },
+        {
+          "item_id": 17196,
+          "name": "Holiday Spirits",
+          "quantity": 1
+        },
+        {
+          "item_id": 17194,
+          "name": "Holiday Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1291341,
+      "name": "Expert Campfire",
+      "creates": {
+        "item_id": 279974,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 200,
+        "yellow": 200,
+        "green": 212,
+        "gray": 225
+      },
+      "learned_at": 200,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 272941,
+          "name": "Thick Logs",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1225759,
+      "name": "Filet o' Flank",
+      "creates": {
+        "item_id": 238638,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 260,
+        "green": 270,
+        "gray": 280
+      },
+      "learned_at": 250,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12203,
+          "name": "Red Wolf Meat",
+          "quantity": 2
+        },
+        {
+          "item_id": 239016,
+          "name": "Holy Salts",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 18241,
+      "name": "Filet of Redgill",
+      "creates": {
+        "item_id": 13930,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 265,
+        "green": 285,
+        "gray": 305
+      },
+      "learned_at": 225,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13758,
+          "name": "Raw Redgill",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 6415,
+      "name": "Fillet of Frenzy",
+      "creates": {
+        "item_id": 5476,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 50,
+        "yellow": 90,
+        "green": 110,
+        "gray": 130
+      },
+      "learned_at": 50,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5468,
+          "name": "Soft Frenzy Flesh",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250146,
+      "name": "Flank au Poivre",
+      "creates": {
+        "item_id": 250069,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 285,
+        "green": 300,
+        "gray": 315
+      },
+      "learned_at": 275,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12203,
+          "name": "Red Wolf Meat",
+          "quantity": 3
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 7213,
+      "name": "Giant Clam Scorcho",
+      "creates": {
+        "item_id": 6038,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 215,
+        "green": 235,
+        "gray": 255
+      },
+      "learned_at": 175,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4655,
+          "name": "Giant Clam Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250155,
+      "name": "Giant Scrambled Eggs",
+      "creates": {
+        "item_id": 250078,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 195,
+        "green": 207,
+        "gray": 220
+      },
+      "learned_at": 175,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12207,
+          "name": "Giant Egg",
+          "quantity": 2
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 21143,
+      "name": "Gingerbread Cookie",
+      "creates": {
+        "item_id": 17197,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 1,
+        "yellow": 45,
+        "green": 65,
+        "gray": 85
+      },
+      "learned_at": 1,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6889,
+          "name": "Small Egg",
+          "quantity": 1
+        },
+        {
+          "item_id": 17194,
+          "name": "Holiday Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 6500,
+      "name": "Goblin Deviled Clams",
+      "creates": {
+        "item_id": 5527,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 125,
+        "yellow": 165,
+        "green": 185,
+        "gray": 205
+      },
+      "learned_at": 125,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5504,
+          "name": "Tangy Clam Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 13028,
+      "name": "Goldthorn Tea",
+      "creates": {
+        "item_id": 10841,
+        "min_qty": 4,
+        "max_qty": 4
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 215,
+        "green": 235,
+        "gray": 255
+      },
+      "learned_at": 175,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 159,
+          "name": "Refreshing Spring Water",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3377,
+      "name": "Gooey Spider Cake",
+      "creates": {
+        "item_id": 3666,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 110,
+        "yellow": 150,
+        "green": 170,
+        "gray": 190
+      },
+      "learned_at": 110,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2251,
+          "name": "Gooey Spider Leg",
+          "quantity": 2
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2542,
+      "name": "Goretusk Liver Pie",
+      "creates": {
+        "item_id": 724,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 50,
+        "yellow": 90,
+        "green": 110,
+        "gray": 130
+      },
+      "learned_at": 50,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 723,
+          "name": "Goretusk Liver",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1225763,
+      "name": "Grand Lobster Banquet",
+      "creates": {
+        "item_id": 238642,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 280,
+        "yellow": 290,
+        "green": 300,
+        "gray": 310
+      },
+      "learned_at": 280,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13888,
+          "name": "Darkclaw Lobster",
+          "quantity": 12
+        },
+        {
+          "item_id": 3712,
+          "name": "Turtle Meat",
+          "quantity": 4
+        },
+        {
+          "item_id": 3404,
+          "name": "Buzzard Wing",
+          "quantity": 3
+        },
+        {
+          "item_id": 239017,
+          "name": "Exquisite Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 18240,
+      "name": "Grilled Squid",
+      "creates": {
+        "item_id": 13928,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 240,
+        "yellow": 280,
+        "green": 300,
+        "gray": 320
+      },
+      "learned_at": 240,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13755,
+          "name": "Raw Winter Squid",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 24418,
+      "name": "Heavy Crocolisk Stew",
+      "creates": {
+        "item_id": 20074,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 150,
+        "yellow": 160,
+        "green": 180,
+        "gray": 200
+      },
+      "learned_at": 150,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3667,
+          "name": "Tender Crocolisk Meat",
+          "quantity": 2
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 15910,
+      "name": "Heavy Kodo Stew",
+      "creates": {
+        "item_id": 12215,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 200,
+        "yellow": 240,
+        "green": 260,
+        "gray": 280
+      },
+      "learned_at": 200,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12204,
+          "name": "Heavy Kodo Meat",
+          "quantity": 2
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        },
+        {
+          "item_id": 159,
+          "name": "Refreshing Spring Water",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 8604,
+      "name": "Herb Baked Egg",
+      "creates": {
+        "item_id": 6888,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 1,
+        "yellow": 45,
+        "green": 65,
+        "gray": 85
+      },
+      "learned_at": 1,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6889,
+          "name": "Small Egg",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3398,
+      "name": "Hot Lion Chops",
+      "creates": {
+        "item_id": 3727,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 125,
+        "yellow": 175,
+        "green": 195,
+        "gray": 215
+      },
+      "learned_at": 125,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3731,
+          "name": "Lion Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 18242,
+      "name": "Hot Smoked Bass",
+      "creates": {
+        "item_id": 13929,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 240,
+        "yellow": 280,
+        "green": 300,
+        "gray": 320
+      },
+      "learned_at": 240,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13756,
+          "name": "Raw Summer Bass",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 15856,
+      "name": "Hot Wolf Ribs",
+      "creates": {
+        "item_id": 13851,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 215,
+        "green": 235,
+        "gray": 255
+      },
+      "learned_at": 175,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12203,
+          "name": "Red Wolf Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1263067,
+      "name": "Iron Oven",
+      "creates": {
+        "item_id": 279982,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 300,
+        "green": 300,
+        "gray": 300
+      },
+      "learned_at": 300,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 10284,
+          "name": "Simple Flour",
+          "quantity": 10
+        },
+        {
+          "item_id": 159,
+          "name": "Refreshing Spring Water",
+          "quantity": 5
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 1283400,
+      "name": "Journeyman Campfire",
+      "creates": {
+        "item_id": 279961,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 90,
+        "yellow": 90,
+        "green": 115,
+        "gray": 140
+      },
+      "learned_at": 90,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 15861,
+      "name": "Jungle Stew",
+      "creates": {
+        "item_id": 12212,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 215,
+        "green": 235,
+        "gray": 255
+      },
+      "learned_at": 175,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12202,
+          "name": "Tiger Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 159,
+          "name": "Refreshing Spring Water",
+          "quantity": 1
+        },
+        {
+          "item_id": 4536,
+          "name": "Shiny Red Apple",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 6412,
+      "name": "Kaldorei Spider Kabob",
+      "creates": {
+        "item_id": 5472,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 10,
+        "yellow": 50,
+        "green": 70,
+        "gray": 90
+      },
+      "learned_at": 10,
+      "source": [
+        4
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5465,
+          "name": "Small Spider Leg",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 6419,
+      "name": "Lean Venison",
+      "creates": {
+        "item_id": 5480,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 110,
+        "yellow": 150,
+        "green": 170,
+        "gray": 190
+      },
+      "learned_at": 110,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5471,
+          "name": "Stag Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 15853,
+      "name": "Lean Wolf Steak",
+      "creates": {
+        "item_id": 12209,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 125,
+        "yellow": 165,
+        "green": 185,
+        "gray": 205
+      },
+      "learned_at": 125,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1015,
+          "name": "Lean Wolf Flank",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 18245,
+      "name": "Lobster Stew",
+      "creates": {
+        "item_id": 13933,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 315,
+        "green": 335,
+        "gray": 355
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13888,
+          "name": "Darkclaw Lobster",
+          "quantity": 1
+        },
+        {
+          "item_id": 159,
+          "name": "Refreshing Spring Water",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7754,
+      "name": "Loch Frenzy Delight",
+      "creates": {
+        "item_id": 6316,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 50,
+        "yellow": 90,
+        "green": 110,
+        "gray": 130
+      },
+      "learned_at": 50,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6317,
+          "name": "Raw Loch Frenzy",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7753,
+      "name": "Longjaw Mud Snapper",
+      "creates": {
+        "item_id": 4592,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 50,
+        "yellow": 90,
+        "green": 110,
+        "gray": 130
+      },
+      "learned_at": 50,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6289,
+          "name": "Raw Longjaw Mud Snapper",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 18246,
+      "name": "Mightfish Steak",
+      "creates": {
+        "item_id": 13934,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 315,
+        "green": 335,
+        "gray": 355
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13893,
+          "name": "Large Raw Mightfish",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 20916,
+      "name": "Mithril Headed Trout",
+      "creates": {
+        "item_id": 8364,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 215,
+        "green": 235,
+        "gray": 255
+      },
+      "learned_at": 175,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8365,
+          "name": "Raw Mithril Head Trout",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 15933,
+      "name": "Monster Omelet",
+      "creates": {
+        "item_id": 12218,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 265,
+        "green": 285,
+        "gray": 305
+      },
+      "learned_at": 225,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12207,
+          "name": "Giant Egg",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1249965,
+      "name": "Mrrggl Smrrthle",
+      "creates": {
+        "item_id": 249873,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 125,
+        "yellow": 135,
+        "green": 140,
+        "gray": 145
+      },
+      "learned_at": 125,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1205,
+          "name": "Melon Juice",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 2
+        },
+        {
+          "item_id": 1468,
+          "name": "Murloc Fin",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3372,
+      "name": "Murloc Fin Soup",
+      "creates": {
+        "item_id": 3663,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 90,
+        "yellow": 130,
+        "green": 150,
+        "gray": 170
+      },
+      "learned_at": 90,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1468,
+          "name": "Murloc Fin",
+          "quantity": 2
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 15865,
+      "name": "Mystery Stew",
+      "creates": {
+        "item_id": 12214,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 215,
+        "green": 235,
+        "gray": 255
+      },
+      "learned_at": 175,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12037,
+          "name": "Mystery Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2596,
+          "name": "Skin of Dwarven Stout",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 18243,
+      "name": "Nightfin Soup",
+      "creates": {
+        "item_id": 13931,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 290,
+        "green": 310,
+        "gray": 330
+      },
+      "learned_at": 250,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13759,
+          "name": "Raw Nightfin Snapper",
+          "quantity": 1
+        },
+        {
+          "item_id": 159,
+          "name": "Refreshing Spring Water",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249957,
+      "name": "Peace Tea",
+      "creates": {
+        "item_id": 249865,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 25,
+        "yellow": 25,
+        "green": 45,
+        "gray": 65
+      },
+      "learned_at": 25,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 159,
+          "name": "Refreshing Spring Water",
+          "quantity": 1
+        },
+        {
+          "item_id": 2447,
+          "name": "Peacebloom",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1270635,
+      "name": "Pincer Bites",
+      "creates": {
+        "item_id": 263512,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 35,
+        "green": 42,
+        "gray": 55
+      },
+      "learned_at": 35,
+      "source": [
+        4
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2675,
+          "name": "Crawler Claw",
+          "quantity": 1
+        },
+        {
+          "item_id": 10284,
+          "name": "Simple Flour",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1295834,
+      "name": "Plain Ol' Paletusk",
+      "creates": {
+        "item_id": 274976,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 185,
+        "yellow": 200,
+        "green": 215,
+        "gray": 230
+      },
+      "learned_at": 185,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 769,
+          "name": "Chunk of Boar Meat",
+          "quantity": 2
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1319313,
+      "name": "Plated Armorfish",
+      "creates": {
+        "item_id": 286152,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 245,
+        "green": 250,
+        "gray": 255
+      },
+      "learned_at": 225,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13890,
+          "name": "Raw Plated Armorfish",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 18244,
+      "name": "Poached Sunscale Salmon",
+      "creates": {
+        "item_id": 13932,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 290,
+        "green": 310,
+        "gray": 330
+      },
+      "learned_at": 250,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13760,
+          "name": "Raw Sunscale Salmon",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250152,
+      "name": "Prehistoric Pulled Raptor",
+      "creates": {
+        "item_id": 250075,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 275,
+        "green": 280,
+        "gray": 300
+      },
+      "learned_at": 275,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12184,
+          "name": "Raptor Flesh",
+          "quantity": 3
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 1225758,
+      "name": "Prowler Steak",
+      "creates": {
+        "item_id": 238637,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 260,
+        "green": 270,
+        "gray": 280
+      },
+      "learned_at": 250,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12202,
+          "name": "Tiger Meat",
+          "quantity": 2
+        },
+        {
+          "item_id": 239016,
+          "name": "Holy Salts",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250150,
+      "name": "Raging Raptor Ribs",
+      "creates": {
+        "item_id": 250073,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 0,
+        "green": 0,
+        "gray": 275
+      },
+      "learned_at": 275,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12184,
+          "name": "Raptor Flesh",
+          "quantity": 2
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 7827,
+      "name": "Rainbow Fin Albacore",
+      "creates": {
+        "item_id": 5095,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 50,
+        "yellow": 90,
+        "green": 110,
+        "gray": 130
+      },
+      "learned_at": 50,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6361,
+          "name": "Raw Rainbow Fin Albacore",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250153,
+      "name": "Raptor Rouladen",
+      "creates": {
+        "item_id": 250076,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 225,
+        "green": 237,
+        "gray": 250
+      },
+      "learned_at": 225,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12184,
+          "name": "Raptor Flesh",
+          "quantity": 2
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 2547,
+      "name": "Redridge Goulash",
+      "creates": {
+        "item_id": 1082,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 100,
+        "yellow": 135,
+        "green": 155,
+        "gray": 175
+      },
+      "learned_at": 100,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1081,
+          "name": "Crisp Spider Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 1080,
+          "name": "Tough Condor Meat",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 15855,
+      "name": "Roast Raptor",
+      "creates": {
+        "item_id": 12210,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 215,
+        "green": 235,
+        "gray": 255
+      },
+      "learned_at": 175,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12184,
+          "name": "Raptor Flesh",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2540,
+      "name": "Roasted Boar Meat",
+      "creates": {
+        "item_id": 2681,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 45,
+        "green": 65,
+        "gray": 85
+      },
+      "learned_at": 0,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 769,
+          "name": "Chunk of Boar Meat",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 6414,
+      "name": "Roasted Kodo Meat",
+      "creates": {
+        "item_id": 5474,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 35,
+        "yellow": 75,
+        "green": 95,
+        "gray": 115
+      },
+      "learned_at": 35,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5467,
+          "name": "Kodo Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7828,
+      "name": "Rockscale Cod",
+      "creates": {
+        "item_id": 4594,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 190,
+        "green": 210,
+        "gray": 230
+      },
+      "learned_at": 175,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6362,
+          "name": "Raw Rockscale Cod",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249959,
+      "name": "Root Tea",
+      "creates": {
+        "item_id": 249867,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 125,
+        "yellow": 155,
+        "green": 170,
+        "gray": 185
+      },
+      "learned_at": 125,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1205,
+          "name": "Melon Juice",
+          "quantity": 1
+        },
+        {
+          "item_id": 3357,
+          "name": "Liferoot",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1249958,
+      "name": "Royal Tea",
+      "creates": {
+        "item_id": 249866,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 100,
+        "green": 105,
+        "gray": 125
+      },
+      "learned_at": 100,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1179,
+          "name": "Ice Cold Milk",
+          "quantity": 1
+        },
+        {
+          "item_id": 785,
+          "name": "Mageroyal",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 22761,
+      "name": "Runn Tum Tuber Surprise",
+      "creates": {
+        "item_id": 18254,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 315,
+        "green": 335,
+        "gray": 355
+      },
+      "learned_at": 275,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 18255,
+          "name": "Runn Tum Tuber",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249962,
+      "name": "Sage's Tea",
+      "creates": {
+        "item_id": 249870,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 260,
+        "green": 275,
+        "gray": 290
+      },
+      "learned_at": 250,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8766,
+          "name": "Morning Glory Dew",
+          "quantity": 1
+        },
+        {
+          "item_id": 13465,
+          "name": "Mountain Silversage",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 25954,
+      "name": "Sagefish Delight",
+      "creates": {
+        "item_id": 21217,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 215,
+        "green": 235,
+        "gray": 255
+      },
+      "learned_at": 175,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 21153,
+          "name": "Raw Greater Sagefish",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 8238,
+      "name": "Savory Deviate Delight",
+      "creates": {
+        "item_id": 6657,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 85,
+        "yellow": 125,
+        "green": 145,
+        "gray": 165
+      },
+      "learned_at": 85,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6522,
+          "name": "Deviate Fish",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250142,
+      "name": "Savory Stag Sliders",
+      "creates": {
+        "item_id": 250065,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 225,
+        "green": 240,
+        "gray": 255
+      },
+      "learned_at": 225,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5471,
+          "name": "Stag Meat",
+          "quantity": 2
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 1250145,
+      "name": "Savory Turtle Stew",
+      "creates": {
+        "item_id": 250068,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 275,
+        "green": 280,
+        "gray": 300
+      },
+      "learned_at": 275,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3712,
+          "name": "Turtle Meat",
+          "quantity": 3
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 1252566,
+      "name": "Savory Whimsyfin Delight",
+      "creates": {
+        "item_id": 251525,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 85,
+        "yellow": 125,
+        "green": 145,
+        "gray": 165
+      },
+      "learned_at": 85,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 251524,
+          "name": "Whimsyfin",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 6413,
+      "name": "Scorpid Surprise",
+      "creates": {
+        "item_id": 5473,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 20,
+        "yellow": 60,
+        "green": 80,
+        "gray": 100
+      },
+      "learned_at": 20,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5466,
+          "name": "Scorpid Stinger",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2549,
+      "name": "Seasoned Wolf Kabob",
+      "creates": {
+        "item_id": 1017,
+        "min_qty": 3,
+        "max_qty": 3
+      },
+      "skill_ranges": {
+        "orange": 100,
+        "yellow": 140,
+        "green": 160,
+        "gray": 180
+      },
+      "learned_at": 100,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1015,
+          "name": "Lean Wolf Flank",
+          "quantity": 2
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1270633,
+      "name": "Skywall Souffle",
+      "creates": {
+        "item_id": 263509,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 25,
+        "green": 32,
+        "gray": 45
+      },
+      "learned_at": 25,
+      "source": [
+        4
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6889,
+          "name": "Small Egg",
+          "quantity": 2
+        },
+        {
+          "item_id": 10284,
+          "name": "Simple Flour",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249964,
+      "name": "Slimy Smoothie",
+      "creates": {
+        "item_id": 249872,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 0,
+        "green": 0,
+        "gray": 100
+      },
+      "learned_at": 100,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1179,
+          "name": "Ice Cold Milk",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 2
+        },
+        {
+          "item_id": 3174,
+          "name": "Spider Ichor",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7752,
+      "name": "Slitherskin Mackerel",
+      "creates": {
+        "item_id": 787,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 1,
+        "yellow": 45,
+        "green": 65,
+        "gray": 85
+      },
+      "learned_at": 1,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6303,
+          "name": "Raw Slitherskin Mackerel",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 8607,
+      "name": "Smoked Bear Meat",
+      "creates": {
+        "item_id": 6890,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 40,
+        "yellow": 80,
+        "green": 100,
+        "gray": 120
+      },
+      "learned_at": 40,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3173,
+          "name": "Bear Meat",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 24801,
+      "name": "Smoked Desert Dumplings",
+      "creates": {
+        "item_id": 20452,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 285,
+        "yellow": 325,
+        "green": 345,
+        "gray": 365
+      },
+      "learned_at": 285,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 20424,
+          "name": "Sandworm Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 470370,
+      "name": "Smoked Redgill",
+      "creates": {
+        "item_id": 232438,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 325,
+        "green": 345,
+        "gray": 365
+      },
+      "learned_at": 300,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13758,
+          "name": "Raw Redgill",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 25704,
+      "name": "Smoked Sagefish",
+      "creates": {
+        "item_id": 21072,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 80,
+        "yellow": 120,
+        "green": 140,
+        "gray": 160
+      },
+      "learned_at": 80,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 21071,
+          "name": "Raw Sagefish",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250143,
+      "name": "Soaring Pamplona",
+      "creates": {
+        "item_id": 250066,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 275,
+        "green": 292,
+        "gray": 310
+      },
+      "learned_at": 275,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3404,
+          "name": "Buzzard Wing",
+          "quantity": 3
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 3400,
+      "name": "Soothing Turtle Bisque",
+      "creates": {
+        "item_id": 3729,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 215,
+        "green": 235,
+        "gray": 255
+      },
+      "learned_at": 175,
+      "source": [
+        4
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3712,
+          "name": "Turtle Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1225762,
+      "name": "Specklefin Feast",
+      "creates": {
+        "item_id": 238641,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 280,
+        "yellow": 290,
+        "green": 300,
+        "gray": 310
+      },
+      "learned_at": 280,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4603,
+          "name": "Raw Spotted Yellowtail",
+          "quantity": 12
+        },
+        {
+          "item_id": 12184,
+          "name": "Raptor Flesh",
+          "quantity": 4
+        },
+        {
+          "item_id": 6362,
+          "name": "Raw Rockscale Cod",
+          "quantity": 3
+        },
+        {
+          "item_id": 239017,
+          "name": "Exquisite Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 15915,
+      "name": "Spiced Chili Crab",
+      "creates": {
+        "item_id": 12216,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 265,
+        "green": 285,
+        "gray": 305
+      },
+      "learned_at": 225,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12206,
+          "name": "Tender Crab Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 2539,
+      "name": "Spiced Wolf Meat",
+      "creates": {
+        "item_id": 2680,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 10,
+        "yellow": 50,
+        "green": 70,
+        "gray": 90
+      },
+      "learned_at": 10,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2672,
+          "name": "Stringy Wolf Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249967,
+      "name": "Spicy Smoothie",
+      "creates": {
+        "item_id": 249875,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 200,
+        "yellow": 215,
+        "green": 220,
+        "gray": 225
+      },
+      "learned_at": 200,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1645,
+          "name": "Moonberry Juice",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 3
+        },
+        {
+          "item_id": 4402,
+          "name": "Small Flame Sac",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 21175,
+      "name": "Spider Sausage",
+      "creates": {
+        "item_id": 17222,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 200,
+        "yellow": 240,
+        "green": 260,
+        "gray": 280
+      },
+      "learned_at": 200,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12205,
+          "name": "White Spider Meat",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1247741,
+      "name": "Spinefin Halibut",
+      "creates": {
+        "item_id": 8957,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 210,
+        "green": 215,
+        "gray": 220
+      },
+      "learned_at": 210,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8959,
+          "name": "Raw Spinefin Halibut",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 18238,
+      "name": "Spotted Yellowtail",
+      "creates": {
+        "item_id": 6887,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 265,
+        "green": 285,
+        "gray": 305
+      },
+      "learned_at": 225,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4603,
+          "name": "Raw Spotted Yellowtail",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250148,
+      "name": "Steaming Stag Steak",
+      "creates": {
+        "item_id": 250071,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 275,
+        "green": 280,
+        "gray": 300
+      },
+      "learned_at": 275,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5471,
+          "name": "Stag Meat",
+          "quantity": 3
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 6416,
+      "name": "Strider Stew",
+      "creates": {
+        "item_id": 5477,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 50,
+        "yellow": 90,
+        "green": 110,
+        "gray": 130
+      },
+      "learned_at": 50,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5469,
+          "name": "Strider Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 4536,
+          "name": "Shiny Red Apple",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2548,
+      "name": "Succulent Pork Ribs",
+      "creates": {
+        "item_id": 2685,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 110,
+        "yellow": 130,
+        "green": 150,
+        "gray": 170
+      },
+      "learned_at": 110,
+      "source": [
+        2,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2677,
+          "name": "Boar Ribs",
+          "quantity": 2
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249961,
+      "name": "Sunny Tea",
+      "creates": {
+        "item_id": 249869,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 200,
+        "yellow": 220,
+        "green": 235,
+        "gray": 250
+      },
+      "learned_at": 200,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1645,
+          "name": "Moonberry Juice",
+          "quantity": 1
+        },
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1225760,
+      "name": "Sunrise Omelette",
+      "creates": {
+        "item_id": 238639,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 260,
+        "green": 270,
+        "gray": 280
+      },
+      "learned_at": 250,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12207,
+          "name": "Giant Egg",
+          "quantity": 2
+        },
+        {
+          "item_id": 239016,
+          "name": "Holy Salts",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1294014,
+      "name": "Sweetpaw Jam",
+      "creates": {
+        "item_id": 267341,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 280,
+        "green": 282,
+        "gray": 285
+      },
+      "learned_at": 275,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 249796,
+          "name": "Hyjal Berries",
+          "quantity": 3
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250149,
+      "name": "Swiftstrike Steak",
+      "creates": {
+        "item_id": 250072,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 0,
+        "green": 0,
+        "gray": 275
+      },
+      "learned_at": 275,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12202,
+          "name": "Tiger Meat",
+          "quantity": 3
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 3399,
+      "name": "Tasty Lion Steak",
+      "creates": {
+        "item_id": 3728,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 150,
+        "yellow": 190,
+        "green": 210,
+        "gray": 230
+      },
+      "learned_at": 150,
+      "source": [
+        4
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3731,
+          "name": "Lion Meat",
+          "quantity": 2
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250156,
+      "name": "Tasty Raptor Bites",
+      "creates": {
+        "item_id": 250079,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 25,
+        "yellow": 35,
+        "green": 55,
+        "gray": 75
+      },
+      "learned_at": 25,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3685,
+          "name": "Raptor Egg",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 22480,
+      "name": "Tender Wolf Steak",
+      "creates": {
+        "item_id": 18045,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 265,
+        "green": 285,
+        "gray": 305
+      },
+      "learned_at": 225,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12208,
+          "name": "Tender Wolf Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9513,
+      "name": "Thistle Tea",
+      "creates": {
+        "item_id": 7676,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 60,
+        "yellow": 100,
+        "green": 120,
+        "gray": 140
+      },
+      "learned_at": 60,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2452,
+          "name": "Swiftthistle",
+          "quantity": 1
+        },
+        {
+          "item_id": 159,
+          "name": "Refreshing Spring Water",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249960,
+      "name": "Triage Tea",
+      "creates": {
+        "item_id": 249868,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 180,
+        "yellow": 195,
+        "green": 215,
+        "gray": 235
+      },
+      "learned_at": 180,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1708,
+          "name": "Sweet Nectar",
+          "quantity": 1
+        },
+        {
+          "item_id": 3818,
+          "name": "Fadeleaf",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1250154,
+      "name": "Twice-Spiced Raptor Slice",
+      "creates": {
+        "item_id": 250077,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 75,
+        "yellow": 115,
+        "green": 132,
+        "gray": 150
+      },
+      "learned_at": 75,
+      "source": [
+        4
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12184,
+          "name": "Raptor Flesh",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 20626,
+      "name": "Undermine Clam Chowder",
+      "creates": {
+        "item_id": 16766,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 265,
+        "green": 285,
+        "gray": 305
+      },
+      "learned_at": 225,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7974,
+          "name": "Zesty Clam Meat",
+          "quantity": 2
+        },
+        {
+          "item_id": 2692,
+          "name": "Hot Spices",
+          "quantity": 1
+        },
+        {
+          "item_id": 1179,
+          "name": "Ice Cold Milk",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249963,
+      "name": "Venomous Smoothie",
+      "creates": {
+        "item_id": 249871,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 0,
+        "green": 0,
+        "gray": 25
+      },
+      "learned_at": 25,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 159,
+          "name": "Refreshing Spring Water",
+          "quantity": 1
+        },
+        {
+          "item_id": 2678,
+          "name": "Mild Spices",
+          "quantity": 1
+        },
+        {
+          "item_id": 1475,
+          "name": "Small Venom Sac",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2543,
+      "name": "Westfall Stew",
+      "creates": {
+        "item_id": 733,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 75,
+        "yellow": 115,
+        "green": 135,
+        "gray": 155
+      },
+      "learned_at": 75,
+      "source": [
+        4,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 729,
+          "name": "Stringy Vulture Meat",
+          "quantity": 1
+        },
+        {
+          "item_id": 730,
+          "name": "Murloc Eye",
+          "quantity": 1
+        },
+        {
+          "item_id": 731,
+          "name": "Goretusk Snout",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249968,
+      "name": "Wicked Smoothie",
+      "creates": {
+        "item_id": 249876,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 0,
+        "green": 250,
+        "gray": 250
+      },
+      "learned_at": 250,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8766,
+          "name": "Morning Glory Dew",
+          "quantity": 1
+        },
+        {
+          "item_id": 3713,
+          "name": "Soothing Spices",
+          "quantity": 4
+        },
+        {
+          "item_id": 8146,
+          "name": "Wicked Claw",
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "items": {
+    "7994": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "9367": {
+      "name": "Plans: Golden Scale Gauntlets",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "6735": {
+      "name": "Plans: Ironforge Breastplate",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "2889": {
+      "name": "Recipe: Beer Basted Boar Ribs",
+      "sell_price": 60,
+      "buy_price": 240
+    },
+    "3679": {
+      "name": "Recipe: Blood Sausage",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "5528": {
+      "name": "Recipe: Clam Chowder",
+      "sell_price": 200,
+      "buy_price": 800
+    },
+    "3681": {
+      "name": "Recipe: Crocolisk Gumbo",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "3678": {
+      "name": "Recipe: Crocolisk Steak",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "3683": {
+      "name": "Recipe: Gooey Spider Cake",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "2697": {
+      "name": "Recipe: Goretusk Liver Pie",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "6329": {
+      "name": "Recipe: Loch Frenzy Delight",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "3680": {
+      "name": "Recipe: Murloc Fin Soup",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "2699": {
+      "name": "Recipe: Redridge Goulash",
+      "sell_price": 200,
+      "buy_price": 800
+    },
+    "2701": {
+      "name": "Recipe: Seasoned Wolf Kabob",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "3736": {
+      "name": "Recipe: Tasty Lion Steak",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "728": {
+      "name": "Recipe: Westfall Stew",
+      "sell_price": 50,
+      "buy_price": 200
+    },
+    "18649": {
+      "name": "Schematic: Blue Firework",
+      "sell_price": 450,
+      "buy_price": 1800
+    },
+    "7289": {
+      "name": "Pattern: Black Whelp Cloak",
+      "sell_price": 162,
+      "buy_price": 650
+    },
+    "20576": {
+      "name": "Pattern: Black Whelp Tunic",
+      "sell_price": 350,
+      "buy_price": 1400
+    },
+    "7361": {
+      "name": "Pattern: Herbalist's Gloves",
+      "sell_price": 450,
+      "buy_price": 1800
+    },
+    "6710": {
+      "name": "Pattern: Moonglow Vest",
+      "sell_price": 137,
+      "buy_price": 0
+    },
+    "13288": {
+      "name": "Pattern: Raptor Hide Belt",
+      "sell_price": 625,
+      "buy_price": 2500
+    },
+    "7290": {
+      "name": "Pattern: Red Whelp Gloves",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "14627": {
+      "name": "Pattern: Bright Yellow Shirt",
+      "sell_price": 200,
+      "buy_price": 800
+    },
+    "4597": {
+      "name": "Recipe: Minor Discolored Healing Potion",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "7981": {
+      "name": "Plans: Barbaric Iron Boots",
+      "sell_price": 1100,
+      "buy_price": 0
+    },
+    "7979": {
+      "name": "Plans: Barbaric Iron Breastplate",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "7982": {
+      "name": "Plans: Barbaric Iron Gloves",
+      "sell_price": 1100,
+      "buy_price": 0
+    },
+    "7980": {
+      "name": "Plans: Barbaric Iron Helm",
+      "sell_price": 850,
+      "buy_price": 0
+    },
+    "7978": {
+      "name": "Plans: Barbaric Iron Shoulders",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "12226": {
+      "name": "Recipe: Crispy Bat Wing",
+      "sell_price": 6,
+      "buy_price": 25
+    },
+    "5488": {
+      "name": "Recipe: Crispy Lizard Tail",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "5487": {
+      "name": "Recipe: Dig Rat Stew",
+      "sell_price": 200,
+      "buy_price": 0
+    },
+    "20075": {
+      "name": "Recipe: Heavy Crocolisk Stew",
+      "sell_price": 500,
+      "buy_price": 2000
+    },
+    "5484": {
+      "name": "Recipe: Roasted Kodo Meat",
+      "sell_price": 60,
+      "buy_price": 240
+    },
+    "5483": {
+      "name": "Recipe: Scorpid Surprise",
+      "sell_price": 35,
+      "buy_price": 140
+    },
+    "6346": {
+      "name": "Formula: Enchant Chest - Lesser Intellect",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "18647": {
+      "name": "Schematic: Red Firework",
+      "sell_price": 450,
+      "buy_price": 1800
+    },
+    "5083": {
+      "name": "Pattern: Kodo Hide Bag",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "13287": {
+      "name": "Pattern: Raptor Hide Harness",
+      "sell_price": 625,
+      "buy_price": 2500
+    },
+    "16072": {
+      "name": "Expert Cookbook",
+      "sell_price": 2500,
+      "buy_price": 10000
+    },
+    "2672": {
+      "name": "Stringy Wolf Meat",
+      "sell_price": 4,
+      "buy_price": 0
+    },
+    "2679": {
+      "name": "Charred Wolf Meat",
+      "sell_price": 5,
+      "buy_price": 0
+    },
+    "2678": {
+      "name": "Mild Spices",
+      "sell_price": 0,
+      "buy_price": 10,
+      "orgrimmar_vendor": true
+    },
+    "2680": {
+      "name": "Spiced Wolf Meat",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "769": {
+      "name": "Chunk of Boar Meat",
+      "sell_price": 3,
+      "buy_price": 0
+    },
+    "2681": {
+      "name": "Roasted Boar Meat",
+      "sell_price": 6,
+      "buy_price": 0
+    },
+    "2673": {
+      "name": "Coyote Meat",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "2684": {
+      "name": "Coyote Steak",
+      "sell_price": 20,
+      "buy_price": 0
+    },
+    "723": {
+      "name": "Goretusk Liver",
+      "sell_price": 15,
+      "buy_price": 0
+    },
+    "724": {
+      "name": "Goretusk Liver Pie",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "729": {
+      "name": "Stringy Vulture Meat",
+      "sell_price": 17,
+      "buy_price": 0
+    },
+    "730": {
+      "name": "Murloc Eye",
+      "sell_price": 16,
+      "buy_price": 0
+    },
+    "731": {
+      "name": "Goretusk Snout",
+      "sell_price": 27,
+      "buy_price": 0
+    },
+    "733": {
+      "name": "Westfall Stew",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "2674": {
+      "name": "Crawler Meat",
+      "sell_price": 12,
+      "buy_price": 0
+    },
+    "2683": {
+      "name": "Crab Cake",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "2675": {
+      "name": "Crawler Claw",
+      "sell_price": 11,
+      "buy_price": 0
+    },
+    "2682": {
+      "name": "Cooked Crab Claw",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "2677": {
+      "name": "Boar Ribs",
+      "sell_price": 15,
+      "buy_price": 0
+    },
+    "2687": {
+      "name": "Dry Pork Ribs",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "1081": {
+      "name": "Crisp Spider Meat",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "1080": {
+      "name": "Tough Condor Meat",
+      "sell_price": 78,
+      "buy_price": 0
+    },
+    "1082": {
+      "name": "Redridge Goulash",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "2692": {
+      "name": "Hot Spices",
+      "sell_price": 10,
+      "buy_price": 40,
+      "orgrimmar_vendor": true
+    },
+    "2685": {
+      "name": "Succulent Pork Ribs",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "1015": {
+      "name": "Lean Wolf Flank",
+      "sell_price": 24,
+      "buy_price": 0
+    },
+    "1017": {
+      "name": "Seasoned Wolf Kabob",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "2886": {
+      "name": "Crag Boar Rib",
+      "sell_price": 5,
+      "buy_price": 0
+    },
+    "2894": {
+      "name": "Rhapsody Malt",
+      "sell_price": 12,
+      "buy_price": 50,
+      "orgrimmar_vendor": false
+    },
+    "2888": {
+      "name": "Beer Basted Boar Ribs",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "2924": {
+      "name": "Crocolisk Meat",
+      "sell_price": 16,
+      "buy_price": 0
+    },
+    "3662": {
+      "name": "Crocolisk Steak",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "3173": {
+      "name": "Bear Meat",
+      "sell_price": 15,
+      "buy_price": 0
+    },
+    "3172": {
+      "name": "Boar Intestines",
+      "sell_price": 18,
+      "buy_price": 0
+    },
+    "3174": {
+      "name": "Spider Ichor",
+      "sell_price": 16,
+      "buy_price": 0
+    },
+    "3220": {
+      "name": "Blood Sausage",
+      "sell_price": 40,
+      "buy_price": 0
+    },
+    "1468": {
+      "name": "Murloc Fin",
+      "sell_price": 28,
+      "buy_price": 0
+    },
+    "3663": {
+      "name": "Murloc Fin Soup",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "3667": {
+      "name": "Tender Crocolisk Meat",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "3664": {
+      "name": "Crocolisk Gumbo",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "3685": {
+      "name": "Raptor Egg",
+      "sell_price": 71,
+      "buy_price": 0
+    },
+    "3665": {
+      "name": "Curiously Tasty Omelet",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "2251": {
+      "name": "Gooey Spider Leg",
+      "sell_price": 12,
+      "buy_price": 0
+    },
+    "3666": {
+      "name": "Gooey Spider Cake",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "3730": {
+      "name": "Big Bear Meat",
+      "sell_price": 45,
+      "buy_price": 0
+    },
+    "3726": {
+      "name": "Big Bear Steak",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "3731": {
+      "name": "Lion Meat",
+      "sell_price": 55,
+      "buy_price": 0
+    },
+    "3727": {
+      "name": "Hot Lion Chops",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "3713": {
+      "name": "Soothing Spices",
+      "sell_price": 40,
+      "buy_price": 160,
+      "orgrimmar_vendor": true
+    },
+    "3728": {
+      "name": "Tasty Lion Steak",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "3712": {
+      "name": "Turtle Meat",
+      "sell_price": 87,
+      "buy_price": 0
+    },
+    "3729": {
+      "name": "Soothing Turtle Bisque",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "3404": {
+      "name": "Buzzard Wing",
+      "sell_price": 181,
+      "buy_price": 0
+    },
+    "4457": {
+      "name": "Barbecued Buzzard Wing",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "5465": {
+      "name": "Small Spider Leg",
+      "sell_price": 3,
+      "buy_price": 0
+    },
+    "5472": {
+      "name": "Kaldorei Spider Kabob",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "5466": {
+      "name": "Scorpid Stinger",
+      "sell_price": 8,
+      "buy_price": 0
+    },
+    "5473": {
+      "name": "Scorpid Surprise",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "5467": {
+      "name": "Kodo Meat",
+      "sell_price": 7,
+      "buy_price": 0
+    },
+    "5474": {
+      "name": "Roasted Kodo Meat",
+      "sell_price": 9,
+      "buy_price": 0
+    },
+    "5468": {
+      "name": "Soft Frenzy Flesh",
+      "sell_price": 12,
+      "buy_price": 0
+    },
+    "5476": {
+      "name": "Fillet of Frenzy",
+      "sell_price": 3,
+      "buy_price": 0
+    },
+    "5469": {
+      "name": "Strider Meat",
+      "sell_price": 9,
+      "buy_price": 0
+    },
+    "4536": {
+      "name": "Shiny Red Apple",
+      "sell_price": 1,
+      "buy_price": 25,
+      "orgrimmar_vendor": true
+    },
+    "5477": {
+      "name": "Strider Stew",
+      "sell_price": 18,
+      "buy_price": 0
+    },
+    "5051": {
+      "name": "Dig Rat",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "5478": {
+      "name": "Dig Rat Stew",
+      "sell_price": 70,
+      "buy_price": 0
+    },
+    "5470": {
+      "name": "Thunder Lizard Tail",
+      "sell_price": 28,
+      "buy_price": 0
+    },
+    "5479": {
+      "name": "Crispy Lizard Tail",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "5471": {
+      "name": "Stag Meat",
+      "sell_price": 30,
+      "buy_price": 0
+    },
+    "5480": {
+      "name": "Lean Venison",
+      "sell_price": 95,
+      "buy_price": 0
+    },
+    "5503": {
+      "name": "Clam Meat",
+      "sell_price": 16,
+      "buy_price": 0
+    },
+    "1179": {
+      "name": "Ice Cold Milk",
+      "sell_price": 6,
+      "buy_price": 125,
+      "orgrimmar_vendor": true
+    },
+    "5526": {
+      "name": "Clam Chowder",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "5504": {
+      "name": "Tangy Clam Meat",
+      "sell_price": 22,
+      "buy_price": 0
+    },
+    "5527": {
+      "name": "Goblin Deviled Clams",
+      "sell_price": 95,
+      "buy_price": 0
+    },
+    "159": {
+      "name": "Refreshing Spring Water",
+      "sell_price": 1,
+      "buy_price": 25,
+      "orgrimmar_vendor": true
+    },
+    "5525": {
+      "name": "Boiled Clams",
+      "sell_price": 20,
+      "buy_price": 0
+    },
+    "4655": {
+      "name": "Giant Clam Meat",
+      "sell_price": 71,
+      "buy_price": 0
+    },
+    "6038": {
+      "name": "Giant Clam Scorcho",
+      "sell_price": 312,
+      "buy_price": 0
+    },
+    "6291": {
+      "name": "Raw Brilliant Smallfish",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "6290": {
+      "name": "Brilliant Smallfish",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "6303": {
+      "name": "Raw Slitherskin Mackerel",
+      "sell_price": 1,
+      "buy_price": 20,
+      "orgrimmar_vendor": false
+    },
+    "787": {
+      "name": "Slitherskin Mackerel",
+      "sell_price": 1,
+      "buy_price": 25
+    },
+    "6289": {
+      "name": "Raw Longjaw Mud Snapper",
+      "sell_price": 1,
+      "buy_price": 20,
+      "orgrimmar_vendor": false
+    },
+    "4592": {
+      "name": "Longjaw Mud Snapper",
+      "sell_price": 1,
+      "buy_price": 20
+    },
+    "6317": {
+      "name": "Raw Loch Frenzy",
+      "sell_price": 2,
+      "buy_price": 0
+    },
+    "6316": {
+      "name": "Loch Frenzy Delight",
+      "sell_price": 3,
+      "buy_price": 0
+    },
+    "6308": {
+      "name": "Raw Bristle Whisker Catfish",
+      "sell_price": 2,
+      "buy_price": 40,
+      "orgrimmar_vendor": false
+    },
+    "4593": {
+      "name": "Bristle Whisker Catfish",
+      "sell_price": 4,
+      "buy_price": 500
+    },
+    "6361": {
+      "name": "Raw Rainbow Fin Albacore",
+      "sell_price": 2,
+      "buy_price": 0
+    },
+    "5095": {
+      "name": "Rainbow Fin Albacore",
+      "sell_price": 3,
+      "buy_price": 0
+    },
+    "6362": {
+      "name": "Raw Rockscale Cod",
+      "sell_price": 4,
+      "buy_price": 80,
+      "orgrimmar_vendor": false
+    },
+    "4594": {
+      "name": "Rockscale Cod",
+      "sell_price": 6,
+      "buy_price": 1000
+    },
+    "6522": {
+      "name": "Deviate Fish",
+      "sell_price": 4,
+      "buy_price": 0
+    },
+    "6657": {
+      "name": "Savory Deviate Delight",
+      "sell_price": 5,
+      "buy_price": 0
+    },
+    "6889": {
+      "name": "Small Egg",
+      "sell_price": 4,
+      "buy_price": 0
+    },
+    "6888": {
+      "name": "Herb Baked Egg",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "6890": {
+      "name": "Smoked Bear Meat",
+      "sell_price": 6,
+      "buy_price": 0
+    },
+    "2452": {
+      "name": "Swiftthistle",
+      "sell_price": 15,
+      "buy_price": 0
+    },
+    "7676": {
+      "name": "Thistle Tea",
+      "sell_price": 30,
+      "buy_price": 0
+    },
+    "3821": {
+      "name": "Goldthorn",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "10841": {
+      "name": "Goldthorn Tea",
+      "sell_price": 85,
+      "buy_price": 0
+    },
+    "12223": {
+      "name": "Meaty Bat Wing",
+      "sell_price": 4,
+      "buy_price": 0
+    },
+    "12224": {
+      "name": "Crispy Bat Wing",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "12209": {
+      "name": "Lean Wolf Steak",
+      "sell_price": 95,
+      "buy_price": 0
+    },
+    "12184": {
+      "name": "Raptor Flesh",
+      "sell_price": 87,
+      "buy_price": 0
+    },
+    "12210": {
+      "name": "Roast Raptor",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "12203": {
+      "name": "Red Wolf Meat",
+      "sell_price": 87,
+      "buy_price": 0
+    },
+    "13851": {
+      "name": "Hot Wolf Ribs",
+      "sell_price": 312,
+      "buy_price": 0
+    },
+    "12202": {
+      "name": "Tiger Meat",
+      "sell_price": 87,
+      "buy_price": 0
+    },
+    "12212": {
+      "name": "Jungle Stew",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "12037": {
+      "name": "Mystery Meat",
+      "sell_price": 87,
+      "buy_price": 0
+    },
+    "12213": {
+      "name": "Carrion Surprise",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "2596": {
+      "name": "Skin of Dwarven Stout",
+      "sell_price": 30,
+      "buy_price": 120,
+      "orgrimmar_vendor": true
+    },
+    "12214": {
+      "name": "Mystery Stew",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "4402": {
+      "name": "Small Flame Sac",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "12217": {
+      "name": "Dragonbreath Chili",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "12204": {
+      "name": "Heavy Kodo Meat",
+      "sell_price": 112,
+      "buy_price": 0
+    },
+    "12215": {
+      "name": "Heavy Kodo Stew",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "12206": {
+      "name": "Tender Crab Meat",
+      "sell_price": 112,
+      "buy_price": 0
+    },
+    "12216": {
+      "name": "Spiced Chili Crab",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "12207": {
+      "name": "Giant Egg",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "12218": {
+      "name": "Monster Omelet",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "4470": {
+      "name": "Simple Wood",
+      "sell_price": 9,
+      "buy_price": 38,
+      "orgrimmar_vendor": true
+    },
+    "13754": {
+      "name": "Raw Glossy Mightfish",
+      "sell_price": 6,
+      "buy_price": 0
+    },
+    "13927": {
+      "name": "Cooked Glossy Mightfish",
+      "sell_price": 8,
+      "buy_price": 0
+    },
+    "4603": {
+      "name": "Raw Spotted Yellowtail",
+      "sell_price": 4,
+      "buy_price": 80,
+      "orgrimmar_vendor": false
+    },
+    "6887": {
+      "name": "Spotted Yellowtail",
+      "sell_price": 5,
+      "buy_price": 0
+    },
+    "13758": {
+      "name": "Raw Redgill",
+      "sell_price": 4,
+      "buy_price": 0
+    },
+    "13930": {
+      "name": "Filet of Redgill",
+      "sell_price": 5,
+      "buy_price": 0
+    },
+    "13755": {
+      "name": "Raw Winter Squid",
+      "sell_price": 7,
+      "buy_price": 0
+    },
+    "13928": {
+      "name": "Grilled Squid",
+      "sell_price": 8,
+      "buy_price": 0
+    },
+    "13756": {
+      "name": "Raw Summer Bass",
+      "sell_price": 9,
+      "buy_price": 0
+    },
+    "13929": {
+      "name": "Hot Smoked Bass",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "13759": {
+      "name": "Raw Nightfin Snapper",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "13931": {
+      "name": "Nightfin Soup",
+      "sell_price": 12,
+      "buy_price": 0
+    },
+    "13760": {
+      "name": "Raw Sunscale Salmon",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "13932": {
+      "name": "Poached Sunscale Salmon",
+      "sell_price": 12,
+      "buy_price": 0
+    },
+    "13888": {
+      "name": "Darkclaw Lobster",
+      "sell_price": 12,
+      "buy_price": 0
+    },
+    "13933": {
+      "name": "Lobster Stew",
+      "sell_price": 14,
+      "buy_price": 0
+    },
+    "13893": {
+      "name": "Large Raw Mightfish",
+      "sell_price": 15,
+      "buy_price": 0
+    },
+    "13934": {
+      "name": "Mightfish Steak",
+      "sell_price": 18,
+      "buy_price": 0
+    },
+    "13889": {
+      "name": "Raw Whitescale Salmon",
+      "sell_price": 5,
+      "buy_price": 0
+    },
+    "13935": {
+      "name": "Baked Salmon",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "7974": {
+      "name": "Zesty Clam Meat",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "16766": {
+      "name": "Undermine Clam Chowder",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "8365": {
+      "name": "Raw Mithril Head Trout",
+      "sell_price": 4,
+      "buy_price": 0
+    },
+    "8364": {
+      "name": "Mithril Head Trout",
+      "sell_price": 6,
+      "buy_price": 0
+    },
+    "17196": {
+      "name": "Holiday Spirits",
+      "sell_price": 12,
+      "buy_price": 50,
+      "orgrimmar_vendor": true
+    },
+    "17194": {
+      "name": "Holiday Spices",
+      "sell_price": 0,
+      "buy_price": 10,
+      "orgrimmar_vendor": true
+    },
+    "17198": {
+      "name": "Egg Nog",
+      "sell_price": 9,
+      "buy_price": 0
+    },
+    "17197": {
+      "name": "Gingerbread Cookie",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "12205": {
+      "name": "White Spider Meat",
+      "sell_price": 112,
+      "buy_price": 0
+    },
+    "17222": {
+      "name": "Spider Sausage",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "12208": {
+      "name": "Tender Wolf Meat",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "18045": {
+      "name": "Tender Wolf Steak",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "18255": {
+      "name": "Runn Tum Tuber",
+      "sell_price": 15,
+      "buy_price": 0
+    },
+    "18254": {
+      "name": "Runn Tum Tuber Surprise",
+      "sell_price": 18,
+      "buy_price": 0
+    },
+    "20074": {
+      "name": "Heavy Crocolisk Stew",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "20424": {
+      "name": "Sandworm Meat",
+      "sell_price": 175,
+      "buy_price": 0
+    },
+    "20452": {
+      "name": "Smoked Desert Dumplings",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "9061": {
+      "name": "Goblin Rocket Fuel",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "8150": {
+      "name": "Deeprock Salt",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "21024": {
+      "name": "Chimaerok Tenderloin",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "21023": {
+      "name": "Dirge's Kickin' Chimaerok Chops",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "21071": {
+      "name": "Raw Sagefish",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "21072": {
+      "name": "Smoked Sagefish",
+      "sell_price": 40,
+      "buy_price": 0
+    },
+    "21153": {
+      "name": "Raw Greater Sagefish",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "21217": {
+      "name": "Sagefish Delight",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "227813": {
+      "name": "Drinkable Stratholme Holy Water",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "232436": {
+      "name": "Darkclaw Bisque",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "232438": {
+      "name": "Smoked Redgill",
+      "sell_price": 5,
+      "buy_price": 0
+    },
+    "239016": {
+      "name": "Holy Salts",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "238637": {
+      "name": "Prowler Steak",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "238638": {
+      "name": "Filet o' Flank",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "238639": {
+      "name": "Sunrise Omelette",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "239017": {
+      "name": "Exquisite Spices",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "238641": {
+      "name": "Specklefin Feast",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "238642": {
+      "name": "Grand Lobster Banquet",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "279981": {
+      "name": "Basic Campfire Kit",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "8959": {
+      "name": "Raw Spinefin Halibut",
+      "sell_price": 160,
+      "buy_price": 3200,
+      "orgrimmar_vendor": false
+    },
+    "8957": {
+      "name": "Spinefin Halibut",
+      "sell_price": 200,
+      "buy_price": 4000
+    },
+    "2447": {
+      "name": "Peacebloom",
+      "sell_price": 10,
+      "buy_price": 40,
+      "orgrimmar_vendor": false
+    },
+    "249865": {
+      "name": "Peace Tea",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "785": {
+      "name": "Mageroyal",
+      "sell_price": 20,
+      "buy_price": 80,
+      "orgrimmar_vendor": false
+    },
+    "249866": {
+      "name": "Royal Tea",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "1205": {
+      "name": "Melon Juice",
+      "sell_price": 25,
+      "buy_price": 500,
+      "orgrimmar_vendor": true
+    },
+    "3357": {
+      "name": "Liferoot",
+      "sell_price": 75,
+      "buy_price": 300,
+      "orgrimmar_vendor": false
+    },
+    "249867": {
+      "name": "Root Tea",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "1708": {
+      "name": "Sweet Nectar",
+      "sell_price": 50,
+      "buy_price": 1000,
+      "orgrimmar_vendor": true
+    },
+    "3818": {
+      "name": "Fadeleaf",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "249868": {
+      "name": "Triage Tea",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "1645": {
+      "name": "Moonberry Juice",
+      "sell_price": 100,
+      "buy_price": 2000,
+      "orgrimmar_vendor": true
+    },
+    "8838": {
+      "name": "Sungrass",
+      "sell_price": 60,
+      "buy_price": 0
+    },
+    "249869": {
+      "name": "Sunny Tea",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "8766": {
+      "name": "Morning Glory Dew",
+      "sell_price": 200,
+      "buy_price": 4000,
+      "orgrimmar_vendor": true
+    },
+    "13465": {
+      "name": "Mountain Silversage",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "249870": {
+      "name": "Sage's Tea",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "1475": {
+      "name": "Small Venom Sac",
+      "sell_price": 82,
+      "buy_price": 0
+    },
+    "249871": {
+      "name": "Venomous Smoothie",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "249872": {
+      "name": "Slimy Smoothie",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "249873": {
+      "name": "Mrrggl Smrrthle",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "5637": {
+      "name": "Large Fang",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "249874": {
+      "name": "Calcified Smoothie",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "249875": {
+      "name": "Spicy Smoothie",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "8146": {
+      "name": "Wicked Claw",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "249876": {
+      "name": "Wicked Smoothie",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250065": {
+      "name": "Savory Stag Sliders",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "250066": {
+      "name": "Soaring Pamplona",
+      "sell_price": 5,
+      "buy_price": 0
+    },
+    "250067": {
+      "name": "Bat Hachee",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "250068": {
+      "name": "Savory Turtle Stew",
+      "sell_price": 6,
+      "buy_price": 0
+    },
+    "250069": {
+      "name": "Flank au Poivre",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "250070": {
+      "name": "Bear Bruscitti",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "250071": {
+      "name": "Steaming Stag Steak",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "250072": {
+      "name": "Swiftstrike Steak",
+      "sell_price": 40,
+      "buy_price": 0
+    },
+    "250073": {
+      "name": "Raging Raptor Ribs",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "250074": {
+      "name": "Bear Brisket",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "250075": {
+      "name": "Prehistoric Pulled Raptor",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "250076": {
+      "name": "Raptor Rouladen",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "250077": {
+      "name": "Twice-Spiced Raptor Slice",
+      "sell_price": 9,
+      "buy_price": 0
+    },
+    "250078": {
+      "name": "Giant Scrambled Eggs",
+      "sell_price": 18,
+      "buy_price": 0
+    },
+    "250079": {
+      "name": "Tasty Raptor Bites",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "250080": {
+      "name": "Breakfast Omelette",
+      "sell_price": 6,
+      "buy_price": 0
+    },
+    "250081": {
+      "name": "Clam Linguine",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "252948": {
+      "name": "Cleansed Felbloom",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "10284": {
+      "name": "Simple Flour",
+      "sell_price": 50,
+      "buy_price": 200,
+      "orgrimmar_vendor": true
+    },
+    "263509": {
+      "name": "Skywall Souffle",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "263512": {
+      "name": "Pincer Bites",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "279957": {
+      "name": "Cookie's Feast",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "279982": {
+      "name": "Iron Oven",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "11291": {
+      "name": "Star Wood",
+      "sell_price": 1125,
+      "buy_price": 4500,
+      "orgrimmar_vendor": true
+    },
+    "279961": {
+      "name": "Journeyman Campfire Kit",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "272941": {
+      "name": "Thick Logs",
+      "sell_price": 50000,
+      "buy_price": 200000,
+      "orgrimmar_vendor": true
+    },
+    "279974": {
+      "name": "Expert Campfire Kit",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "249796": {
+      "name": "Hyjal Berries",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "267341": {
+      "name": "Sweetpaw Jam",
+      "sell_price": 200,
+      "buy_price": 0
+    },
+    "274971": {
+      "name": "Briny Seafood Stew",
+      "sell_price": 12,
+      "buy_price": 0
+    },
+    "274976": {
+      "name": "Plain Ol' Paletusk",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "251524": {
+      "name": "Whimsyfin",
+      "sell_price": 4,
+      "buy_price": 0
+    },
+    "251525": {
+      "name": "Savory Whimsyfin Delight",
+      "sell_price": 5,
+      "buy_price": 0
+    },
+    "13890": {
+      "name": "Raw Plated Armorfish",
+      "sell_price": 70,
+      "buy_price": 0
+    },
+    "286152": {
+      "name": "Plated Armorfish",
+      "sell_price": 8,
+      "buy_price": 0
+    },
+    "2698": {
+      "name": "Recipe: Cooked Crab Claw",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "2700": {
+      "name": "Recipe: Succulent Pork Ribs",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "3682": {
+      "name": "Recipe: Curiously Tasty Omelet",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "3734": {
+      "name": "Recipe: Big Bear Steak",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "3735": {
+      "name": "Recipe: Hot Lion Chops",
+      "sell_price": 450,
+      "buy_price": 1800
+    },
+    "3737": {
+      "name": "Recipe: Soothing Turtle Bisque",
+      "sell_price": 550,
+      "buy_price": 0
+    },
+    "4609": {
+      "name": "Recipe: Barbecued Buzzard Wing",
+      "sell_price": 250,
+      "buy_price": 1000
+    },
+    "5482": {
+      "name": "Recipe: Kaldorei Spider Kabob",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "5485": {
+      "name": "Recipe: Fillet of Frenzy",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "5486": {
+      "name": "Recipe: Strider Stew",
+      "sell_price": 110,
+      "buy_price": 440
+    },
+    "5489": {
+      "name": "Recipe: Lean Venison",
+      "sell_price": 300,
+      "buy_price": 1200
+    },
+    "6039": {
+      "name": "Recipe: Giant Clam Scorcho",
+      "sell_price": 1250,
+      "buy_price": 5000
+    },
+    "6325": {
+      "name": "Recipe: Brilliant Smallfish",
+      "sell_price": 10,
+      "buy_price": 40
+    },
+    "6326": {
+      "name": "Recipe: Slitherskin Mackerel",
+      "sell_price": 10,
+      "buy_price": 40
+    },
+    "6328": {
+      "name": "Recipe: Longjaw Mud Snapper",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "6330": {
+      "name": "Recipe: Bristle Whisker Catfish",
+      "sell_price": 300,
+      "buy_price": 1200
+    },
+    "6368": {
+      "name": "Recipe: Rainbow Fin Albacore",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "6369": {
+      "name": "Recipe: Rockscale Cod",
+      "sell_price": 550,
+      "buy_price": 2200
+    },
+    "6661": {
+      "name": "Recipe: Savory Deviate Delight",
+      "sell_price": 115,
+      "buy_price": 0
+    },
+    "6892": {
+      "name": "Recipe: Smoked Bear Meat",
+      "sell_price": 62,
+      "buy_price": 250
+    },
+    "7678": {
+      "name": "Recipe: Thistle Tea",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "12227": {
+      "name": "Recipe: Lean Wolf Steak",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "12228": {
+      "name": "Recipe: Roast Raptor",
+      "sell_price": 1250,
+      "buy_price": 5000
+    },
+    "12229": {
+      "name": "Recipe: Hot Wolf Ribs",
+      "sell_price": 1250,
+      "buy_price": 5000
+    },
+    "12231": {
+      "name": "Recipe: Jungle Stew",
+      "sell_price": 750,
+      "buy_price": 3000
+    },
+    "12232": {
+      "name": "Recipe: Carrion Surprise",
+      "sell_price": 1250,
+      "buy_price": 5000
+    },
+    "12233": {
+      "name": "Recipe: Mystery Stew",
+      "sell_price": 750,
+      "buy_price": 3000
+    },
+    "12239": {
+      "name": "Recipe: Dragonbreath Chili",
+      "sell_price": 1750,
+      "buy_price": 7000
+    },
+    "12240": {
+      "name": "Recipe: Heavy Kodo Stew",
+      "sell_price": 1750,
+      "buy_price": 7000
+    },
+    "13939": {
+      "name": "Recipe: Spotted Yellowtail",
+      "sell_price": 4000,
+      "buy_price": 16000
+    },
+    "13940": {
+      "name": "Recipe: Cooked Glossy Mightfish",
+      "sell_price": 4000,
+      "buy_price": 16000
+    },
+    "13941": {
+      "name": "Recipe: Filet of Redgill",
+      "sell_price": 4000,
+      "buy_price": 16000
+    },
+    "13942": {
+      "name": "Recipe: Grilled Squid",
+      "sell_price": 4000,
+      "buy_price": 16000
+    },
+    "13943": {
+      "name": "Recipe: Hot Smoked Bass",
+      "sell_price": 4000,
+      "buy_price": 16000
+    },
+    "13945": {
+      "name": "Recipe: Nightfin Soup",
+      "sell_price": 5000,
+      "buy_price": 20000
+    },
+    "13946": {
+      "name": "Recipe: Poached Sunscale Salmon",
+      "sell_price": 5000,
+      "buy_price": 20000
+    },
+    "13947": {
+      "name": "Recipe: Lobster Stew",
+      "sell_price": 5000,
+      "buy_price": 20000
+    },
+    "13948": {
+      "name": "Recipe: Mightfish Steak",
+      "sell_price": 5000,
+      "buy_price": 20000
+    },
+    "13949": {
+      "name": "Recipe: Baked Salmon",
+      "sell_price": 5000,
+      "buy_price": 20000
+    },
+    "16110": {
+      "name": "Recipe: Monster Omelet",
+      "sell_price": 3000,
+      "buy_price": 12000
+    },
+    "16111": {
+      "name": "Recipe: Spiced Chili Crab",
+      "sell_price": 3000,
+      "buy_price": 12000
+    },
+    "16767": {
+      "name": "Recipe: Undermine Clam Chowder",
+      "sell_price": 750,
+      "buy_price": 3000
+    },
+    "17062": {
+      "name": "Recipe: Mithril Head Trout",
+      "sell_price": 550,
+      "buy_price": 2200
+    },
+    "17200": {
+      "name": "Recipe: Gingerbread Cookie",
+      "sell_price": 6,
+      "buy_price": 25
+    },
+    "17201": {
+      "name": "Recipe: Egg Nog",
+      "sell_price": 60,
+      "buy_price": 240
+    },
+    "18046": {
+      "name": "Recipe: Tender Wolf Steak",
+      "sell_price": 3000,
+      "buy_price": 12000
+    },
+    "18160": {
+      "name": "Recipe: Thistle Tea",
+      "sell_price": 50,
+      "buy_price": 200
+    },
+    "18267": {
+      "name": "Recipe: Runn Tum Tuber Surprise",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "21025": {
+      "name": "Recipe: Dirge's Kickin' Chimaerok Chops",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "21099": {
+      "name": "Recipe: Smoked Sagefish",
+      "sell_price": 125,
+      "buy_price": 500
+    },
+    "21219": {
+      "name": "Recipe: Sagefish Delight",
+      "sell_price": 1250,
+      "buy_price": 5000
+    },
+    "232437": {
+      "name": "Recipe: Darkclaw Bisque",
+      "sell_price": 5000,
+      "buy_price": 20000
+    },
+    "232443": {
+      "name": "Recipe: Smoked Redgill",
+      "sell_price": 4000,
+      "buy_price": 16000
+    },
+    "238645": {
+      "name": "Recipe: Prowler Steak",
+      "sell_price": 1875,
+      "buy_price": 0
+    },
+    "238646": {
+      "name": "Recipe: Filet o' Flank",
+      "sell_price": 1875,
+      "buy_price": 0
+    },
+    "238647": {
+      "name": "Recipe: Sunrise Omelette",
+      "sell_price": 1875,
+      "buy_price": 0
+    },
+    "238649": {
+      "name": "Recipe: Specklefin Feast",
+      "sell_price": 1875,
+      "buy_price": 0
+    },
+    "238650": {
+      "name": "Recipe: Grand Lobster Banquet",
+      "sell_price": 1875,
+      "buy_price": 0
+    },
+    "239021": {
+      "name": "Carrie's Cookbook",
+      "sell_price": 5625,
+      "buy_price": 0
+    },
+    "249879": {
+      "name": "Recipe: Peace Tea",
+      "sell_price": 1875,
+      "buy_price": 0
+    },
+    "249880": {
+      "name": "Recipe: Royal Tea",
+      "sell_price": 1875,
+      "buy_price": 0
+    },
+    "249881": {
+      "name": "Recipe: Root Tea",
+      "sell_price": 1875,
+      "buy_price": 0
+    },
+    "249882": {
+      "name": "Recipe: Triage Tea",
+      "sell_price": 1875,
+      "buy_price": 0
+    },
+    "249883": {
+      "name": "Recipe: Sunny Tea",
+      "sell_price": 1875,
+      "buy_price": 0
+    },
+    "249884": {
+      "name": "Recipe: Sage's Tea",
+      "sell_price": 1875,
+      "buy_price": 0
+    },
+    "249885": {
+      "name": "Recipe: Venomous Smoothie",
+      "sell_price": 125,
+      "buy_price": 625
+    },
+    "249886": {
+      "name": "Recipe: Slimy Smoothie",
+      "sell_price": 500,
+      "buy_price": 2500
+    },
+    "249887": {
+      "name": "Recipe: Mrrggl Smrrthle",
+      "sell_price": 625,
+      "buy_price": 3125
+    },
+    "249888": {
+      "name": "Recipe: Calcified Smoothie",
+      "sell_price": 900,
+      "buy_price": 4500
+    },
+    "249889": {
+      "name": "Recipe: Spicy Smoothie",
+      "sell_price": 1000,
+      "buy_price": 5000
+    },
+    "249890": {
+      "name": "Recipe: Wicked Smoothie",
+      "sell_price": 1250,
+      "buy_price": 6250
+    },
+    "250173": {
+      "name": "Recipe: Savory Stag Sliders",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250174": {
+      "name": "Recipe: Soaring Pamplona",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250175": {
+      "name": "Recipe: Bat Hachee",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250176": {
+      "name": "Recipe: Savory Turtle Stew",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250177": {
+      "name": "Recipe: Flank au Poivre",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250178": {
+      "name": "Recipe: Bear Bruscitti",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250179": {
+      "name": "Recipe: Steaming Stag Steak",
+      "sell_price": 25000,
+      "buy_price": 0
+    },
+    "250180": {
+      "name": "Recipe: Swiftstrike Steak",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250181": {
+      "name": "Recipe: Raging Raptor Ribs",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250182": {
+      "name": "Recipe: Bear Brisket",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250183": {
+      "name": "Recipe: Prehistoric Pulled Raptor",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250184": {
+      "name": "Recipe: Raptor Rouladen",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250185": {
+      "name": "Recipe: Twice-Spiced Raptor Slice",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250186": {
+      "name": "Recipe: Giant Scrambled Eggs",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250187": {
+      "name": "Recipe: Tasty Raptor Bites",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250188": {
+      "name": "Recipe: Breakfast Omelette",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250189": {
+      "name": "Recipe: Clam Linguine",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "251526": {
+      "name": "Recipe: Savory Whimsyfin Delight",
+      "sell_price": 115,
+      "buy_price": 0
+    },
+    "263511": {
+      "name": "Recipe: Skywall Souffle",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "263513": {
+      "name": "Recipe: Pincer Bites",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "273087": {
+      "name": "Blueprint: Journeyman Campfire",
+      "sell_price": 375,
+      "buy_price": 0
+    },
+    "273101": {
+      "name": "Blueprint: Expert Campfire",
+      "sell_price": 30000,
+      "buy_price": 0
+    },
+    "273102": {
+      "name": "Blueprint: Cookie's Feast",
+      "sell_price": 375,
+      "buy_price": 0
+    },
+    "273115": {
+      "name": "Blueprint: Iron Oven",
+      "sell_price": 120000,
+      "buy_price": 0
+    },
+    "274415": {
+      "name": "Recipe: Sweetpaw Jam",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "274972": {
+      "name": "Recipe: Briny Seafood Stew",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "274977": {
+      "name": "Recipe: Plain Ol' Paletusk",
+      "sell_price": 500,
+      "buy_price": 2000
+    },
+    "286153": {
+      "name": "Recipe: Plated Armorfish",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "280317": {
+      "name": "Frying Pan",
+      "sell_price": 2,
+      "buy_price": 0
+    },
+    "10919": {
+      "name": "Apothecary Gloves",
+      "sell_price": 284,
+      "buy_price": 0
+    },
+    "16971": {
+      "name": "Clamlette Surprise",
+      "sell_price": 300,
+      "buy_price": 0
+    }
+  }
+}

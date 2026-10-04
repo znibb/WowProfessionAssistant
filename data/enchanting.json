@@ -1,0 +1,4457 @@
+{
+  "profession": "enchanting",
+  "skill_id": 333,
+  "url": "https://www.wowhead.com/forever/skill=333/enchanting",
+  "scraped_at": "2026-10-04T19:09:49.787797+00:00",
+  "recipes": [
+    {
+      "id": 1263082,
+      "name": "Arcane Forge",
+      "creates": {
+        "item_id": 279987,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 300,
+        "green": 300,
+        "gray": 300
+      },
+      "learned_at": 300,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 273128,
+          "name": "Maker's Spark",
+          "quantity": 1
+        },
+        {
+          "item_id": 14344,
+          "name": "Large Brilliant Shard",
+          "quantity": 2
+        },
+        {
+          "item_id": 16203,
+          "name": "Greater Eternal Essence",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 1263056,
+      "name": "Arcane Salvager",
+      "creates": {
+        "item_id": 279985,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 140,
+        "yellow": 140,
+        "green": 142,
+        "gray": 145
+      },
+      "learned_at": 140,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11137,
+          "name": "Vision Dust",
+          "quantity": 2
+        },
+        {
+          "item_id": 11174,
+          "name": "Lesser Nether Essence",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 25130,
+      "name": "Brilliant Mana Oil",
+      "creates": {
+        "item_id": 20748,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 310,
+        "green": 320,
+        "gray": 330
+      },
+      "learned_at": 300,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 14344,
+          "name": "Large Brilliant Shard",
+          "quantity": 2
+        },
+        {
+          "item_id": 8831,
+          "name": "Purple Lotus",
+          "quantity": 3
+        },
+        {
+          "item_id": 18256,
+          "name": "Imbued Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1248650,
+      "name": "Brilliant Wand",
+      "creates": {
+        "item_id": 249385,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 320,
+        "green": 340,
+        "gray": 360
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 16203,
+          "name": "Greater Eternal Essence",
+          "quantity": 1
+        },
+        {
+          "item_id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 3
+        },
+        {
+          "item_id": 14344,
+          "name": "Large Brilliant Shard",
+          "quantity": 2
+        },
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 25129,
+      "name": "Brilliant Wizard Oil",
+      "creates": {
+        "item_id": 20749,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 310,
+        "green": 320,
+        "gray": 330
+      },
+      "learned_at": 300,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 14344,
+          "name": "Large Brilliant Shard",
+          "quantity": 2
+        },
+        {
+          "item_id": 4625,
+          "name": "Firebloom",
+          "quantity": 3
+        },
+        {
+          "item_id": 18256,
+          "name": "Imbued Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 463869,
+      "name": "Conductive Shield Coating",
+      "creates": {
+        "item_id": 228980,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 285,
+        "green": 295,
+        "gray": 305
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 2
+        },
+        {
+          "item_id": 4625,
+          "name": "Firebloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249114,
+      "name": "Dormant Heart of the Mountain",
+      "creates": {
+        "item_id": 249473,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 285,
+        "green": 305,
+        "gray": 325
+      },
+      "learned_at": 285,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11382,
+          "name": "Blood of the Mountain",
+          "quantity": 1
+        },
+        {
+          "item_id": 7080,
+          "name": "Essence of Water",
+          "quantity": 1
+        },
+        {
+          "item_id": 14343,
+          "name": "Small Brilliant Shard",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 1248509,
+      "name": "Dreambough Wand",
+      "creates": {
+        "item_id": 249234,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 215,
+        "yellow": 235,
+        "green": 255,
+        "gray": 275
+      },
+      "learned_at": 215,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11174,
+          "name": "Lesser Nether Essence",
+          "quantity": 2
+        },
+        {
+          "item_id": 11137,
+          "name": "Vision Dust",
+          "quantity": 1
+        },
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249064,
+      "name": "Dreamstaff",
+      "creates": {
+        "item_id": 249454,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 220,
+        "yellow": 225,
+        "green": 245,
+        "gray": 265
+      },
+      "learned_at": 220,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11178,
+          "name": "Large Radiant Shard",
+          "quantity": 4
+        },
+        {
+          "item_id": 11177,
+          "name": "Small Radiant Shard",
+          "quantity": 4
+        },
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 4
+        },
+        {
+          "item_id": 11175,
+          "name": "Greater Nether Essence",
+          "quantity": 6
+        },
+        {
+          "item_id": 11176,
+          "name": "Dream Dust",
+          "quantity": 8
+        },
+        {
+          "item_id": 249409,
+          "name": "Cerulean Dye",
+          "quantity": 2
+        },
+        {
+          "item_id": 249430,
+          "name": "Magenta Dye",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 1245320,
+      "name": "Dust to Motes",
+      "creates": {
+        "item_id": 247786,
+        "min_qty": 3,
+        "max_qty": 3
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 10,
+        "green": 12,
+        "gray": 15
+      },
+      "learned_at": 10,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 10940,
+          "name": "Strange Dust",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17181,
+      "name": "Enchanted Leather",
+      "creates": {
+        "item_id": 12810,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 250,
+        "green": 255,
+        "gray": 260
+      },
+      "learned_at": 250,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8170,
+          "name": "Rugged Leather",
+          "quantity": 1
+        },
+        {
+          "item_id": 16202,
+          "name": "Lesser Eternal Essence",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1230643,
+      "name": "Enchanted Lute",
+      "creates": {
+        "item_id": 279976,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 20,
+        "green": 22,
+        "gray": 25
+      },
+      "learned_at": 20,
+      "source": [
+        4,
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4470,
+          "name": "Simple Wood",
+          "quantity": 1
+        },
+        {
+          "item_id": 10940,
+          "name": "Strange Dust",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17180,
+      "name": "Enchanted Thorium",
+      "creates": {
+        "item_id": 12655,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 250,
+        "green": 255,
+        "gray": 260
+      },
+      "learned_at": 250,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12359,
+          "name": "Thorium Bar",
+          "quantity": 1
+        },
+        {
+          "item_id": 11176,
+          "name": "Dream Dust",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 1249107,
+      "name": "Frozen Heart of the Mountain",
+      "creates": {
+        "item_id": 249469,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 285,
+        "green": 305,
+        "gray": 325
+      },
+      "learned_at": 285,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11382,
+          "name": "Blood of the Mountain",
+          "quantity": 1
+        },
+        {
+          "item_id": 12808,
+          "name": "Essence of Undeath",
+          "quantity": 1
+        },
+        {
+          "item_id": 14343,
+          "name": "Small Brilliant Shard",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 1248703,
+      "name": "Glimmering Staff",
+      "creates": {
+        "item_id": 249392,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 140,
+        "yellow": 140,
+        "green": 160,
+        "gray": 180
+      },
+      "learned_at": 140,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11084,
+          "name": "Large Glimmering Shard",
+          "quantity": 4
+        },
+        {
+          "item_id": 10978,
+          "name": "Small Glimmering Shard",
+          "quantity": 2
+        },
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 4
+        },
+        {
+          "item_id": 11082,
+          "name": "Greater Astral Essence",
+          "quantity": 1
+        },
+        {
+          "item_id": 10940,
+          "name": "Strange Dust",
+          "quantity": 5
+        },
+        {
+          "item_id": 249391,
+          "name": "Pyrite",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 1248515,
+      "name": "Greater Eternal Wand",
+      "creates": {
+        "item_id": 249237,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 285,
+        "green": 295,
+        "gray": 305
+      },
+      "learned_at": 275,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 16203,
+          "name": "Greater Eternal Essence",
+          "quantity": 2
+        },
+        {
+          "item_id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 1
+        },
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 14807,
+      "name": "Greater Magic Wand",
+      "creates": {
+        "item_id": 11288,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 70,
+        "yellow": 110,
+        "green": 130,
+        "gray": 150
+      },
+      "learned_at": 70,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4470,
+          "name": "Simple Wood",
+          "quantity": 1
+        },
+        {
+          "item_id": 10938,
+          "name": "Lesser Magic Essence",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 14810,
+      "name": "Greater Mystic Wand",
+      "creates": {
+        "item_id": 217287,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 195,
+        "green": 215,
+        "gray": 235
+      },
+      "learned_at": 175,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 1
+        },
+        {
+          "item_id": 11134,
+          "name": "Lesser Mystic Essence",
+          "quantity": 1
+        },
+        {
+          "item_id": 11137,
+          "name": "Vision Dust",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 439134,
+      "name": "Greater Mystic Wand",
+      "creates": {
+        "item_id": 217287,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 195,
+        "green": 215,
+        "gray": 235
+      },
+      "learned_at": 175,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 1
+        },
+        {
+          "item_id": 11135,
+          "name": "Greater Mystic Essence",
+          "quantity": 1
+        },
+        {
+          "item_id": 11137,
+          "name": "Vision Dust",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1306524,
+      "name": "Idol of Swiftness",
+      "creates": {
+        "item_id": 279250,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 310,
+        "green": 317,
+        "gray": 325
+      },
+      "learned_at": 300,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 274030,
+          "name": "Malleable Essence of Nature",
+          "quantity": 1
+        },
+        {
+          "item_id": 20725,
+          "name": "Nexus Crystal",
+          "quantity": 1
+        },
+        {
+          "item_id": 16203,
+          "name": "Greater Eternal Essence",
+          "quantity": 2
+        },
+        {
+          "item_id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 12
+        }
+      ]
+    },
+    {
+      "id": 1249128,
+      "name": "Idol of the Dream",
+      "creates": {
+        "item_id": 220606,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 320,
+        "green": 340,
+        "gray": 360
+      },
+      "learned_at": 300,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 14344,
+          "name": "Large Brilliant Shard",
+          "quantity": 2
+        },
+        {
+          "item_id": 16203,
+          "name": "Greater Eternal Essence",
+          "quantity": 4
+        },
+        {
+          "item_id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 6
+        },
+        {
+          "item_id": 249431,
+          "name": "Viridian Dye",
+          "quantity": 8
+        },
+        {
+          "item_id": 249430,
+          "name": "Magenta Dye",
+          "quantity": 4
+        },
+        {
+          "item_id": 249409,
+          "name": "Cerulean Dye",
+          "quantity": 2
+        },
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 1306525,
+      "name": "Idol of the Ursine Twins",
+      "creates": {
+        "item_id": 279251,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 310,
+        "green": 317,
+        "gray": 325
+      },
+      "learned_at": 300,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 274030,
+          "name": "Malleable Essence of Nature",
+          "quantity": 1
+        },
+        {
+          "item_id": 20725,
+          "name": "Nexus Crystal",
+          "quantity": 1
+        },
+        {
+          "item_id": 16203,
+          "name": "Greater Eternal Essence",
+          "quantity": 2
+        },
+        {
+          "item_id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 12
+        }
+      ]
+    },
+    {
+      "id": 1248505,
+      "name": "Lesser Eternal Wand",
+      "creates": {
+        "item_id": 249232,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 245,
+        "yellow": 265,
+        "green": 285,
+        "gray": 305
+      },
+      "learned_at": 245,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 16202,
+          "name": "Lesser Eternal Essence",
+          "quantity": 1
+        },
+        {
+          "item_id": 11176,
+          "name": "Dream Dust",
+          "quantity": 1
+        },
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 14293,
+      "name": "Lesser Magic Wand",
+      "creates": {
+        "item_id": 11287,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 10,
+        "yellow": 75,
+        "green": 95,
+        "gray": 115
+      },
+      "learned_at": 10,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4470,
+          "name": "Simple Wood",
+          "quantity": 1
+        },
+        {
+          "item_id": 10938,
+          "name": "Lesser Magic Essence",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 25127,
+      "name": "Lesser Mana Oil",
+      "creates": {
+        "item_id": 20747,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 260,
+        "green": 270,
+        "gray": 280
+      },
+      "learned_at": 250,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11176,
+          "name": "Dream Dust",
+          "quantity": 1
+        },
+        {
+          "item_id": 8831,
+          "name": "Purple Lotus",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 14809,
+      "name": "Lesser Mystic Wand",
+      "creates": {
+        "item_id": 11289,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 155,
+        "yellow": 175,
+        "green": 195,
+        "gray": 215
+      },
+      "learned_at": 155,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 1
+        },
+        {
+          "item_id": 11134,
+          "name": "Lesser Mystic Essence",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 25126,
+      "name": "Lesser Wizard Oil",
+      "creates": {
+        "item_id": 20746,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 200,
+        "yellow": 210,
+        "green": 220,
+        "gray": 230
+      },
+      "learned_at": 200,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11137,
+          "name": "Vision Dust",
+          "quantity": 1
+        },
+        {
+          "item_id": 17035,
+          "name": "Stranglethorn Seed",
+          "quantity": 2
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249152,
+      "name": "Libram of Holy Alacrity",
+      "creates": {
+        "item_id": 228175,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 320,
+        "green": 340,
+        "gray": 360
+      },
+      "learned_at": 300,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 14344,
+          "name": "Large Brilliant Shard",
+          "quantity": 4
+        },
+        {
+          "item_id": 16203,
+          "name": "Greater Eternal Essence",
+          "quantity": 3
+        },
+        {
+          "item_id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 4
+        },
+        {
+          "item_id": 249431,
+          "name": "Viridian Dye",
+          "quantity": 8
+        },
+        {
+          "item_id": 249430,
+          "name": "Magenta Dye",
+          "quantity": 4
+        },
+        {
+          "item_id": 249409,
+          "name": "Cerulean Dye",
+          "quantity": 2
+        },
+        {
+          "item_id": 10308,
+          "name": "Scroll of Intellect IV",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 1306522,
+      "name": "Libram of Infusion",
+      "creates": {
+        "item_id": 279248,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 310,
+        "green": 317,
+        "gray": 325
+      },
+      "learned_at": 300,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 274030,
+          "name": "Malleable Essence of Nature",
+          "quantity": 1
+        },
+        {
+          "item_id": 20725,
+          "name": "Nexus Crystal",
+          "quantity": 1
+        },
+        {
+          "item_id": 16203,
+          "name": "Greater Eternal Essence",
+          "quantity": 2
+        },
+        {
+          "item_id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 12
+        }
+      ]
+    },
+    {
+      "id": 1249006,
+      "name": "Libram of Invocation",
+      "creates": {
+        "item_id": 249442,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 210,
+        "yellow": 225,
+        "green": 245,
+        "gray": 265
+      },
+      "learned_at": 210,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11178,
+          "name": "Large Radiant Shard",
+          "quantity": 3
+        },
+        {
+          "item_id": 11175,
+          "name": "Greater Nether Essence",
+          "quantity": 3
+        },
+        {
+          "item_id": 11176,
+          "name": "Dream Dust",
+          "quantity": 4
+        },
+        {
+          "item_id": 249430,
+          "name": "Magenta Dye",
+          "quantity": 2
+        },
+        {
+          "item_id": 249409,
+          "name": "Cerulean Dye",
+          "quantity": 1
+        },
+        {
+          "item_id": 2289,
+          "name": "Scroll of Strength II",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 471400,
+      "name": "Magnificent Trollshine",
+      "creates": {
+        "item_id": 232611,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 310,
+        "green": 320,
+        "gray": 330
+      },
+      "learned_at": 300,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8151,
+          "name": "Flask of Mojo",
+          "quantity": 3
+        },
+        {
+          "item_id": 8152,
+          "name": "Flask of Big Mojo",
+          "quantity": 3
+        },
+        {
+          "item_id": 14344,
+          "name": "Large Brilliant Shard",
+          "quantity": 2
+        },
+        {
+          "item_id": 18256,
+          "name": "Imbued Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 25125,
+      "name": "Minor Mana Oil",
+      "creates": {
+        "item_id": 20745,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 150,
+        "yellow": 160,
+        "green": 170,
+        "gray": 180
+      },
+      "learned_at": 150,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11083,
+          "name": "Soul Dust",
+          "quantity": 1
+        },
+        {
+          "item_id": 17034,
+          "name": "Maple Seed",
+          "quantity": 2
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 25124,
+      "name": "Minor Wizard Oil",
+      "creates": {
+        "item_id": 20744,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 45,
+        "green": 47,
+        "gray": 65
+      },
+      "learned_at": 45,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 10940,
+          "name": "Strange Dust",
+          "quantity": 1
+        },
+        {
+          "item_id": 17034,
+          "name": "Maple Seed",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249112,
+      "name": "Molten Heart of the Mountain",
+      "creates": {
+        "item_id": 249470,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 285,
+        "green": 305,
+        "gray": 325
+      },
+      "learned_at": 285,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11382,
+          "name": "Blood of the Mountain",
+          "quantity": 1
+        },
+        {
+          "item_id": 7076,
+          "name": "Essence of Earth",
+          "quantity": 1
+        },
+        {
+          "item_id": 14343,
+          "name": "Small Brilliant Shard",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 1248752,
+      "name": "Mystic Mushroom",
+      "creates": {
+        "item_id": 249396,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 130,
+        "yellow": 140,
+        "green": 160,
+        "gray": 180
+      },
+      "learned_at": 130,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 10978,
+          "name": "Small Glimmering Shard",
+          "quantity": 1
+        },
+        {
+          "item_id": 10939,
+          "name": "Greater Magic Essence",
+          "quantity": 2
+        },
+        {
+          "item_id": 10940,
+          "name": "Strange Dust",
+          "quantity": 5
+        },
+        {
+          "item_id": 4605,
+          "name": "Red-speckled Mushroom",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1245321,
+      "name": "Novice's Practice Wand",
+      "creates": {
+        "item_id": 247789,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 10,
+        "green": 12,
+        "gray": 15
+      },
+      "learned_at": 10,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4470,
+          "name": "Simple Wood",
+          "quantity": 1
+        },
+        {
+          "item_id": 247786,
+          "name": "Mote of Magic",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1248745,
+      "name": "Orb of Mystic Insight",
+      "creates": {
+        "item_id": 249394,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 140,
+        "yellow": 140,
+        "green": 160,
+        "gray": 180
+      },
+      "learned_at": 140,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 10978,
+          "name": "Small Glimmering Shard",
+          "quantity": 2
+        },
+        {
+          "item_id": 11082,
+          "name": "Greater Astral Essence",
+          "quantity": 2
+        },
+        {
+          "item_id": 10940,
+          "name": "Strange Dust",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 1248748,
+      "name": "Orb of Souls",
+      "creates": {
+        "item_id": 249395,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 140,
+        "yellow": 140,
+        "green": 160,
+        "gray": 180
+      },
+      "learned_at": 140,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 10978,
+          "name": "Small Glimmering Shard",
+          "quantity": 2
+        },
+        {
+          "item_id": 11082,
+          "name": "Greater Astral Essence",
+          "quantity": 2
+        },
+        {
+          "item_id": 11083,
+          "name": "Soul Dust",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1248755,
+      "name": "Polished Driftwood Icon",
+      "creates": {
+        "item_id": 249398,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 130,
+        "yellow": 140,
+        "green": 160,
+        "gray": 180
+      },
+      "learned_at": 130,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11084,
+          "name": "Large Glimmering Shard",
+          "quantity": 1
+        },
+        {
+          "item_id": 10939,
+          "name": "Greater Magic Essence",
+          "quantity": 2
+        },
+        {
+          "item_id": 10940,
+          "name": "Strange Dust",
+          "quantity": 3
+        },
+        {
+          "item_id": 4470,
+          "name": "Simple Wood",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249061,
+      "name": "Radiant Staff",
+      "creates": {
+        "item_id": 249453,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 220,
+        "yellow": 225,
+        "green": 245,
+        "gray": 265
+      },
+      "learned_at": 220,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11178,
+          "name": "Large Radiant Shard",
+          "quantity": 6
+        },
+        {
+          "item_id": 11177,
+          "name": "Small Radiant Shard",
+          "quantity": 2
+        },
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 4
+        },
+        {
+          "item_id": 11175,
+          "name": "Greater Nether Essence",
+          "quantity": 4
+        },
+        {
+          "item_id": 11176,
+          "name": "Dream Dust",
+          "quantity": 6
+        },
+        {
+          "item_id": 249409,
+          "name": "Cerulean Dye",
+          "quantity": 2
+        },
+        {
+          "item_id": 249430,
+          "name": "Magenta Dye",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 20051,
+      "name": "Runed Arcanite Rod",
+      "creates": {
+        "item_id": 16207,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 290,
+        "yellow": 310,
+        "green": 330,
+        "gray": 350
+      },
+      "learned_at": 290,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 16206,
+          "name": "Arcanite Rod",
+          "quantity": 1
+        },
+        {
+          "item_id": 13926,
+          "name": "Golden Pearl",
+          "quantity": 1
+        },
+        {
+          "item_id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 10
+        },
+        {
+          "item_id": 16203,
+          "name": "Greater Eternal Essence",
+          "quantity": 4
+        },
+        {
+          "item_id": 14343,
+          "name": "Small Brilliant Shard",
+          "quantity": 4
+        },
+        {
+          "item_id": 14344,
+          "name": "Large Brilliant Shard",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 7421,
+      "name": "Runed Copper Rod",
+      "creates": {
+        "item_id": 6218,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 1,
+        "yellow": 5,
+        "green": 7,
+        "gray": 10
+      },
+      "learned_at": 1,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6217,
+          "name": "Copper Rod",
+          "quantity": 1
+        },
+        {
+          "item_id": 247786,
+          "name": "Mote of Magic",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 13628,
+      "name": "Runed Golden Rod",
+      "creates": {
+        "item_id": 11130,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 150,
+        "yellow": 175,
+        "green": 195,
+        "gray": 215
+      },
+      "learned_at": 150,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11128,
+          "name": "Golden Rod",
+          "quantity": 1
+        },
+        {
+          "item_id": 5500,
+          "name": "Iridescent Pearl",
+          "quantity": 1
+        },
+        {
+          "item_id": 11082,
+          "name": "Greater Astral Essence",
+          "quantity": 1
+        },
+        {
+          "item_id": 11083,
+          "name": "Soul Dust",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7795,
+      "name": "Runed Silver Rod",
+      "creates": {
+        "item_id": 6339,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 100,
+        "yellow": 130,
+        "green": 150,
+        "gray": 170
+      },
+      "learned_at": 100,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6338,
+          "name": "Silver Rod",
+          "quantity": 1
+        },
+        {
+          "item_id": 10940,
+          "name": "Strange Dust",
+          "quantity": 3
+        },
+        {
+          "item_id": 10938,
+          "name": "Lesser Magic Essence",
+          "quantity": 4
+        },
+        {
+          "item_id": 1210,
+          "name": "Shadowgem",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 13702,
+      "name": "Runed Truesilver Rod",
+      "creates": {
+        "item_id": 11145,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 200,
+        "yellow": 220,
+        "green": 240,
+        "gray": 260
+      },
+      "learned_at": 200,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11144,
+          "name": "Truesilver Rod",
+          "quantity": 1
+        },
+        {
+          "item_id": 7971,
+          "name": "Black Pearl",
+          "quantity": 1
+        },
+        {
+          "item_id": 11135,
+          "name": "Greater Mystic Essence",
+          "quantity": 1
+        },
+        {
+          "item_id": 11137,
+          "name": "Vision Dust",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 448624,
+      "name": "Scroll of Spatial Mending",
+      "creates": {
+        "item_id": 220792,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 120,
+        "yellow": 120,
+        "green": 140,
+        "gray": 160
+      },
+      "learned_at": 120,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4470,
+          "name": "Simple Wood",
+          "quantity": 1
+        },
+        {
+          "item_id": 10940,
+          "name": "Strange Dust",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 463866,
+      "name": "Sigil of Flowing Waters",
+      "creates": {
+        "item_id": 228978,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 290,
+        "yellow": 305,
+        "green": 312,
+        "gray": 320
+      },
+      "learned_at": 290,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 439156,
+      "name": "Sigil of Innovation",
+      "creates": {
+        "item_id": 217308,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 225,
+        "green": 227,
+        "gray": 230
+      },
+      "learned_at": 225,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11137,
+          "name": "Vision Dust",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 15596,
+      "name": "Smoking Heart of the Mountain",
+      "creates": {
+        "item_id": 11811,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 265,
+        "yellow": 285,
+        "green": 305,
+        "gray": 325
+      },
+      "learned_at": 265,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11382,
+          "name": "Blood of the Mountain",
+          "quantity": 1
+        },
+        {
+          "item_id": 7078,
+          "name": "Essence of Fire",
+          "quantity": 1
+        },
+        {
+          "item_id": 14343,
+          "name": "Small Brilliant Shard",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": 1248739,
+      "name": "Soulstaff",
+      "creates": {
+        "item_id": 249393,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 140,
+        "yellow": 140,
+        "green": 160,
+        "gray": 180
+      },
+      "learned_at": 140,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11084,
+          "name": "Large Glimmering Shard",
+          "quantity": 2
+        },
+        {
+          "item_id": 10978,
+          "name": "Small Glimmering Shard",
+          "quantity": 1
+        },
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 4
+        },
+        {
+          "item_id": 11082,
+          "name": "Greater Astral Essence",
+          "quantity": 1
+        },
+        {
+          "item_id": 11083,
+          "name": "Soul Dust",
+          "quantity": 6
+        },
+        {
+          "item_id": 1210,
+          "name": "Shadowgem",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1306521,
+      "name": "Steadfast Libram",
+      "creates": {
+        "item_id": 279247,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 310,
+        "green": 317,
+        "gray": 325
+      },
+      "learned_at": 300,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 274030,
+          "name": "Malleable Essence of Nature",
+          "quantity": 1
+        },
+        {
+          "item_id": 20725,
+          "name": "Nexus Crystal",
+          "quantity": 1
+        },
+        {
+          "item_id": 16203,
+          "name": "Greater Eternal Essence",
+          "quantity": 2
+        },
+        {
+          "item_id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 12
+        }
+      ]
+    },
+    {
+      "id": 1248974,
+      "name": "Talons of Wrath",
+      "creates": {
+        "item_id": 249441,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 210,
+        "yellow": 225,
+        "green": 245,
+        "gray": 265
+      },
+      "learned_at": 210,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11178,
+          "name": "Large Radiant Shard",
+          "quantity": 2
+        },
+        {
+          "item_id": 11175,
+          "name": "Greater Nether Essence",
+          "quantity": 4
+        },
+        {
+          "item_id": 11176,
+          "name": "Dream Dust",
+          "quantity": 6
+        },
+        {
+          "item_id": 249430,
+          "name": "Magenta Dye",
+          "quantity": 2
+        },
+        {
+          "item_id": 249409,
+          "name": "Cerulean Dye",
+          "quantity": 1
+        },
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1248754,
+      "name": "Tenets of the Silver Hand",
+      "creates": {
+        "item_id": 249397,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 130,
+        "yellow": 140,
+        "green": 160,
+        "gray": 180
+      },
+      "learned_at": 130,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11084,
+          "name": "Large Glimmering Shard",
+          "quantity": 1
+        },
+        {
+          "item_id": 10939,
+          "name": "Greater Magic Essence",
+          "quantity": 1
+        },
+        {
+          "item_id": 10940,
+          "name": "Strange Dust",
+          "quantity": 2
+        },
+        {
+          "item_id": 3013,
+          "name": "Scroll of Protection",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 1306520,
+      "name": "Torch of Light",
+      "creates": {
+        "item_id": 279246,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 310,
+        "green": 317,
+        "gray": 325
+      },
+      "learned_at": 300,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 274030,
+          "name": "Malleable Essence of Nature",
+          "quantity": 2
+        },
+        {
+          "item_id": 20725,
+          "name": "Nexus Crystal",
+          "quantity": 1
+        },
+        {
+          "item_id": 14344,
+          "name": "Large Brilliant Shard",
+          "quantity": 6
+        },
+        {
+          "item_id": 16202,
+          "name": "Lesser Eternal Essence",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 1249015,
+      "name": "Totem of Ancestral Protection",
+      "creates": {
+        "item_id": 249443,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 210,
+        "yellow": 225,
+        "green": 245,
+        "gray": 265
+      },
+      "learned_at": 210,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11178,
+          "name": "Large Radiant Shard",
+          "quantity": 4
+        },
+        {
+          "item_id": 11175,
+          "name": "Greater Nether Essence",
+          "quantity": 2
+        },
+        {
+          "item_id": 11176,
+          "name": "Dream Dust",
+          "quantity": 2
+        },
+        {
+          "item_id": 249432,
+          "name": "Sandpaper",
+          "quantity": 4
+        },
+        {
+          "item_id": 249410,
+          "name": "Sulfuric Acid",
+          "quantity": 2
+        },
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1249154,
+      "name": "Totem of Thunder",
+      "creates": {
+        "item_id": 228176,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 320,
+        "green": 340,
+        "gray": 360
+      },
+      "learned_at": 300,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 14344,
+          "name": "Large Brilliant Shard",
+          "quantity": 1
+        },
+        {
+          "item_id": 16203,
+          "name": "Greater Eternal Essence",
+          "quantity": 8
+        },
+        {
+          "item_id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 10
+        },
+        {
+          "item_id": 249431,
+          "name": "Viridian Dye",
+          "quantity": 8
+        },
+        {
+          "item_id": 249430,
+          "name": "Magenta Dye",
+          "quantity": 4
+        },
+        {
+          "item_id": 249409,
+          "name": "Cerulean Dye",
+          "quantity": 2
+        },
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 1306523,
+      "name": "Totem of Urgency",
+      "creates": {
+        "item_id": 279249,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 310,
+        "green": 317,
+        "gray": 325
+      },
+      "learned_at": 300,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 274030,
+          "name": "Malleable Essence of Nature",
+          "quantity": 1
+        },
+        {
+          "item_id": 20725,
+          "name": "Nexus Crystal",
+          "quantity": 1
+        },
+        {
+          "item_id": 16203,
+          "name": "Greater Eternal Essence",
+          "quantity": 2
+        },
+        {
+          "item_id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 12
+        }
+      ]
+    },
+    {
+      "id": 1249069,
+      "name": "Truesilver Conduit",
+      "creates": {
+        "item_id": 249455,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 220,
+        "yellow": 225,
+        "green": 245,
+        "gray": 265
+      },
+      "learned_at": 220,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11178,
+          "name": "Large Radiant Shard",
+          "quantity": 3
+        },
+        {
+          "item_id": 11177,
+          "name": "Small Radiant Shard",
+          "quantity": 1
+        },
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 2
+        },
+        {
+          "item_id": 11175,
+          "name": "Greater Nether Essence",
+          "quantity": 2
+        },
+        {
+          "item_id": 11176,
+          "name": "Dream Dust",
+          "quantity": 3
+        },
+        {
+          "item_id": 249409,
+          "name": "Cerulean Dye",
+          "quantity": 1
+        },
+        {
+          "item_id": 249430,
+          "name": "Magenta Dye",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 1248461,
+      "name": "Twisted Nether Wand",
+      "creates": {
+        "item_id": 249144,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 185,
+        "yellow": 205,
+        "green": 225,
+        "gray": 245
+      },
+      "learned_at": 185,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11174,
+          "name": "Lesser Nether Essence",
+          "quantity": 1
+        },
+        {
+          "item_id": 11176,
+          "name": "Dream Dust",
+          "quantity": 1
+        },
+        {
+          "item_id": 11291,
+          "name": "Star Wood",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249070,
+      "name": "Twisting Essence Jar",
+      "creates": {
+        "item_id": 249456,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 220,
+        "yellow": 225,
+        "green": 245,
+        "gray": 265
+      },
+      "learned_at": 220,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6037,
+          "name": "Truesilver Bar",
+          "quantity": 4
+        },
+        {
+          "item_id": 11175,
+          "name": "Greater Nether Essence",
+          "quantity": 12
+        },
+        {
+          "item_id": 11135,
+          "name": "Greater Mystic Essence",
+          "quantity": 12
+        },
+        {
+          "item_id": 249409,
+          "name": "Cerulean Dye",
+          "quantity": 1
+        },
+        {
+          "item_id": 249430,
+          "name": "Magenta Dye",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 25128,
+      "name": "Wizard Oil",
+      "creates": {
+        "item_id": 20750,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 285,
+        "green": 295,
+        "gray": 305
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 16204,
+          "name": "Illusion Dust",
+          "quantity": 3
+        },
+        {
+          "item_id": 4625,
+          "name": "Firebloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "items": {
+    "7994": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "9367": {
+      "name": "Plans: Golden Scale Gauntlets",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "6735": {
+      "name": "Plans: Ironforge Breastplate",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "2889": {
+      "name": "Recipe: Beer Basted Boar Ribs",
+      "sell_price": 60,
+      "buy_price": 240
+    },
+    "3679": {
+      "name": "Recipe: Blood Sausage",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "5528": {
+      "name": "Recipe: Clam Chowder",
+      "sell_price": 200,
+      "buy_price": 800
+    },
+    "3681": {
+      "name": "Recipe: Crocolisk Gumbo",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "3678": {
+      "name": "Recipe: Crocolisk Steak",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "3683": {
+      "name": "Recipe: Gooey Spider Cake",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "2697": {
+      "name": "Recipe: Goretusk Liver Pie",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "6329": {
+      "name": "Recipe: Loch Frenzy Delight",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "3680": {
+      "name": "Recipe: Murloc Fin Soup",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "2699": {
+      "name": "Recipe: Redridge Goulash",
+      "sell_price": 200,
+      "buy_price": 800
+    },
+    "2701": {
+      "name": "Recipe: Seasoned Wolf Kabob",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "3736": {
+      "name": "Recipe: Tasty Lion Steak",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "728": {
+      "name": "Recipe: Westfall Stew",
+      "sell_price": 50,
+      "buy_price": 200
+    },
+    "18649": {
+      "name": "Schematic: Blue Firework",
+      "sell_price": 450,
+      "buy_price": 1800
+    },
+    "7289": {
+      "name": "Pattern: Black Whelp Cloak",
+      "sell_price": 162,
+      "buy_price": 650
+    },
+    "20576": {
+      "name": "Pattern: Black Whelp Tunic",
+      "sell_price": 350,
+      "buy_price": 1400
+    },
+    "7361": {
+      "name": "Pattern: Herbalist's Gloves",
+      "sell_price": 450,
+      "buy_price": 1800
+    },
+    "6710": {
+      "name": "Pattern: Moonglow Vest",
+      "sell_price": 137,
+      "buy_price": 0
+    },
+    "13288": {
+      "name": "Pattern: Raptor Hide Belt",
+      "sell_price": 625,
+      "buy_price": 2500
+    },
+    "7290": {
+      "name": "Pattern: Red Whelp Gloves",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "14627": {
+      "name": "Pattern: Bright Yellow Shirt",
+      "sell_price": 200,
+      "buy_price": 800
+    },
+    "4597": {
+      "name": "Recipe: Minor Discolored Healing Potion",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "7981": {
+      "name": "Plans: Barbaric Iron Boots",
+      "sell_price": 1100,
+      "buy_price": 0
+    },
+    "7979": {
+      "name": "Plans: Barbaric Iron Breastplate",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "7982": {
+      "name": "Plans: Barbaric Iron Gloves",
+      "sell_price": 1100,
+      "buy_price": 0
+    },
+    "7980": {
+      "name": "Plans: Barbaric Iron Helm",
+      "sell_price": 850,
+      "buy_price": 0
+    },
+    "7978": {
+      "name": "Plans: Barbaric Iron Shoulders",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "12226": {
+      "name": "Recipe: Crispy Bat Wing",
+      "sell_price": 6,
+      "buy_price": 25
+    },
+    "5488": {
+      "name": "Recipe: Crispy Lizard Tail",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "20075": {
+      "name": "Recipe: Heavy Crocolisk Stew",
+      "sell_price": 500,
+      "buy_price": 2000
+    },
+    "5484": {
+      "name": "Recipe: Roasted Kodo Meat",
+      "sell_price": 60,
+      "buy_price": 240
+    },
+    "5483": {
+      "name": "Recipe: Scorpid Surprise",
+      "sell_price": 35,
+      "buy_price": 140
+    },
+    "6346": {
+      "name": "Formula: Enchant Chest - Lesser Intellect",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "18647": {
+      "name": "Schematic: Red Firework",
+      "sell_price": 450,
+      "buy_price": 1800
+    },
+    "5083": {
+      "name": "Pattern: Kodo Hide Bag",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "13287": {
+      "name": "Pattern: Raptor Hide Harness",
+      "sell_price": 625,
+      "buy_price": 2500
+    },
+    "247786": {
+      "name": "Mote of Magic",
+      "sell_price": 1,
+      "buy_price": 10,
+      "orgrimmar_vendor": true
+    },
+    "10940": {
+      "name": "Strange Dust",
+      "sell_price": 1,
+      "buy_price": 800,
+      "orgrimmar_vendor": true
+    },
+    "6217": {
+      "name": "Copper Rod",
+      "sell_price": 24,
+      "buy_price": 124,
+      "orgrimmar_vendor": true
+    },
+    "6218": {
+      "name": "Runed Copper Rod",
+      "sell_price": 24,
+      "buy_price": 0
+    },
+    "10938": {
+      "name": "Lesser Magic Essence",
+      "sell_price": 1,
+      "buy_price": 800,
+      "orgrimmar_vendor": true
+    },
+    "10939": {
+      "name": "Greater Magic Essence",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "10978": {
+      "name": "Small Glimmering Shard",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "6338": {
+      "name": "Silver Rod",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "1210": {
+      "name": "Shadowgem",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "6339": {
+      "name": "Runed Silver Rod",
+      "sell_price": 24,
+      "buy_price": 0
+    },
+    "10998": {
+      "name": "Lesser Astral Essence",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "6371": {
+      "name": "Fire Oil",
+      "sell_price": 12,
+      "buy_price": 0
+    },
+    "11083": {
+      "name": "Soul Dust",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "11084": {
+      "name": "Large Glimmering Shard",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "6048": {
+      "name": "Shadow Protection Potion",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "11082": {
+      "name": "Greater Astral Essence",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "2772": {
+      "name": "Iron Ore",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "3356": {
+      "name": "Kingsblood",
+      "sell_price": 30,
+      "buy_price": 120,
+      "orgrimmar_vendor": false
+    },
+    "6370": {
+      "name": "Blackmouth Oil",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "11128": {
+      "name": "Golden Rod",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "5500": {
+      "name": "Iridescent Pearl",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "11130": {
+      "name": "Runed Golden Rod",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "11134": {
+      "name": "Lesser Mystic Essence",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "11138": {
+      "name": "Small Glowing Shard",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "5637": {
+      "name": "Large Fang",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "7067": {
+      "name": "Elemental Earth",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "7068": {
+      "name": "Elemental Fire",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "11137": {
+      "name": "Vision Dust",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "11135": {
+      "name": "Greater Mystic Essence",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "11139": {
+      "name": "Large Glowing Shard",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "7392": {
+      "name": "Green Whelp Scale",
+      "sell_price": 200,
+      "buy_price": 0
+    },
+    "11144": {
+      "name": "Truesilver Rod",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "7971": {
+      "name": "Black Pearl",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "11145": {
+      "name": "Runed Truesilver Rod",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "11174": {
+      "name": "Lesser Nether Essence",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "6037": {
+      "name": "Truesilver Bar",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "8838": {
+      "name": "Sungrass",
+      "sell_price": 60,
+      "buy_price": 0
+    },
+    "11177": {
+      "name": "Small Radiant Shard",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "7909": {
+      "name": "Aquamarine",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "7078": {
+      "name": "Essence of Fire",
+      "sell_price": 400,
+      "buy_price": 1600,
+      "orgrimmar_vendor": false
+    },
+    "11176": {
+      "name": "Dream Dust",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "9224": {
+      "name": "Potion of Demon Slaying",
+      "sell_price": 700,
+      "buy_price": 0
+    },
+    "11175": {
+      "name": "Greater Nether Essence",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "11178": {
+      "name": "Large Radiant Shard",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "3829": {
+      "name": "Frost Oil",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "8153": {
+      "name": "Wildvine",
+      "sell_price": 5,
+      "buy_price": 0
+    },
+    "4470": {
+      "name": "Simple Wood",
+      "sell_price": 9,
+      "buy_price": 38,
+      "orgrimmar_vendor": true
+    },
+    "11287": {
+      "name": "Lesser Magic Wand",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "11288": {
+      "name": "Greater Magic Wand",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "11291": {
+      "name": "Star Wood",
+      "sell_price": 1125,
+      "buy_price": 4500,
+      "orgrimmar_vendor": true
+    },
+    "11289": {
+      "name": "Lesser Mystic Wand",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "217287": {
+      "name": "Greater Mystic Wand",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "11382": {
+      "name": "Blood of the Mountain",
+      "sell_price": 750,
+      "buy_price": 3000,
+      "orgrimmar_vendor": false
+    },
+    "14343": {
+      "name": "Small Brilliant Shard",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "11811": {
+      "name": "Smoking Heart of the Mountain",
+      "sell_price": 15152,
+      "buy_price": 0
+    },
+    "8170": {
+      "name": "Rugged Leather",
+      "sell_price": 500,
+      "buy_price": 2000,
+      "orgrimmar_vendor": false
+    },
+    "16202": {
+      "name": "Lesser Eternal Essence",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "12810": {
+      "name": "Enchanted Leather",
+      "sell_price": 500,
+      "buy_price": 2000,
+      "orgrimmar_vendor": false
+    },
+    "12359": {
+      "name": "Thorium Bar",
+      "sell_price": 600,
+      "buy_price": 0
+    },
+    "12655": {
+      "name": "Enchanted Thorium Bar",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "7077": {
+      "name": "Heart of Fire",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "7075": {
+      "name": "Core of Earth",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "7079": {
+      "name": "Globe of Water",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "7081": {
+      "name": "Breath of Wind",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "7972": {
+      "name": "Ichor of Undeath",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "16204": {
+      "name": "Illusion Dust",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "16203": {
+      "name": "Greater Eternal Essence",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "7080": {
+      "name": "Essence of Water",
+      "sell_price": 400,
+      "buy_price": 1600,
+      "orgrimmar_vendor": false
+    },
+    "7082": {
+      "name": "Essence of Air",
+      "sell_price": 400,
+      "buy_price": 1600,
+      "orgrimmar_vendor": false
+    },
+    "13467": {
+      "name": "Icecap",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "16206": {
+      "name": "Arcanite Rod",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "13926": {
+      "name": "Golden Pearl",
+      "sell_price": 10000,
+      "buy_price": 0
+    },
+    "14344": {
+      "name": "Large Brilliant Shard",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "16207": {
+      "name": "Runed Arcanite Rod",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "12808": {
+      "name": "Essence of Undeath",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "12811": {
+      "name": "Righteous Orb",
+      "sell_price": 20000,
+      "buy_price": 0
+    },
+    "12803": {
+      "name": "Living Essence",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "3819": {
+      "name": "Wintersbite",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "7076": {
+      "name": "Essence of Earth",
+      "sell_price": 400,
+      "buy_price": 1600,
+      "orgrimmar_vendor": false
+    },
+    "20725": {
+      "name": "Nexus Crystal",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "18512": {
+      "name": "Larval Acid",
+      "sell_price": 4000,
+      "buy_price": 0
+    },
+    "13468": {
+      "name": "Black Lotus",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "11754": {
+      "name": "Black Diamond",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "12809": {
+      "name": "Guardian Stone",
+      "sell_price": 10000,
+      "buy_price": 0
+    },
+    "17034": {
+      "name": "Maple Seed",
+      "sell_price": 50,
+      "buy_price": 200,
+      "orgrimmar_vendor": true
+    },
+    "3371": {
+      "name": "Empty Vial",
+      "sell_price": 1,
+      "buy_price": 20,
+      "orgrimmar_vendor": true
+    },
+    "20744": {
+      "name": "Minor Wizard Oil",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "3372": {
+      "name": "Leaded Vial",
+      "sell_price": 10,
+      "buy_price": 200,
+      "orgrimmar_vendor": true
+    },
+    "20745": {
+      "name": "Minor Mana Oil",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "17035": {
+      "name": "Stranglethorn Seed",
+      "sell_price": 100,
+      "buy_price": 400,
+      "orgrimmar_vendor": true
+    },
+    "20746": {
+      "name": "Lesser Wizard Oil",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "8831": {
+      "name": "Purple Lotus",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "8925": {
+      "name": "Crystal Vial",
+      "sell_price": 125,
+      "buy_price": 2500,
+      "orgrimmar_vendor": true
+    },
+    "20747": {
+      "name": "Lesser Mana Oil",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "4625": {
+      "name": "Firebloom",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "20750": {
+      "name": "Wizard Oil",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "18256": {
+      "name": "Imbued Vial",
+      "sell_price": 1500,
+      "buy_price": 30000,
+      "orgrimmar_vendor": true
+    },
+    "20749": {
+      "name": "Brilliant Wizard Oil",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "20748": {
+      "name": "Brilliant Mana Oil",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "217308": {
+      "name": "Enchanted Sigil: Innovation",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "220792": {
+      "name": "Scroll of Spatial Mending",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "228980": {
+      "name": "Conductive Shield Coating",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "228978": {
+      "name": "Enchanted Sigil: Flowing Waters",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "8151": {
+      "name": "Flask of Mojo",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "8152": {
+      "name": "Flask of Big Mojo",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "232611": {
+      "name": "Magnificent Trollshine",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "234006": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "234010": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "234004": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "2452": {
+      "name": "Swiftthistle",
+      "sell_price": 15,
+      "buy_price": 0
+    },
+    "234003": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "234012": {
+      "name": "Hive Thistle",
+      "sell_price": 15,
+      "buy_price": 0
+    },
+    "234007": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "234011": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "234005": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "2459": {
+      "name": "Swiftness Potion",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "14047": {
+      "name": "Runecloth",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "13458": {
+      "name": "Greater Nature Protection Potion",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "13180": {
+      "name": "Stratholme Holy Water",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "12735": {
+      "name": "Frayed Abomination Stitching",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "12753": {
+      "name": "Skin of Shadow",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "234008": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "12938": {
+      "name": "Blood of Heroes",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "279976": {
+      "name": "Enchanted Lute",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "247789": {
+      "name": "Novice's Practice Wand",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "4605": {
+      "name": "Red-speckled Mushroom",
+      "sell_price": 6,
+      "buy_price": 125,
+      "orgrimmar_vendor": true
+    },
+    "249396": {
+      "name": "Mystic Mushroom",
+      "sell_price": 1012,
+      "buy_price": 0
+    },
+    "3013": {
+      "name": "Scroll of Protection",
+      "sell_price": 25,
+      "buy_price": 100,
+      "orgrimmar_vendor": false
+    },
+    "249397": {
+      "name": "Tenets of the Silver Hand",
+      "sell_price": 1012,
+      "buy_price": 0
+    },
+    "249398": {
+      "name": "Polished Driftwood Icon",
+      "sell_price": 1012,
+      "buy_price": 0
+    },
+    "249391": {
+      "name": "Pyrite",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "249399": {
+      "name": "Frilled Lichen",
+      "sell_price": 30,
+      "buy_price": 0
+    },
+    "2775": {
+      "name": "Silver Ore",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "249409": {
+      "name": "Cerulean Dye",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "249410": {
+      "name": "Sulfuric Acid",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "249392": {
+      "name": "Glimmering Staff",
+      "sell_price": 601,
+      "buy_price": 0
+    },
+    "249393": {
+      "name": "Soulstaff",
+      "sell_price": 601,
+      "buy_price": 0
+    },
+    "249394": {
+      "name": "Orb of Mystic Insight",
+      "sell_price": 2156,
+      "buy_price": 0
+    },
+    "249395": {
+      "name": "Orb of Souls",
+      "sell_price": 2156,
+      "buy_price": 0
+    },
+    "249144": {
+      "name": "Twisted Nether Wand",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "249430": {
+      "name": "Magenta Dye",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "249441": {
+      "name": "Talons of Wrath",
+      "sell_price": 5833,
+      "buy_price": 0
+    },
+    "2289": {
+      "name": "Scroll of Strength II",
+      "sell_price": 87,
+      "buy_price": 350,
+      "orgrimmar_vendor": false
+    },
+    "249442": {
+      "name": "Libram of Invocation",
+      "sell_price": 5833,
+      "buy_price": 0
+    },
+    "249432": {
+      "name": "Sandpaper",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "249443": {
+      "name": "Totem of Ancestral Protection",
+      "sell_price": 11880,
+      "buy_price": 0
+    },
+    "249425": {
+      "name": "Bauxite",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "249424": {
+      "name": "Rosecap",
+      "sell_price": 95,
+      "buy_price": 0
+    },
+    "249453": {
+      "name": "Radiant Staff",
+      "sell_price": 33605,
+      "buy_price": 0
+    },
+    "249454": {
+      "name": "Dreamstaff",
+      "sell_price": 33731,
+      "buy_price": 0
+    },
+    "249455": {
+      "name": "Truesilver Conduit",
+      "sell_price": 10835,
+      "buy_price": 0
+    },
+    "249456": {
+      "name": "Twisting Essence Jar",
+      "sell_price": 10877,
+      "buy_price": 0
+    },
+    "249234": {
+      "name": "Dreambough Wand",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "249232": {
+      "name": "Lesser Eternal Wand",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "15407": {
+      "name": "Cured Rugged Hide",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "249469": {
+      "name": "Frozen Heart of the Mountain",
+      "sell_price": 1500,
+      "buy_price": 0
+    },
+    "249470": {
+      "name": "Molten Heart of the Mountain",
+      "sell_price": 1500,
+      "buy_price": 0
+    },
+    "249473": {
+      "name": "Dormant Heart of the Mountain",
+      "sell_price": 1500,
+      "buy_price": 0
+    },
+    "249237": {
+      "name": "Greater Eternal Wand",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "248819": {
+      "name": "Fel Crystal",
+      "sell_price": 3000,
+      "buy_price": 0
+    },
+    "248820": {
+      "name": "Torbernite",
+      "sell_price": 15000,
+      "buy_price": 0
+    },
+    "249726": {
+      "name": "Azerothium Bar",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "249274": {
+      "name": "Stranglevine",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "249431": {
+      "name": "Viridian Dye",
+      "sell_price": 375,
+      "buy_price": 0
+    },
+    "220606": {
+      "name": "Idol of the Dream",
+      "sell_price": 11850,
+      "buy_price": 0
+    },
+    "10308": {
+      "name": "Scroll of Intellect IV",
+      "sell_price": 112,
+      "buy_price": 0
+    },
+    "228175": {
+      "name": "Libram of Holy Alacrity",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "228176": {
+      "name": "Totem of Thunder",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "248822": {
+      "name": "Death Lotus",
+      "sell_price": 1500,
+      "buy_price": 0
+    },
+    "249385": {
+      "name": "Brilliant Wand",
+      "sell_price": 5263,
+      "buy_price": 0
+    },
+    "279985": {
+      "name": "Arcane Salvager",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "273128": {
+      "name": "Maker's Spark",
+      "sell_price": 25000,
+      "buy_price": 0
+    },
+    "279987": {
+      "name": "Arcane Forge",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "274030": {
+      "name": "Malleable Essence of Nature",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "279246": {
+      "name": "Torch of Light",
+      "sell_price": 66513,
+      "buy_price": 0
+    },
+    "279247": {
+      "name": "Steadfast Libram",
+      "sell_price": 24157,
+      "buy_price": 0
+    },
+    "279248": {
+      "name": "Libram of Infusion",
+      "sell_price": 24924,
+      "buy_price": 0
+    },
+    "279249": {
+      "name": "Totem of Urgency",
+      "sell_price": 25015,
+      "buy_price": 0
+    },
+    "279250": {
+      "name": "Idol of Swiftness",
+      "sell_price": 25109,
+      "buy_price": 0
+    },
+    "279251": {
+      "name": "Idol of the Ursine Twins",
+      "sell_price": 25203,
+      "buy_price": 0
+    },
+    "12363": {
+      "name": "Arcane Crystal",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "6342": {
+      "name": "Formula: Enchant Chest - Minor Intellect",
+      "sell_price": 75,
+      "buy_price": 300
+    },
+    "6344": {
+      "name": "Formula: Enchant Bracer - Minor Spirit",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "6345": {
+      "name": "Formula: Imbue Cloak - Protection",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "6347": {
+      "name": "Formula: Enchant Bracer - Minor Strength",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "6348": {
+      "name": "Formula: Enchant Weapon - Minor Beastslayer",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "6349": {
+      "name": "Formula: Enchant 2H Weapon - Lesser Intellect",
+      "sell_price": 125,
+      "buy_price": 500
+    },
+    "6375": {
+      "name": "Formula: Enchant Bracer - Lesser Spirit",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "6376": {
+      "name": "Formula: Enchant Boots - Minor Stamina",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "6377": {
+      "name": "Formula: Enchant Boots - Minor Agility",
+      "sell_price": 250,
+      "buy_price": 1000
+    },
+    "11038": {
+      "name": "Formula: Enchant 2H Weapon - Lesser Spirit",
+      "sell_price": 200,
+      "buy_price": 0
+    },
+    "11039": {
+      "name": "Formula: Enchant Cloak - Minor Agility",
+      "sell_price": 200,
+      "buy_price": 800
+    },
+    "11081": {
+      "name": "Formula: Enchant Shield - Lesser Protection",
+      "sell_price": 200,
+      "buy_price": 0
+    },
+    "11098": {
+      "name": "Formula: Enchant Cloak - Lesser Shadow Resistance",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "11101": {
+      "name": "Formula: Enchant Bracer - Lesser Strength",
+      "sell_price": 625,
+      "buy_price": 2500
+    },
+    "11150": {
+      "name": "Formula: Enchant Gloves - Mining",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "11151": {
+      "name": "Formula: Enchant Gloves - Herbalism",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "11152": {
+      "name": "Formula: Enchant Gloves - Fishing",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "11163": {
+      "name": "Formula: Enchant Bracer - Lesser Deflection",
+      "sell_price": 750,
+      "buy_price": 3000
+    },
+    "11164": {
+      "name": "Formula: Enchant Weapon - Lesser Beastslayer",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "11165": {
+      "name": "Formula: Enchant Weapon - Lesser Elemental Slayer",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "11166": {
+      "name": "Formula: Enchant Gloves - Skinning",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "11167": {
+      "name": "Formula: Enchant Boots - Lesser Spirit",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "11168": {
+      "name": "Formula: Enchant Shield - Lesser Block",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "11202": {
+      "name": "Formula: Enchant Shield - Stamina",
+      "sell_price": 1100,
+      "buy_price": 0
+    },
+    "11203": {
+      "name": "Formula: Enchant Gloves - Advanced Mining",
+      "sell_price": 1100,
+      "buy_price": 0
+    },
+    "11204": {
+      "name": "Formula: Enchant Bracer - Greater Spirit",
+      "sell_price": 1100,
+      "buy_price": 0
+    },
+    "11205": {
+      "name": "Formula: Enchant Gloves - Advanced Herbalism",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "11206": {
+      "name": "Formula: Enchant Cloak - Lesser Agility",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "11207": {
+      "name": "Formula: Enchant Weapon - Fiery Weapon",
+      "sell_price": 3000,
+      "buy_price": 0
+    },
+    "11208": {
+      "name": "Formula: Enchant Weapon - Demonslaying",
+      "sell_price": 1350,
+      "buy_price": 0
+    },
+    "11223": {
+      "name": "Formula: Enchant Bracer - Deflection",
+      "sell_price": 1450,
+      "buy_price": 5800
+    },
+    "11224": {
+      "name": "Formula: Enchant Shield - Frost Resistance",
+      "sell_price": 1450,
+      "buy_price": 0
+    },
+    "11225": {
+      "name": "Formula: Enchant Bracer - Greater Stamina",
+      "sell_price": 1550,
+      "buy_price": 0
+    },
+    "11226": {
+      "name": "Formula: Enchant Gloves - Riding Skill",
+      "sell_price": 1550,
+      "buy_price": 0
+    },
+    "11813": {
+      "name": "Formula: Smoking Heart of the Mountain",
+      "sell_price": 3000,
+      "buy_price": 0
+    },
+    "16214": {
+      "name": "Formula: Enchant Bracer - Greater Intellect",
+      "sell_price": 3000,
+      "buy_price": 0
+    },
+    "16215": {
+      "name": "Formula: Enchant Boots - Greater Stamina",
+      "sell_price": 3000,
+      "buy_price": 0
+    },
+    "16216": {
+      "name": "Formula: Enchant Cloak - Greater Resistance",
+      "sell_price": 3000,
+      "buy_price": 0
+    },
+    "16217": {
+      "name": "Formula: Enchant Shield - Greater Stamina",
+      "sell_price": 3000,
+      "buy_price": 12000
+    },
+    "16218": {
+      "name": "Formula: Enchant Bracer - Superior Spirit",
+      "sell_price": 3500,
+      "buy_price": 0
+    },
+    "16219": {
+      "name": "Formula: Enchant Gloves - Greater Agility",
+      "sell_price": 3500,
+      "buy_price": 0
+    },
+    "16220": {
+      "name": "Formula: Enchant Boots - Spirit",
+      "sell_price": 4000,
+      "buy_price": 0
+    },
+    "16221": {
+      "name": "Formula: Enchant Chest - Major Stamina",
+      "sell_price": 4000,
+      "buy_price": 16000
+    },
+    "16222": {
+      "name": "Formula: Enchant Shield - Superior Spirit",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "16223": {
+      "name": "Formula: Enchant Weapon - Icy Chill",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "16224": {
+      "name": "Formula: Enchant Cloak - Superior Defense",
+      "sell_price": 5000,
+      "buy_price": 20000
+    },
+    "16242": {
+      "name": "Formula: Enchant Chest - Major Intellect",
+      "sell_price": 5500,
+      "buy_price": 0
+    },
+    "16243": {
+      "name": "Formula: Runed Arcanite Rod",
+      "sell_price": 5500,
+      "buy_price": 22000
+    },
+    "16244": {
+      "name": "Formula: Enchant Gloves - Greater Strength",
+      "sell_price": 6000,
+      "buy_price": 0
+    },
+    "16245": {
+      "name": "Formula: Enchant Boots - Greater Agility",
+      "sell_price": 6000,
+      "buy_price": 0
+    },
+    "16246": {
+      "name": "Formula: Enchant Bracer - Superior Strength",
+      "sell_price": 6000,
+      "buy_price": 0
+    },
+    "16247": {
+      "name": "Formula: Enchant 2H Weapon - Superior Impact",
+      "sell_price": 6000,
+      "buy_price": 0
+    },
+    "16248": {
+      "name": "Formula: Enchant Weapon - Unholy Weapon",
+      "sell_price": 6000,
+      "buy_price": 0
+    },
+    "16249": {
+      "name": "Formula: Enchant 2H Weapon - Major Intellect",
+      "sell_price": 7500,
+      "buy_price": 0
+    },
+    "16250": {
+      "name": "Formula: Enchant Weapon - Superior Striking",
+      "sell_price": 7500,
+      "buy_price": 0
+    },
+    "16251": {
+      "name": "Formula: Enchant Bracer - Superior Stamina",
+      "sell_price": 7500,
+      "buy_price": 0
+    },
+    "16252": {
+      "name": "Formula: Enchant Weapon - Crusader",
+      "sell_price": 7500,
+      "buy_price": 0
+    },
+    "16253": {
+      "name": "Formula: Enchant Chest - Greater Stats",
+      "sell_price": 7500,
+      "buy_price": 0
+    },
+    "16254": {
+      "name": "Formula: Enchant Weapon - Lifestealing",
+      "sell_price": 7500,
+      "buy_price": 0
+    },
+    "16255": {
+      "name": "Formula: Enchant 2H Weapon - Major Spirit",
+      "sell_price": 7500,
+      "buy_price": 0
+    },
+    "17725": {
+      "name": "Formula: Enchant Weapon - Winter's Might",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "18259": {
+      "name": "Formula: Enchant Weapon - Spell Power",
+      "sell_price": 7500,
+      "buy_price": 0
+    },
+    "18260": {
+      "name": "Formula: Enchant Weapon - Healing Power",
+      "sell_price": 7500,
+      "buy_price": 0
+    },
+    "19444": {
+      "name": "Formula: Enchant Weapon - Strength",
+      "sell_price": 7500,
+      "buy_price": 30000
+    },
+    "19445": {
+      "name": "Formula: Enchant Weapon - Agility",
+      "sell_price": 7500,
+      "buy_price": 30000
+    },
+    "19446": {
+      "name": "Formula: Enchant Bracer - Mana Regeneration",
+      "sell_price": 7500,
+      "buy_price": 30000
+    },
+    "19447": {
+      "name": "Formula: Enchant Bracer - Healing",
+      "sell_price": 15000,
+      "buy_price": 60000
+    },
+    "19448": {
+      "name": "Formula: Enchant Weapon - Mighty Spirit",
+      "sell_price": 20000,
+      "buy_price": 80000
+    },
+    "19449": {
+      "name": "Formula: Enchant Weapon - Mighty Intellect",
+      "sell_price": 25000,
+      "buy_price": 100000
+    },
+    "20726": {
+      "name": "Formula: Enchant Gloves - Threat",
+      "sell_price": 25000,
+      "buy_price": 0
+    },
+    "20727": {
+      "name": "Formula: Enchant Gloves - Shadow Power",
+      "sell_price": 25000,
+      "buy_price": 0
+    },
+    "20728": {
+      "name": "Formula: Enchant Gloves - Frost Power",
+      "sell_price": 25000,
+      "buy_price": 0
+    },
+    "20729": {
+      "name": "Formula: Enchant Gloves - Fire Power",
+      "sell_price": 25000,
+      "buy_price": 0
+    },
+    "20730": {
+      "name": "Formula: Enchant Gloves - Healing Power",
+      "sell_price": 25000,
+      "buy_price": 0
+    },
+    "20731": {
+      "name": "Formula: Enchant Gloves - Superior Agility",
+      "sell_price": 25000,
+      "buy_price": 0
+    },
+    "20732": {
+      "name": "Formula: Enchant Cloak - Greater Fire Resistance",
+      "sell_price": 25000,
+      "buy_price": 100000
+    },
+    "20733": {
+      "name": "Formula: Enchant Cloak - Greater Nature Resistance",
+      "sell_price": 25000,
+      "buy_price": 100000
+    },
+    "20734": {
+      "name": "Formula: Enchant Cloak - Stealth",
+      "sell_price": 25000,
+      "buy_price": 0
+    },
+    "20735": {
+      "name": "Formula: Enchant Cloak - Subtlety",
+      "sell_price": 25000,
+      "buy_price": 0
+    },
+    "20736": {
+      "name": "Formula: Enchant Cloak - Dodge",
+      "sell_price": 25000,
+      "buy_price": 0
+    },
+    "20752": {
+      "name": "Formula: Minor Mana Oil",
+      "sell_price": 750,
+      "buy_price": 3000
+    },
+    "20753": {
+      "name": "Formula: Lesser Wizard Oil",
+      "sell_price": 1000,
+      "buy_price": 4000
+    },
+    "20754": {
+      "name": "Formula: Lesser Mana Oil",
+      "sell_price": 2500,
+      "buy_price": 10000
+    },
+    "20755": {
+      "name": "Formula: Wizard Oil",
+      "sell_price": 5000,
+      "buy_price": 20000
+    },
+    "20756": {
+      "name": "Formula: Brilliant Wizard Oil",
+      "sell_price": 10000,
+      "buy_price": 40000
+    },
+    "20757": {
+      "name": "Formula: Brilliant Mana Oil",
+      "sell_price": 10000,
+      "buy_price": 40000
+    },
+    "20758": {
+      "name": "Formula: Minor Wizard Oil",
+      "sell_price": 125,
+      "buy_price": 500
+    },
+    "22392": {
+      "name": "Formula: Enchant 2H Weapon - Agility",
+      "sell_price": 6250,
+      "buy_price": 25000
+    },
+    "215129": {
+      "name": "Formula: Enchant Weapon - Dismantle",
+      "sell_price": 1280,
+      "buy_price": 50000
+    },
+    "215138": {
+      "name": "Formula: Enchant Chest - Retricutioner",
+      "sell_price": 1280,
+      "buy_price": 50000
+    },
+    "215141": {
+      "name": "Enchanted Sigil: Innovation",
+      "sell_price": 1280,
+      "buy_price": 50000
+    },
+    "223163": {
+      "name": "Formula: Scroll of Spatial Mending",
+      "sell_price": 1280,
+      "buy_price": 0
+    },
+    "228979": {
+      "name": "Enchanted Sigil: Flowing Waters",
+      "sell_price": 25000,
+      "buy_price": 100000
+    },
+    "228981": {
+      "name": "Formula: Conductive Shield Coating",
+      "sell_price": 5000,
+      "buy_price": 20000
+    },
+    "228982": {
+      "name": "Formula: Enchant Shield - Law of Nature",
+      "sell_price": 25000,
+      "buy_price": 100000
+    },
+    "229008": {
+      "name": "Formula: Enchant Cloak - Greater Fire Resistance",
+      "sell_price": 25000,
+      "buy_price": 100000
+    },
+    "229009": {
+      "name": "Formula: Enchant Cloak - Greater Nature Resistance",
+      "sell_price": 25000,
+      "buy_price": 100000
+    },
+    "232610": {
+      "name": "Formula: Magnificent Trollshine",
+      "sell_price": 10000,
+      "buy_price": 40000
+    },
+    "234271": {
+      "name": "Formula: Scroll: Wrath of the Swarm",
+      "sell_price": 25000,
+      "buy_price": 100000
+    },
+    "234272": {
+      "name": "Formula: Enchanted Repellent",
+      "sell_price": 12500,
+      "buy_price": 50000
+    },
+    "241191": {
+      "name": "Formula: Enchant Weapon - Grand Crusader",
+      "sell_price": 7500,
+      "buy_price": 0
+    },
+    "241195": {
+      "name": "Formula: Enchant 2H Weapon - Grand Arcanist",
+      "sell_price": 7500,
+      "buy_price": 0
+    },
+    "241201": {
+      "name": "Formula: Enchant Weapon - Grand Sorcerer",
+      "sell_price": 7500,
+      "buy_price": 0
+    },
+    "242361": {
+      "name": "Formula: Enchant 2H Weapon - Grand Inquisitor",
+      "sell_price": 7500,
+      "buy_price": 0
+    },
+    "249474": {
+      "name": "Formula: Enchant Bracer - Minor Intellect",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "249475": {
+      "name": "Formula: Enchant Bracer - Minor Healing Power",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "249476": {
+      "name": "Formula: Mystic Mushroom",
+      "sell_price": 650,
+      "buy_price": 3250
+    },
+    "249477": {
+      "name": "Formula: Tenets of the Silver Hand",
+      "sell_price": 650,
+      "buy_price": 3250
+    },
+    "249478": {
+      "name": "Formula: Polished Driftwood Icon",
+      "sell_price": 650,
+      "buy_price": 3250
+    },
+    "249479": {
+      "name": "Formula: Enchant Weapon - Insight",
+      "sell_price": 700,
+      "buy_price": 3500
+    },
+    "249480": {
+      "name": "Formula: Enchant Weapon - Recovery",
+      "sell_price": 700,
+      "buy_price": 3500
+    },
+    "249481": {
+      "name": "Formula: Enchant Weapon - Revelation",
+      "sell_price": 700,
+      "buy_price": 3500
+    },
+    "249482": {
+      "name": "Formula: Glimmering Staff",
+      "sell_price": 700,
+      "buy_price": 3500
+    },
+    "249483": {
+      "name": "Formula: Soulstaff",
+      "sell_price": 700,
+      "buy_price": 3500
+    },
+    "249484": {
+      "name": "Formula: Orb of Mystic Insight",
+      "sell_price": 700,
+      "buy_price": 3500
+    },
+    "249485": {
+      "name": "Formula: Orb of Souls",
+      "sell_price": 700,
+      "buy_price": 3500
+    },
+    "249486": {
+      "name": "Formula: Enchant Bracer - Lesser Agility",
+      "sell_price": 2000,
+      "buy_price": 10000
+    },
+    "249487": {
+      "name": "Formula: Twisted Nether Wand",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "249488": {
+      "name": "Formula: Enchant Bracer - Agility",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "249489": {
+      "name": "Formula: Enchant Bracer - Lesser Healing Power",
+      "sell_price": 2000,
+      "buy_price": 10000
+    },
+    "249493": {
+      "name": "Formula: Talons of Wrath",
+      "sell_price": 1050,
+      "buy_price": 5250
+    },
+    "249494": {
+      "name": "Formula: Libram of Invocation",
+      "sell_price": 1050,
+      "buy_price": 5250
+    },
+    "249495": {
+      "name": "Formula: Totem of Ancestral Protection",
+      "sell_price": 1050,
+      "buy_price": 5250
+    },
+    "249496": {
+      "name": "Formula: Enchant Necklace - Strength",
+      "sell_price": 1050,
+      "buy_price": 5250
+    },
+    "249502": {
+      "name": "Formula: Enchant Necklace - Spell Power",
+      "sell_price": 1050,
+      "buy_price": 5250
+    },
+    "249503": {
+      "name": "Formula: Enchant Necklace - Healing Power",
+      "sell_price": 1050,
+      "buy_price": 5250
+    },
+    "249504": {
+      "name": "Formula: Enchant Necklace - Agility",
+      "sell_price": 1050,
+      "buy_price": 5250
+    },
+    "249505": {
+      "name": "Formula: Enchant Necklace - Deflection",
+      "sell_price": 1050,
+      "buy_price": 5250
+    },
+    "249506": {
+      "name": "Formula: Radiant Staff",
+      "sell_price": 1100,
+      "buy_price": 5500
+    },
+    "249507": {
+      "name": "Formula: Dreamstaff",
+      "sell_price": 1100,
+      "buy_price": 5500
+    },
+    "249508": {
+      "name": "Formula: Truesilver Conduit",
+      "sell_price": 1100,
+      "buy_price": 5500
+    },
+    "249509": {
+      "name": "Formula: Twisting Essence Jar",
+      "sell_price": 1100,
+      "buy_price": 5500
+    },
+    "249510": {
+      "name": "Formula: Enchant Chest - Absorption",
+      "sell_price": 1100,
+      "buy_price": 5500
+    },
+    "249511": {
+      "name": "Formula: Enchant 2H Weapon - Lesser Agility",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "249512": {
+      "name": "Formula: Dreambough Wand",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "249513": {
+      "name": "Formula: Enchant 2H Weapon - Lesser Strength",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "249514": {
+      "name": "Formula: Enchant Bracer - Greater Agility",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "249515": {
+      "name": "Formula: Lesser Eternal Wand",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "249516": {
+      "name": "Formula: Enchant Gloves - Advanced Skinning",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "249522": {
+      "name": "Formula: Greater Eternal Wand",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "249523": {
+      "name": "Formula: Enchant 2H Weapon - Strength",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "249524": {
+      "name": "Formula: Enchant Bracer - Superior Agility",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "249525": {
+      "name": "Formula: Enchant 2H Weapon - Mighty Spell Power",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "249526": {
+      "name": "Formula: Enchant 2H Weapon - Mighty Healing Power",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "249529": {
+      "name": "Formula: Idol of the Dream",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "249530": {
+      "name": "Formula: Libram of Holy Alacrity",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "249532": {
+      "name": "Formula: Totem of Thunder",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "249534": {
+      "name": "Formula: Enchant Gloves - Arcane Power",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "249535": {
+      "name": "Formula: Enchant Gloves - Natural Power",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "249536": {
+      "name": "Formula: Enchant Gloves - Holy Power",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "249537": {
+      "name": "Formula: Brilliant Wand",
+      "sell_price": 1375,
+      "buy_price": 6875
+    },
+    "249538": {
+      "name": "Formula: Enchant Bracer - Superior Intellect",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "249539": {
+      "name": "Formula: Enchant Bracer - Superior Deflection",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "273103": {
+      "name": "Blueprint: Arcane Salvager",
+      "sell_price": 375,
+      "buy_price": 0
+    },
+    "273116": {
+      "name": "Blueprint: Arcane Forge",
+      "sell_price": 120000,
+      "buy_price": 0
+    },
+    "274391": {
+      "name": "Formula: Enchant Off-Hand - Superior Intellect",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "274392": {
+      "name": "Formula: Enchant Off-Hand - Excellent Spirit",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "274393": {
+      "name": "Formula: Enchant Off-Hand - Wisdom",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "274394": {
+      "name": "Formula: Enchant 2H Weapon - Spellblasting",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "274395": {
+      "name": "Formula: Enchant Shield - Excellent Stamina",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "274398": {
+      "name": "Formula: Enchant Gloves - Superior Strength",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "274399": {
+      "name": "Formula: Enchant Cloak - Agility",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "274400": {
+      "name": "Formula: Enchant Shield - Critical Strike",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "274401": {
+      "name": "Formula: Enchant Bracer - Greater Spellpower",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "274424": {
+      "name": "Formula: Enchant Gloves - Lotus Claw",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "279295": {
+      "name": "Formula: Torch of Light",
+      "sell_price": 125000,
+      "buy_price": 0
+    },
+    "279296": {
+      "name": "Formula: Steadfast Libram",
+      "sell_price": 125000,
+      "buy_price": 0
+    },
+    "279297": {
+      "name": "Formula: Libram of Infusion",
+      "sell_price": 125000,
+      "buy_price": 0
+    },
+    "279298": {
+      "name": "Formula: Totem of Urgency",
+      "sell_price": 125000,
+      "buy_price": 0
+    },
+    "279299": {
+      "name": "Formula: Idol of Swiftness",
+      "sell_price": 125000,
+      "buy_price": 0
+    },
+    "279300": {
+      "name": "Formula: Idol of the Ursine Twins",
+      "sell_price": 125000,
+      "buy_price": 0
+    },
+    "6222": {
+      "name": "Formula: Imbue Chest - Minor Spirit",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "6343": {
+      "name": "Formula: Imbue Chest - Spirit",
+      "sell_price": 87,
+      "buy_price": 0
+    },
+    "271624": {
+      "name": "Enchanting Certification",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "242269": {
+      "name": "Brilliance of the Grand Sorcerer",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "242270": {
+      "name": "Brilliance of the Grand Arcanist",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "242271": {
+      "name": "Brilliance of the Grand Crusader",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "242362": {
+      "name": "Brilliance of the Grand Inquisitor",
+      "sell_price": 0,
+      "buy_price": 0
+    }
+  }
+}

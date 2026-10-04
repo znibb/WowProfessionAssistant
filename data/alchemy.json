@@ -1,0 +1,8699 @@
+{
+  "profession": "alchemy",
+  "skill_id": 171,
+  "url": "https://www.wowhead.com/forever/skill=171/alchemy",
+  "scraped_at": "2026-10-04T19:06:30.374618+00:00",
+  "recipes": [
+    {
+      "id": 17632,
+      "name": "Alchemist's Stone",
+      "creates": {
+        "item_id": 13503,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 315,
+        "green": 322,
+        "gray": 330
+      },
+      "learned_at": 300,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7078,
+          "name": "Essence of Fire",
+          "quantity": 8
+        },
+        {
+          "item_id": 7076,
+          "name": "Essence of Earth",
+          "quantity": 8
+        },
+        {
+          "item_id": 7082,
+          "name": "Essence of Air",
+          "quantity": 8
+        },
+        {
+          "item_id": 7080,
+          "name": "Essence of Water",
+          "quantity": 8
+        },
+        {
+          "item_id": 12803,
+          "name": "Living Essence",
+          "quantity": 8
+        },
+        {
+          "item_id": 9262,
+          "name": "Black Vitriol",
+          "quantity": 2
+        },
+        {
+          "item_id": 13468,
+          "name": "Black Lotus",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 1263078,
+      "name": "Alchemy Laboratory",
+      "creates": {
+        "item_id": 279990,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 300,
+        "green": 300,
+        "gray": 300
+      },
+      "learned_at": 300,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 273125,
+          "name": "Lich's Index Finger",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 11461,
+      "name": "Arcane Elixir",
+      "creates": {
+        "item_id": 9155,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 235,
+        "yellow": 250,
+        "green": 270,
+        "gray": 290
+      },
+      "learned_at": 235,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8839,
+          "name": "Blindweed",
+          "quantity": 1
+        },
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7836,
+      "name": "Blackmouth Oil",
+      "creates": {
+        "item_id": 6370,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 80,
+        "yellow": 80,
+        "green": 90,
+        "gray": 100
+      },
+      "learned_at": 80,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6358,
+          "name": "Oily Blackmouth",
+          "quantity": 2
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 12609,
+      "name": "Catseye Draught",
+      "creates": {
+        "item_id": 10592,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 200,
+        "yellow": 220,
+        "green": 240,
+        "gray": 260
+      },
+      "learned_at": 200,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 3818,
+          "name": "Fadeleaf",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251749,
+      "name": "Caustic Smog Potion",
+      "creates": {
+        "item_id": 250951,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 265,
+        "yellow": 270,
+        "green": 272,
+        "gray": 275
+      },
+      "learned_at": 265,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8845,
+          "name": "Ghost Mushroom",
+          "quantity": 2
+        },
+        {
+          "item_id": 3369,
+          "name": "Grave Moss",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249630,
+      "name": "Cerulean Dye",
+      "creates": {
+        "item_id": 249409,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 50,
+        "green": 70,
+        "gray": 90
+      },
+      "learned_at": 50,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 249399,
+          "name": "Frilled Lichen",
+          "quantity": 2
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250781,
+      "name": "Cleric's Elixir",
+      "creates": {
+        "item_id": 250332,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 145,
+        "yellow": 150,
+        "green": 152,
+        "gray": 155
+      },
+      "learned_at": 145,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3819,
+          "name": "Wintersbite",
+          "quantity": 2
+        },
+        {
+          "item_id": 4625,
+          "name": "Firebloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1244646,
+      "name": "Discolored Healing Potion",
+      "creates": {
+        "item_id": 247240,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 135,
+        "green": 155,
+        "gray": 175
+      },
+      "learned_at": 135,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 2453,
+          "name": "Bruiseweed",
+          "quantity": 1
+        },
+        {
+          "item_id": 730,
+          "name": "Murloc Eye",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251750,
+      "name": "Disorienting Smog Potion",
+      "creates": {
+        "item_id": 250952,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 180,
+        "yellow": 185,
+        "green": 187,
+        "gray": 190
+      },
+      "learned_at": 180,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8845,
+          "name": "Ghost Mushroom",
+          "quantity": 3
+        },
+        {
+          "item_id": 3369,
+          "name": "Grave Moss",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1244421,
+      "name": "Distilled Firewater",
+      "creates": {
+        "item_id": 246948,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 260,
+        "green": 265,
+        "gray": 270
+      },
+      "learned_at": 250,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3819,
+          "name": "Wintersbite",
+          "quantity": 4
+        },
+        {
+          "item_id": 8846,
+          "name": "Gromsblood",
+          "quantity": 2
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251751,
+      "name": "Dragonfire Potion",
+      "creates": {
+        "item_id": 250953,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 245,
+        "yellow": 250,
+        "green": 252,
+        "gray": 255
+      },
+      "learned_at": 245,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13465,
+          "name": "Mountain Silversage",
+          "quantity": 2
+        },
+        {
+          "item_id": 4625,
+          "name": "Firebloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11478,
+      "name": "Draught of Detect Demon",
+      "creates": {
+        "item_id": 9233,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 265,
+        "green": 285,
+        "gray": 305
+      },
+      "learned_at": 250,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8846,
+          "name": "Gromsblood",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3453,
+      "name": "Draught of Detect Lesser Invisibility",
+      "creates": {
+        "item_id": 3828,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 195,
+        "yellow": 215,
+        "green": 235,
+        "gray": 255
+      },
+      "learned_at": 195,
+      "source": [
+        2,
+        16
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3358,
+          "name": "Khadgar's Whisker",
+          "quantity": 1
+        },
+        {
+          "item_id": 3818,
+          "name": "Fadeleaf",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11460,
+      "name": "Draught of Detect Undead",
+      "creates": {
+        "item_id": 9154,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 230,
+        "yellow": 245,
+        "green": 265,
+        "gray": 285
+      },
+      "learned_at": 230,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8836,
+          "name": "Arthas' Tears",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11468,
+      "name": "Draught of Dream Vision",
+      "creates": {
+        "item_id": 9197,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 240,
+        "yellow": 255,
+        "green": 275,
+        "gray": 295
+      },
+      "learned_at": 240,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8831,
+          "name": "Purple Lotus",
+          "quantity": 3
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 22808,
+      "name": "Draught of Greater Water Breathing",
+      "creates": {
+        "item_id": 18294,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 215,
+        "yellow": 230,
+        "green": 250,
+        "gray": 270
+      },
+      "learned_at": 215,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7972,
+          "name": "Ichor of Undeath",
+          "quantity": 1
+        },
+        {
+          "item_id": 8831,
+          "name": "Purple Lotus",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250776,
+      "name": "Draught of Predatory Senses",
+      "creates": {
+        "item_id": 250327,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 195,
+        "yellow": 200,
+        "green": 202,
+        "gray": 205
+      },
+      "learned_at": 195,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3818,
+          "name": "Fadeleaf",
+          "quantity": 2
+        },
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 2
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7179,
+      "name": "Draught of Water Breathing",
+      "creates": {
+        "item_id": 5996,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 90,
+        "yellow": 120,
+        "green": 140,
+        "gray": 160
+      },
+      "learned_at": 90,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3820,
+          "name": "Stranglekelp",
+          "quantity": 1
+        },
+        {
+          "item_id": 6370,
+          "name": "Blackmouth Oil",
+          "quantity": 2
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 15833,
+      "name": "Dreamless Sleep Potion",
+      "creates": {
+        "item_id": 12190,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 230,
+        "yellow": 245,
+        "green": 265,
+        "gray": 285
+      },
+      "learned_at": 230,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8831,
+          "name": "Purple Lotus",
+          "quantity": 3
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11449,
+      "name": "Elixir of Agility",
+      "creates": {
+        "item_id": 8949,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 185,
+        "yellow": 205,
+        "green": 225,
+        "gray": 245
+      },
+      "learned_at": 185,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3820,
+          "name": "Stranglekelp",
+          "quantity": 1
+        },
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17557,
+      "name": "Elixir of Brute Force",
+      "creates": {
+        "item_id": 13453,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 290,
+        "green": 310,
+        "gray": 330
+      },
+      "learned_at": 275,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8846,
+          "name": "Gromsblood",
+          "quantity": 2
+        },
+        {
+          "item_id": 13466,
+          "name": "Plaguebloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 426607,
+      "name": "Elixir of Coalesced Regret",
+      "creates": {
+        "item_id": 210708,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 90,
+        "yellow": 90,
+        "green": 100,
+        "gray": 110
+      },
+      "learned_at": 90,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3820,
+          "name": "Stranglekelp",
+          "quantity": 5
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 3369,
+          "name": "Grave Moss",
+          "quantity": 5
+        },
+        {
+          "item_id": 11083,
+          "name": "Soul Dust",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250777,
+      "name": "Elixir of Cunning",
+      "creates": {
+        "item_id": 250328,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 280,
+        "green": 282,
+        "gray": 285
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 3
+        },
+        {
+          "item_id": 8846,
+          "name": "Gromsblood",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11450,
+      "name": "Elixir of Defense",
+      "creates": {
+        "item_id": 8951,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 195,
+        "yellow": 215,
+        "green": 235,
+        "gray": 255
+      },
+      "learned_at": 195,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3355,
+          "name": "Wild Steelbloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250799,
+      "name": "Elixir of Ferocity",
+      "creates": {
+        "item_id": 250350,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 280,
+        "green": 282,
+        "gray": 285
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8846,
+          "name": "Gromsblood",
+          "quantity": 3
+        },
+        {
+          "item_id": 8845,
+          "name": "Ghost Mushroom",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7845,
+      "name": "Elixir of Fire Power",
+      "creates": {
+        "item_id": 6373,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 140,
+        "yellow": 165,
+        "green": 185,
+        "gray": 205
+      },
+      "learned_at": 140,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6371,
+          "name": "Fire Oil",
+          "quantity": 2
+        },
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250783,
+      "name": "Elixir of Fortitude",
+      "creates": {
+        "item_id": 250334,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 150,
+        "yellow": 155,
+        "green": 157,
+        "gray": 160
+      },
+      "learned_at": 150,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 4
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 21923,
+      "name": "Elixir of Frost Power",
+      "creates": {
+        "item_id": 17708,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 190,
+        "yellow": 210,
+        "green": 230,
+        "gray": 250
+      },
+      "learned_at": 190,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3819,
+          "name": "Wintersbite",
+          "quantity": 2
+        },
+        {
+          "item_id": 3358,
+          "name": "Khadgar's Whisker",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 8240,
+      "name": "Elixir of Giant Growth",
+      "creates": {
+        "item_id": 6662,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 90,
+        "yellow": 120,
+        "green": 140,
+        "gray": 160
+      },
+      "learned_at": 90,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6522,
+          "name": "Deviate Fish",
+          "quantity": 1
+        },
+        {
+          "item_id": 2449,
+          "name": "Earthroot",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11467,
+      "name": "Elixir of Greater Agility",
+      "creates": {
+        "item_id": 9187,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 240,
+        "yellow": 255,
+        "green": 275,
+        "gray": 295
+      },
+      "learned_at": 240,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 1
+        },
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17554,
+      "name": "Elixir of Greater Defense",
+      "creates": {
+        "item_id": 13445,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 265,
+        "yellow": 280,
+        "green": 300,
+        "gray": 320
+      },
+      "learned_at": 265,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13423,
+          "name": "Stonescale Oil",
+          "quantity": 2
+        },
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250784,
+      "name": "Elixir of Greater Fortitude",
+      "creates": {
+        "item_id": 250335,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 200,
+        "yellow": 205,
+        "green": 207,
+        "gray": 210
+      },
+      "learned_at": 200,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 4
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11465,
+      "name": "Elixir of Greater Intellect",
+      "creates": {
+        "item_id": 9179,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 235,
+        "yellow": 250,
+        "green": 270,
+        "gray": 290
+      },
+      "learned_at": 235,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8839,
+          "name": "Blindweed",
+          "quantity": 1
+        },
+        {
+          "item_id": 3358,
+          "name": "Khadgar's Whisker",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250796,
+      "name": "Elixir of Greater Spirit",
+      "creates": {
+        "item_id": 250347,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 165,
+        "yellow": 170,
+        "green": 172,
+        "gray": 175
+      },
+      "learned_at": 165,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8836,
+          "name": "Arthas' Tears",
+          "quantity": 3
+        },
+        {
+          "item_id": 8831,
+          "name": "Purple Lotus",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11472,
+      "name": "Elixir of Greater Strength",
+      "creates": {
+        "item_id": 9206,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 245,
+        "yellow": 260,
+        "green": 280,
+        "gray": 300
+      },
+      "learned_at": 245,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 1
+        },
+        {
+          "item_id": 8846,
+          "name": "Gromsblood",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 26277,
+      "name": "Elixir of Holy Power",
+      "creates": {
+        "item_id": 21546,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 265,
+        "green": 285,
+        "gray": 305
+      },
+      "learned_at": 250,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6371,
+          "name": "Fire Oil",
+          "quantity": 3
+        },
+        {
+          "item_id": 4625,
+          "name": "Firebloom",
+          "quantity": 3
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250802,
+      "name": "Elixir of Intellect",
+      "creates": {
+        "item_id": 250354,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 135,
+        "yellow": 140,
+        "green": 142,
+        "gray": 145
+      },
+      "learned_at": 135,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3358,
+          "name": "Khadgar's Whisker",
+          "quantity": 3
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2333,
+      "name": "Elixir of Lesser Agility",
+      "creates": {
+        "item_id": 3390,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 140,
+        "yellow": 165,
+        "green": 185,
+        "gray": 205
+      },
+      "learned_at": 140,
+      "source": [
+        2,
+        16
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3355,
+          "name": "Wild Steelbloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 2452,
+          "name": "Swiftthistle",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3177,
+      "name": "Elixir of Lesser Defense",
+      "creates": {
+        "item_id": 3389,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 130,
+        "yellow": 155,
+        "green": 175,
+        "gray": 195
+      },
+      "learned_at": 130,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3355,
+          "name": "Wild Steelbloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3820,
+          "name": "Stranglekelp",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3450,
+      "name": "Elixir of Lesser Fortitude",
+      "creates": {
+        "item_id": 3825,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 195,
+        "green": 215,
+        "gray": 235
+      },
+      "learned_at": 175,
+      "source": [
+        2,
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3355,
+          "name": "Wild Steelbloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250801,
+      "name": "Elixir of Lesser Intellect",
+      "creates": {
+        "item_id": 250353,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 95,
+        "yellow": 100,
+        "green": 102,
+        "gray": 105
+      },
+      "learned_at": 95,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 3
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250794,
+      "name": "Elixir of Lesser Spirit",
+      "creates": {
+        "item_id": 250345,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 65,
+        "yellow": 70,
+        "green": 72,
+        "gray": 75
+      },
+      "learned_at": 65,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3355,
+          "name": "Wild Steelbloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 785,
+          "name": "Mageroyal",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3230,
+      "name": "Elixir of Minor Agility",
+      "creates": {
+        "item_id": 2457,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 50,
+        "yellow": 80,
+        "green": 100,
+        "gray": 120
+      },
+      "learned_at": 50,
+      "source": [
+        2,
+        16,
+        21
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2452,
+          "name": "Swiftthistle",
+          "quantity": 1
+        },
+        {
+          "item_id": 765,
+          "name": "Silverleaf",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7183,
+      "name": "Elixir of Minor Defense",
+      "creates": {
+        "item_id": 5997,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 1,
+        "yellow": 55,
+        "green": 75,
+        "gray": 95
+      },
+      "learned_at": 1,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 765,
+          "name": "Silverleaf",
+          "quantity": 1
+        },
+        {
+          "item_id": 2447,
+          "name": "Peacebloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1245250,
+      "name": "Elixir of Minor Force",
+      "creates": {
+        "item_id": 247755,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 10,
+        "green": 12,
+        "gray": 15
+      },
+      "learned_at": 10,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 765,
+          "name": "Silverleaf",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2334,
+      "name": "Elixir of Minor Fortitude",
+      "creates": {
+        "item_id": 2458,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 50,
+        "yellow": 80,
+        "green": 100,
+        "gray": 120
+      },
+      "learned_at": 50,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2449,
+          "name": "Earthroot",
+          "quantity": 2
+        },
+        {
+          "item_id": 2447,
+          "name": "Peacebloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250793,
+      "name": "Elixir of Minor Spirit",
+      "creates": {
+        "item_id": 250344,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 15,
+        "yellow": 20,
+        "green": 22,
+        "gray": 25
+      },
+      "learned_at": 15,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2449,
+          "name": "Earthroot",
+          "quantity": 2
+        },
+        {
+          "item_id": 2447,
+          "name": "Peacebloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2329,
+      "name": "Elixir of Minor Strength",
+      "creates": {
+        "item_id": 2454,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 1,
+        "yellow": 55,
+        "green": 75,
+        "gray": 95
+      },
+      "learned_at": 1,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2449,
+          "name": "Earthroot",
+          "quantity": 1
+        },
+        {
+          "item_id": 765,
+          "name": "Silverleaf",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250792,
+      "name": "Elixir of Nature Power",
+      "creates": {
+        "item_id": 250343,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 285,
+        "yellow": 290,
+        "green": 292,
+        "gray": 295
+      },
+      "learned_at": 285,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13464,
+          "name": "Golden Sansam",
+          "quantity": 4
+        },
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3188,
+      "name": "Elixir of Ogre Strength",
+      "creates": {
+        "item_id": 3391,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 150,
+        "yellow": 175,
+        "green": 195,
+        "gray": 215
+      },
+      "learned_at": 150,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2449,
+          "name": "Earthroot",
+          "quantity": 1
+        },
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250787,
+      "name": "Elixir of Sages",
+      "creates": {
+        "item_id": 250338,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 280,
+        "green": 282,
+        "gray": 285
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 4
+        },
+        {
+          "item_id": 13464,
+          "name": "Golden Sansam",
+          "quantity": 2
+        },
+        {
+          "item_id": 18256,
+          "name": "Imbued Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11476,
+      "name": "Elixir of Shadow Power",
+      "creates": {
+        "item_id": 9264,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 265,
+        "green": 285,
+        "gray": 305
+      },
+      "learned_at": 250,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8845,
+          "name": "Ghost Mushroom",
+          "quantity": 3
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250795,
+      "name": "Elixir of Spirit",
+      "creates": {
+        "item_id": 250346,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 115,
+        "yellow": 120,
+        "green": 122,
+        "gray": 125
+      },
+      "learned_at": 115,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3358,
+          "name": "Khadgar's Whisker",
+          "quantity": 3
+        },
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250798,
+      "name": "Elixir of Strength",
+      "creates": {
+        "item_id": 250349,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 150,
+        "yellow": 155,
+        "green": 157,
+        "gray": 160
+      },
+      "learned_at": 150,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3355,
+          "name": "Wild Steelbloom",
+          "quantity": 3
+        },
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250785,
+      "name": "Elixir of Wicked Regeneration",
+      "creates": {
+        "item_id": 250336,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 285,
+        "yellow": 290,
+        "green": 292,
+        "gray": 295
+      },
+      "learned_at": 285,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13464,
+          "name": "Golden Sansam",
+          "quantity": 3
+        },
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3171,
+      "name": "Elixir of Wisdom",
+      "creates": {
+        "item_id": 3383,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 90,
+        "yellow": 120,
+        "green": 140,
+        "gray": 160
+      },
+      "learned_at": 90,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 785,
+          "name": "Mageroyal",
+          "quantity": 1
+        },
+        {
+          "item_id": 2450,
+          "name": "Briarthorn",
+          "quantity": 2
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250800,
+      "name": "Elixir of the Grizzly",
+      "creates": {
+        "item_id": 250351,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 305,
+        "green": 307,
+        "gray": 310
+      },
+      "learned_at": 300,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8846,
+          "name": "Gromsblood",
+          "quantity": 3
+        },
+        {
+          "item_id": 8839,
+          "name": "Blindweed",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17571,
+      "name": "Elixir of the Mongoose",
+      "creates": {
+        "item_id": 13452,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 280,
+        "yellow": 295,
+        "green": 315,
+        "gray": 335
+      },
+      "learned_at": 280,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13465,
+          "name": "Mountain Silversage",
+          "quantity": 2
+        },
+        {
+          "item_id": 13466,
+          "name": "Plaguebloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250786,
+      "name": "Elixir of the Owl",
+      "creates": {
+        "item_id": 250337,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 280,
+        "yellow": 285,
+        "green": 287,
+        "gray": 290
+      },
+      "learned_at": 280,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 4
+        },
+        {
+          "item_id": 13465,
+          "name": "Mountain Silversage",
+          "quantity": 2
+        },
+        {
+          "item_id": 18256,
+          "name": "Imbued Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250778,
+      "name": "Elixir of the Phalanx",
+      "creates": {
+        "item_id": 250329,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 255,
+        "green": 257,
+        "gray": 260
+      },
+      "learned_at": 250,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13464,
+          "name": "Golden Sansam",
+          "quantity": 2
+        },
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 4
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17555,
+      "name": "Elixir of the Sages",
+      "creates": {
+        "item_id": 13447,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 270,
+        "yellow": 285,
+        "green": 305,
+        "gray": 325
+      },
+      "learned_at": 270,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 1
+        },
+        {
+          "item_id": 13466,
+          "name": "Plaguebloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250797,
+      "name": "Elixir of the Whale",
+      "creates": {
+        "item_id": 250348,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 280,
+        "green": 282,
+        "gray": 285
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 3
+        },
+        {
+          "item_id": 8846,
+          "name": "Gromsblood",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1263005,
+      "name": "Fermenter",
+      "creates": {
+        "item_id": 279970,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 140,
+        "yellow": 140,
+        "green": 142,
+        "gray": 145
+      },
+      "learned_at": 140,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 1
+        },
+        {
+          "item_id": 2452,
+          "name": "Swiftthistle",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7837,
+      "name": "Fire Oil",
+      "creates": {
+        "item_id": 6371,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 130,
+        "yellow": 150,
+        "green": 160,
+        "gray": 170
+      },
+      "learned_at": 130,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6359,
+          "name": "Firefin Snapper",
+          "quantity": 2
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7257,
+      "name": "Fire Protection Potion",
+      "creates": {
+        "item_id": 6049,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 165,
+        "yellow": 210,
+        "green": 230,
+        "gray": 250
+      },
+      "learned_at": 165,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4402,
+          "name": "Small Flame Sac",
+          "quantity": 1
+        },
+        {
+          "item_id": 6371,
+          "name": "Fire Oil",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17638,
+      "name": "Flask of Chromatic Resistance",
+      "creates": {
+        "item_id": 13513,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 315,
+        "green": 322,
+        "gray": 330
+      },
+      "learned_at": 300,
+      "source": [
+        2,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13467,
+          "name": "Icecap",
+          "quantity": 30
+        },
+        {
+          "item_id": 13465,
+          "name": "Mountain Silversage",
+          "quantity": 10
+        },
+        {
+          "item_id": 13468,
+          "name": "Black Lotus",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17636,
+      "name": "Flask of Distilled Wisdom",
+      "creates": {
+        "item_id": 13511,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 315,
+        "green": 322,
+        "gray": 330
+      },
+      "learned_at": 300,
+      "source": [
+        2,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 30
+        },
+        {
+          "item_id": 13467,
+          "name": "Icecap",
+          "quantity": 10
+        },
+        {
+          "item_id": 13468,
+          "name": "Black Lotus",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1293559,
+      "name": "Flask of Natural Accuracy",
+      "creates": {
+        "item_id": 274273,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 320,
+        "green": 325,
+        "gray": 330
+      },
+      "learned_at": 300,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 248822,
+          "name": "Death Lotus",
+          "quantity": 1
+        },
+        {
+          "item_id": 248821,
+          "name": "Demonsage",
+          "quantity": 12
+        },
+        {
+          "item_id": 13464,
+          "name": "Golden Sansam",
+          "quantity": 9
+        },
+        {
+          "item_id": 18256,
+          "name": "Imbued Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1293560,
+      "name": "Flask of Natural Aggression",
+      "creates": {
+        "item_id": 274274,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 320,
+        "green": 325,
+        "gray": 330
+      },
+      "learned_at": 300,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 248822,
+          "name": "Death Lotus",
+          "quantity": 1
+        },
+        {
+          "item_id": 248821,
+          "name": "Demonsage",
+          "quantity": 18
+        },
+        {
+          "item_id": 13465,
+          "name": "Mountain Silversage",
+          "quantity": 6
+        },
+        {
+          "item_id": 18256,
+          "name": "Imbued Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1293561,
+      "name": "Flask of Natural Precision",
+      "creates": {
+        "item_id": 274275,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 320,
+        "green": 325,
+        "gray": 330
+      },
+      "learned_at": 300,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 248822,
+          "name": "Death Lotus",
+          "quantity": 1
+        },
+        {
+          "item_id": 248823,
+          "name": "Marefoil",
+          "quantity": 12
+        },
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 9
+        },
+        {
+          "item_id": 18256,
+          "name": "Imbued Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1293562,
+      "name": "Flask of Natural Swiftness",
+      "creates": {
+        "item_id": 274276,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 320,
+        "green": 325,
+        "gray": 330
+      },
+      "learned_at": 300,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 248822,
+          "name": "Death Lotus",
+          "quantity": 1
+        },
+        {
+          "item_id": 248823,
+          "name": "Marefoil",
+          "quantity": 18
+        },
+        {
+          "item_id": 13467,
+          "name": "Icecap",
+          "quantity": 6
+        },
+        {
+          "item_id": 18256,
+          "name": "Imbued Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17634,
+      "name": "Flask of Petrification",
+      "creates": {
+        "item_id": 13506,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 315,
+        "green": 322,
+        "gray": 330
+      },
+      "learned_at": 300,
+      "source": [
+        2,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13423,
+          "name": "Stonescale Oil",
+          "quantity": 30
+        },
+        {
+          "item_id": 13465,
+          "name": "Mountain Silversage",
+          "quantity": 10
+        },
+        {
+          "item_id": 13468,
+          "name": "Black Lotus",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17637,
+      "name": "Flask of Supreme Power",
+      "creates": {
+        "item_id": 13512,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 315,
+        "green": 322,
+        "gray": 330
+      },
+      "learned_at": 300,
+      "source": [
+        2,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 30
+        },
+        {
+          "item_id": 13465,
+          "name": "Mountain Silversage",
+          "quantity": 10
+        },
+        {
+          "item_id": 13468,
+          "name": "Black Lotus",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17635,
+      "name": "Flask of the Titans",
+      "creates": {
+        "item_id": 13510,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 315,
+        "green": 322,
+        "gray": 330
+      },
+      "learned_at": 300,
+      "source": [
+        2,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8846,
+          "name": "Gromsblood",
+          "quantity": 30
+        },
+        {
+          "item_id": 13423,
+          "name": "Stonescale Oil",
+          "quantity": 10
+        },
+        {
+          "item_id": 13468,
+          "name": "Black Lotus",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 6624,
+      "name": "Free Action Potion",
+      "creates": {
+        "item_id": 5634,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 150,
+        "yellow": 175,
+        "green": 195,
+        "gray": 215
+      },
+      "learned_at": 150,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 6370,
+          "name": "Blackmouth Oil",
+          "quantity": 2
+        },
+        {
+          "item_id": 3820,
+          "name": "Stranglekelp",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251737,
+      "name": "Frenzy Potion",
+      "creates": {
+        "item_id": 250940,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 140,
+        "yellow": 145,
+        "green": 147,
+        "gray": 150
+      },
+      "learned_at": 140,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3818,
+          "name": "Fadeleaf",
+          "quantity": 2
+        },
+        {
+          "item_id": 2450,
+          "name": "Briarthorn",
+          "quantity": 2
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3454,
+      "name": "Frost Oil",
+      "creates": {
+        "item_id": 3829,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 200,
+        "yellow": 220,
+        "green": 240,
+        "gray": 260
+      },
+      "learned_at": 200,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3358,
+          "name": "Khadgar's Whisker",
+          "quantity": 4
+        },
+        {
+          "item_id": 3819,
+          "name": "Wintersbite",
+          "quantity": 2
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7258,
+      "name": "Frost Protection Potion",
+      "creates": {
+        "item_id": 6050,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 190,
+        "yellow": 205,
+        "green": 225,
+        "gray": 245
+      },
+      "learned_at": 190,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3819,
+          "name": "Wintersbite",
+          "quantity": 1
+        },
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11473,
+      "name": "Ghost Dye",
+      "creates": {
+        "item_id": 9210,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 245,
+        "yellow": 260,
+        "green": 280,
+        "gray": 300
+      },
+      "learned_at": 245,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8845,
+          "name": "Ghost Mushroom",
+          "quantity": 2
+        },
+        {
+          "item_id": 4342,
+          "name": "Purple Dye",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11466,
+      "name": "Gift of Arthas",
+      "creates": {
+        "item_id": 9088,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 240,
+        "yellow": 255,
+        "green": 275,
+        "gray": 295
+      },
+      "learned_at": 240,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8836,
+          "name": "Arthas' Tears",
+          "quantity": 1
+        },
+        {
+          "item_id": 8839,
+          "name": "Blindweed",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11456,
+      "name": "Goblin Rocket Fuel",
+      "creates": {
+        "item_id": 9061,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 210,
+        "yellow": 225,
+        "green": 245,
+        "gray": 265
+      },
+      "learned_at": 210,
+      "source": [
+        1
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4625,
+          "name": "Firebloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 9260,
+          "name": "Volatile Rum",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 6618,
+      "name": "Great Rage Potion",
+      "creates": {
+        "item_id": 5633,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 195,
+        "green": 215,
+        "gray": 235
+      },
+      "learned_at": 175,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5637,
+          "name": "Large Fang",
+          "quantity": 1
+        },
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17573,
+      "name": "Greater Arcane Elixir",
+      "creates": {
+        "item_id": 13454,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 285,
+        "yellow": 300,
+        "green": 320,
+        "gray": 340
+      },
+      "learned_at": 285,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 3
+        },
+        {
+          "item_id": 13465,
+          "name": "Mountain Silversage",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17577,
+      "name": "Greater Arcane Protection Potion",
+      "creates": {
+        "item_id": 13461,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 290,
+        "yellow": 305,
+        "green": 325,
+        "gray": 345
+      },
+      "learned_at": 290,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 11176,
+          "name": "Dream Dust",
+          "quantity": 1
+        },
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250782,
+      "name": "Greater Cleric's Elixir",
+      "creates": {
+        "item_id": 250333,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 195,
+        "yellow": 200,
+        "green": 202,
+        "gray": 205
+      },
+      "learned_at": 195,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8836,
+          "name": "Arthas' Tears",
+          "quantity": 3
+        },
+        {
+          "item_id": 8831,
+          "name": "Purple Lotus",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1244647,
+      "name": "Greater Discolored Healing Potion",
+      "creates": {
+        "item_id": 247241,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 175,
+        "green": 195,
+        "gray": 215
+      },
+      "learned_at": 175,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 1
+        },
+        {
+          "item_id": 730,
+          "name": "Murloc Eye",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 24366,
+      "name": "Greater Dreamless Sleep Potion",
+      "creates": {
+        "item_id": 20002,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 290,
+        "green": 310,
+        "gray": 330
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 2
+        },
+        {
+          "item_id": 13464,
+          "name": "Golden Sansam",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17574,
+      "name": "Greater Fire Protection Potion",
+      "creates": {
+        "item_id": 13457,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 290,
+        "yellow": 305,
+        "green": 325,
+        "gray": 345
+      },
+      "learned_at": 290,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7068,
+          "name": "Elemental Fire",
+          "quantity": 1
+        },
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251738,
+      "name": "Greater Frenzy Potion",
+      "creates": {
+        "item_id": 250941,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 190,
+        "yellow": 195,
+        "green": 197,
+        "gray": 200
+      },
+      "learned_at": 190,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4625,
+          "name": "Firebloom",
+          "quantity": 3
+        },
+        {
+          "item_id": 3818,
+          "name": "Fadeleaf",
+          "quantity": 2
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17575,
+      "name": "Greater Frost Protection Potion",
+      "creates": {
+        "item_id": 13456,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 290,
+        "yellow": 305,
+        "green": 325,
+        "gray": 345
+      },
+      "learned_at": 290,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7070,
+          "name": "Elemental Water",
+          "quantity": 1
+        },
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250790,
+      "name": "Greater Mageblood Elixir",
+      "creates": {
+        "item_id": 250341,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 175,
+        "yellow": 180,
+        "green": 182,
+        "gray": 185
+      },
+      "learned_at": 175,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8839,
+          "name": "Blindweed",
+          "quantity": 3
+        },
+        {
+          "item_id": 8836,
+          "name": "Arthas' Tears",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11448,
+      "name": "Greater Mana Potion",
+      "creates": {
+        "item_id": 6149,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 205,
+        "yellow": 220,
+        "green": 240,
+        "gray": 260
+      },
+      "learned_at": 205,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3358,
+          "name": "Khadgar's Whisker",
+          "quantity": 1
+        },
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251744,
+      "name": "Greater Mender's Potion",
+      "creates": {
+        "item_id": 250947,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 185,
+        "green": 187,
+        "gray": 190
+      },
+      "learned_at": 185,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8836,
+          "name": "Arthas' Tears",
+          "quantity": 2
+        },
+        {
+          "item_id": 8831,
+          "name": "Purple Lotus",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17576,
+      "name": "Greater Nature Protection Potion",
+      "creates": {
+        "item_id": 13458,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 290,
+        "yellow": 305,
+        "green": 325,
+        "gray": 345
+      },
+      "learned_at": 290,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7067,
+          "name": "Elemental Earth",
+          "quantity": 1
+        },
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17578,
+      "name": "Greater Shadow Protection Potion",
+      "creates": {
+        "item_id": 13459,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 290,
+        "yellow": 305,
+        "green": 325,
+        "gray": 345
+      },
+      "learned_at": 290,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3824,
+          "name": "Shadow Oil",
+          "quantity": 1
+        },
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251732,
+      "name": "Greater Spellblasting Potion",
+      "creates": {
+        "item_id": 250935,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 185,
+        "yellow": 190,
+        "green": 192,
+        "gray": 195
+      },
+      "learned_at": 185,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 2
+        },
+        {
+          "item_id": 3818,
+          "name": "Fadeleaf",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17570,
+      "name": "Greater Stoneshield Potion",
+      "creates": {
+        "item_id": 13455,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 280,
+        "yellow": 295,
+        "green": 315,
+        "gray": 335
+      },
+      "learned_at": 280,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13423,
+          "name": "Stonescale Oil",
+          "quantity": 3
+        },
+        {
+          "item_id": 10620,
+          "name": "Thorium Ore",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 24266,
+      "name": "Gurubashi Mojo Madness",
+      "creates": {
+        "item_id": 19931,
+        "min_qty": 3,
+        "max_qty": 3
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 315,
+        "green": 322,
+        "gray": 330
+      },
+      "learned_at": 315,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12938,
+          "name": "Blood of Heroes",
+          "quantity": 1
+        },
+        {
+          "item_id": 19943,
+          "name": "Massive Mojo",
+          "quantity": 1
+        },
+        {
+          "item_id": 12804,
+          "name": "Powerful Mojo",
+          "quantity": 6
+        },
+        {
+          "item_id": 13468,
+          "name": "Black Lotus",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7255,
+      "name": "Holy Protection Potion",
+      "creates": {
+        "item_id": 6051,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 100,
+        "yellow": 130,
+        "green": 150,
+        "gray": 170
+      },
+      "learned_at": 100,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2453,
+          "name": "Bruiseweed",
+          "quantity": 1
+        },
+        {
+          "item_id": 2452,
+          "name": "Swiftthistle",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11464,
+      "name": "Invisibility Potion",
+      "creates": {
+        "item_id": 9172,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 235,
+        "yellow": 250,
+        "green": 270,
+        "gray": 290
+      },
+      "learned_at": 235,
+      "source": [
+        2,
+        16
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8845,
+          "name": "Ghost Mushroom",
+          "quantity": 1
+        },
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 439960,
+      "name": "Lesser Arcane Elixir",
+      "creates": {
+        "item_id": 217398,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 190,
+        "yellow": 210,
+        "green": 212,
+        "gray": 215
+      },
+      "learned_at": 190,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 1
+        },
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250791,
+      "name": "Lesser Arcane Elixir",
+      "creates": {
+        "item_id": 250342,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 120,
+        "yellow": 125,
+        "green": 127,
+        "gray": 130
+      },
+      "learned_at": 120,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 4
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250780,
+      "name": "Lesser Cleric's Elixir",
+      "creates": {
+        "item_id": 250331,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 95,
+        "yellow": 100,
+        "green": 102,
+        "gray": 105
+      },
+      "learned_at": 95,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 2
+        },
+        {
+          "item_id": 3357,
+          "name": "Liferoot",
+          "quantity": 2
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1244645,
+      "name": "Lesser Discolored Healing Potion",
+      "creates": {
+        "item_id": 247239,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 85,
+        "green": 105,
+        "gray": 125
+      },
+      "learned_at": 85,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 2450,
+          "name": "Briarthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 730,
+          "name": "Murloc Eye",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251736,
+      "name": "Lesser Frenzy Potion",
+      "creates": {
+        "item_id": 250939,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 90,
+        "yellow": 95,
+        "green": 97,
+        "gray": 100
+      },
+      "learned_at": 90,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2450,
+          "name": "Briarthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 2449,
+          "name": "Earthroot",
+          "quantity": 2
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3448,
+      "name": "Lesser Invisibility Potion",
+      "creates": {
+        "item_id": 3823,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 165,
+        "yellow": 185,
+        "green": 205,
+        "gray": 225
+      },
+      "learned_at": 165,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3818,
+          "name": "Fadeleaf",
+          "quantity": 1
+        },
+        {
+          "item_id": 3355,
+          "name": "Wild Steelbloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250789,
+      "name": "Lesser Mageblood Elixir",
+      "creates": {
+        "item_id": 250340,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 75,
+        "yellow": 80,
+        "green": 82,
+        "gray": 85
+      },
+      "learned_at": 75,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 3
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3173,
+      "name": "Lesser Mana Potion",
+      "creates": {
+        "item_id": 3385,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 120,
+        "yellow": 145,
+        "green": 165,
+        "gray": 185
+      },
+      "learned_at": 120,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 785,
+          "name": "Mageroyal",
+          "quantity": 1
+        },
+        {
+          "item_id": 3820,
+          "name": "Stranglekelp",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251742,
+      "name": "Lesser Mender's Potion",
+      "creates": {
+        "item_id": 250945,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 80,
+        "yellow": 85,
+        "green": 87,
+        "gray": 90
+      },
+      "learned_at": 80,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 2
+        },
+        {
+          "item_id": 3357,
+          "name": "Liferoot",
+          "quantity": 2
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251730,
+      "name": "Lesser Spellblasting Potion",
+      "creates": {
+        "item_id": 250933,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 85,
+        "yellow": 90,
+        "green": 92,
+        "gray": 95
+      },
+      "learned_at": 85,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 785,
+          "name": "Mageroyal",
+          "quantity": 1
+        },
+        {
+          "item_id": 765,
+          "name": "Silverleaf",
+          "quantity": 2
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 4942,
+      "name": "Lesser Stoneshield Potion",
+      "creates": {
+        "item_id": 4623,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 215,
+        "yellow": 230,
+        "green": 250,
+        "gray": 270
+      },
+      "learned_at": 215,
+      "source": [
+        4
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3858,
+          "name": "Mithril Ore",
+          "quantity": 1
+        },
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3176,
+      "name": "Lesser Troll's Blood Elixir",
+      "creates": {
+        "item_id": 3388,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 125,
+        "yellow": 150,
+        "green": 170,
+        "gray": 190
+      },
+      "learned_at": 125,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2453,
+          "name": "Bruiseweed",
+          "quantity": 2
+        },
+        {
+          "item_id": 2450,
+          "name": "Briarthorn",
+          "quantity": 2
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3175,
+      "name": "Limited Invulnerability Potion",
+      "creates": {
+        "item_id": 3387,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 275,
+        "green": 295,
+        "gray": 315
+      },
+      "learned_at": 250,
+      "source": [
+        2,
+        16
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8839,
+          "name": "Blindweed",
+          "quantity": 2
+        },
+        {
+          "item_id": 8845,
+          "name": "Ghost Mushroom",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 24367,
+      "name": "Living Action Potion",
+      "creates": {
+        "item_id": 20008,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 285,
+        "yellow": 300,
+        "green": 320,
+        "gray": 340
+      },
+      "learned_at": 285,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13467,
+          "name": "Icecap",
+          "quantity": 2
+        },
+        {
+          "item_id": 13465,
+          "name": "Mountain Silversage",
+          "quantity": 2
+        },
+        {
+          "item_id": 10286,
+          "name": "Heart of the Wild",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 24365,
+      "name": "Mageblood Elixir",
+      "creates": {
+        "item_id": 20007,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 290,
+        "green": 310,
+        "gray": 330
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 1
+        },
+        {
+          "item_id": 13466,
+          "name": "Plaguebloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249631,
+      "name": "Magenta Dye",
+      "creates": {
+        "item_id": 249430,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 130,
+        "green": 142,
+        "gray": 155
+      },
+      "learned_at": 130,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 249424,
+          "name": "Rosecap",
+          "quantity": 2
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11453,
+      "name": "Magic Resistance Potion",
+      "creates": {
+        "item_id": 9036,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 210,
+        "yellow": 225,
+        "green": 245,
+        "gray": 265
+      },
+      "learned_at": 210,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3358,
+          "name": "Khadgar's Whisker",
+          "quantity": 1
+        },
+        {
+          "item_id": 8831,
+          "name": "Purple Lotus",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1231583,
+      "name": "Major Discolored Healing Potion",
+      "creates": {
+        "item_id": 241650,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 290,
+        "green": 310,
+        "gray": 330
+      },
+      "learned_at": 250,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 13466,
+          "name": "Plaguebloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 730,
+          "name": "Murloc Eye",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251740,
+      "name": "Major Frenzy Potion",
+      "creates": {
+        "item_id": 250943,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 290,
+        "yellow": 295,
+        "green": 297,
+        "gray": 300
+      },
+      "learned_at": 290,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13466,
+          "name": "Plaguebloom",
+          "quantity": 3
+        },
+        {
+          "item_id": 8839,
+          "name": "Blindweed",
+          "quantity": 2
+        },
+        {
+          "item_id": 18256,
+          "name": "Imbued Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17580,
+      "name": "Major Mana Potion",
+      "creates": {
+        "item_id": 13444,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 295,
+        "yellow": 310,
+        "green": 330,
+        "gray": 350
+      },
+      "learned_at": 295,
+      "source": [
+        2,
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 3
+        },
+        {
+          "item_id": 13467,
+          "name": "Icecap",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251747,
+      "name": "Major Mender's Potion",
+      "creates": {
+        "item_id": 250949,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 280,
+        "yellow": 285,
+        "green": 287,
+        "gray": 290
+      },
+      "learned_at": 280,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 3
+        },
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 1
+        },
+        {
+          "item_id": 18256,
+          "name": "Imbued Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 22732,
+      "name": "Major Rejuvenation Potion",
+      "creates": {
+        "item_id": 18253,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 310,
+        "green": 320,
+        "gray": 330
+      },
+      "learned_at": 300,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 10286,
+          "name": "Heart of the Wild",
+          "quantity": 1
+        },
+        {
+          "item_id": 13464,
+          "name": "Golden Sansam",
+          "quantity": 4
+        },
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 4
+        },
+        {
+          "item_id": 18256,
+          "name": "Imbued Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251734,
+      "name": "Major Spellblasting Potion",
+      "creates": {
+        "item_id": 250937,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 285,
+        "yellow": 290,
+        "green": 292,
+        "gray": 295
+      },
+      "learned_at": 285,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 2
+        },
+        {
+          "item_id": 13465,
+          "name": "Mountain Silversage",
+          "quantity": 1
+        },
+        {
+          "item_id": 18256,
+          "name": "Imbued Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 24368,
+      "name": "Major Troll's Blood Elixir",
+      "creates": {
+        "item_id": 20004,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 290,
+        "yellow": 305,
+        "green": 325,
+        "gray": 345
+      },
+      "learned_at": 290,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8846,
+          "name": "Gromsblood",
+          "quantity": 1
+        },
+        {
+          "item_id": 13466,
+          "name": "Plaguebloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3452,
+      "name": "Mana Potion",
+      "creates": {
+        "item_id": 3827,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 160,
+        "yellow": 180,
+        "green": 200,
+        "gray": 220
+      },
+      "learned_at": 160,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3820,
+          "name": "Stranglekelp",
+          "quantity": 1
+        },
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1230564,
+      "name": "Mana Well",
+      "creates": {
+        "item_id": 279956,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 20,
+        "green": 22,
+        "gray": 25
+      },
+      "learned_at": 20,
+      "source": [
+        4,
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2447,
+          "name": "Peacebloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251743,
+      "name": "Mender's Potion",
+      "creates": {
+        "item_id": 250946,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 130,
+        "yellow": 135,
+        "green": 137,
+        "gray": 140
+      },
+      "learned_at": 130,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3819,
+          "name": "Wintersbite",
+          "quantity": 2
+        },
+        {
+          "item_id": 4625,
+          "name": "Firebloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17552,
+      "name": "Mighty Rage Potion",
+      "creates": {
+        "item_id": 13442,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 255,
+        "yellow": 270,
+        "green": 290,
+        "gray": 310
+      },
+      "learned_at": 255,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8846,
+          "name": "Gromsblood",
+          "quantity": 3
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1245246,
+      "name": "Minor Arcane Elixir",
+      "creates": {
+        "item_id": 247754,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 10,
+        "green": 12,
+        "gray": 15
+      },
+      "learned_at": 10,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2447,
+          "name": "Peacebloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250779,
+      "name": "Minor Cleric's Elixir",
+      "creates": {
+        "item_id": 250330,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 45,
+        "yellow": 50,
+        "green": 52,
+        "gray": 55
+      },
+      "learned_at": 45,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 785,
+          "name": "Mageroyal",
+          "quantity": 2
+        },
+        {
+          "item_id": 2453,
+          "name": "Bruiseweed",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 4508,
+      "name": "Minor Discolored Healing Potion",
+      "creates": {
+        "item_id": 4596,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 50,
+        "yellow": 55,
+        "green": 75,
+        "gray": 95
+      },
+      "learned_at": 50,
+      "source": [
+        4,
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 2447,
+          "name": "Peacebloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 730,
+          "name": "Murloc Eye",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251735,
+      "name": "Minor Frenzy Potion",
+      "creates": {
+        "item_id": 250938,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 40,
+        "yellow": 45,
+        "green": 47,
+        "gray": 50
+      },
+      "learned_at": 40,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2449,
+          "name": "Earthroot",
+          "quantity": 1
+        },
+        {
+          "item_id": 765,
+          "name": "Silverleaf",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1250788,
+      "name": "Minor Mageblood Elixir",
+      "creates": {
+        "item_id": 250339,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 25,
+        "yellow": 30,
+        "green": 32,
+        "gray": 35
+      },
+      "learned_at": 25,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 785,
+          "name": "Mageroyal",
+          "quantity": 2
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3172,
+      "name": "Minor Magic Resistance Potion",
+      "creates": {
+        "item_id": 3384,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 110,
+        "yellow": 135,
+        "green": 155,
+        "gray": 175
+      },
+      "learned_at": 110,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 785,
+          "name": "Mageroyal",
+          "quantity": 3
+        },
+        {
+          "item_id": 3355,
+          "name": "Wild Steelbloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2331,
+      "name": "Minor Mana Potion",
+      "creates": {
+        "item_id": 2455,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 25,
+        "yellow": 65,
+        "green": 85,
+        "gray": 105
+      },
+      "learned_at": 25,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 785,
+          "name": "Mageroyal",
+          "quantity": 1
+        },
+        {
+          "item_id": 2447,
+          "name": "Peacebloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251741,
+      "name": "Minor Mender's Potion",
+      "creates": {
+        "item_id": 250944,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 30,
+        "yellow": 35,
+        "green": 37,
+        "gray": 40
+      },
+      "learned_at": 30,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 785,
+          "name": "Mageroyal",
+          "quantity": 2
+        },
+        {
+          "item_id": 2453,
+          "name": "Bruiseweed",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2332,
+      "name": "Minor Rejuvenation Potion",
+      "creates": {
+        "item_id": 2456,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 40,
+        "yellow": 70,
+        "green": 90,
+        "gray": 110
+      },
+      "learned_at": 40,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 785,
+          "name": "Mageroyal",
+          "quantity": 2
+        },
+        {
+          "item_id": 2447,
+          "name": "Peacebloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251729,
+      "name": "Minor Spellblasting Potion",
+      "creates": {
+        "item_id": 250932,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 35,
+        "yellow": 40,
+        "green": 42,
+        "gray": 45
+      },
+      "learned_at": 35,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 765,
+          "name": "Silverleaf",
+          "quantity": 1
+        },
+        {
+          "item_id": 2447,
+          "name": "Peacebloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3170,
+      "name": "Minor Troll's Blood Elixir",
+      "creates": {
+        "item_id": 3382,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 15,
+        "yellow": 60,
+        "green": 80,
+        "gray": 100
+      },
+      "learned_at": 15,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2447,
+          "name": "Peacebloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 2449,
+          "name": "Earthroot",
+          "quantity": 2
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7259,
+      "name": "Nature Protection Potion",
+      "creates": {
+        "item_id": 6052,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 190,
+        "yellow": 210,
+        "green": 230,
+        "gray": 250
+      },
+      "learned_at": 190,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3357,
+          "name": "Liferoot",
+          "quantity": 1
+        },
+        {
+          "item_id": 3820,
+          "name": "Stranglekelp",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11451,
+      "name": "Oil of Immolation",
+      "creates": {
+        "item_id": 8956,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 205,
+        "yellow": 220,
+        "green": 240,
+        "gray": 260
+      },
+      "learned_at": 205,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4625,
+          "name": "Firebloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11459,
+      "name": "Philosopher's Stone",
+      "creates": {
+        "item_id": 9149,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 240,
+        "green": 260,
+        "gray": 280
+      },
+      "learned_at": 225,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3575,
+          "name": "Iron Bar",
+          "quantity": 4
+        },
+        {
+          "item_id": 9262,
+          "name": "Black Vitriol",
+          "quantity": 1
+        },
+        {
+          "item_id": 8831,
+          "name": "Purple Lotus",
+          "quantity": 4
+        },
+        {
+          "item_id": 4625,
+          "name": "Firebloom",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 1251753,
+      "name": "Potion of Beast Slaying",
+      "creates": {
+        "item_id": 250955,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 280,
+        "yellow": 285,
+        "green": 287,
+        "gray": 290
+      },
+      "learned_at": 280,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8846,
+          "name": "Gromsblood",
+          "quantity": 2
+        },
+        {
+          "item_id": 13466,
+          "name": "Plaguebloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 18256,
+          "name": "Imbued Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11477,
+      "name": "Potion of Demon Slaying",
+      "creates": {
+        "item_id": 9224,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 265,
+        "green": 285,
+        "gray": 305
+      },
+      "learned_at": 250,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8846,
+          "name": "Gromsblood",
+          "quantity": 1
+        },
+        {
+          "item_id": 8845,
+          "name": "Ghost Mushroom",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251752,
+      "name": "Potion of Elemental Purging",
+      "creates": {
+        "item_id": 250954,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 280,
+        "yellow": 285,
+        "green": 287,
+        "gray": 290
+      },
+      "learned_at": 280,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 4625,
+          "name": "Firebloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 3819,
+          "name": "Wintersbite",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3174,
+      "name": "Potion of Poison Cleansing",
+      "creates": {
+        "item_id": 3386,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 120,
+        "yellow": 145,
+        "green": 165,
+        "gray": 185
+      },
+      "learned_at": 120,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 1288,
+          "name": "Large Venom Sac",
+          "quantity": 1
+        },
+        {
+          "item_id": 2453,
+          "name": "Bruiseweed",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251748,
+      "name": "Potion of Venomous Blood",
+      "creates": {
+        "item_id": 250950,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 280,
+        "green": 282,
+        "gray": 285
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8846,
+          "name": "Gromsblood",
+          "quantity": 3
+        },
+        {
+          "item_id": 13466,
+          "name": "Plaguebloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17572,
+      "name": "Purification Potion",
+      "creates": {
+        "item_id": 13462,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 285,
+        "yellow": 300,
+        "green": 320,
+        "gray": 340
+      },
+      "learned_at": 285,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13467,
+          "name": "Icecap",
+          "quantity": 2
+        },
+        {
+          "item_id": 13466,
+          "name": "Plaguebloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 6617,
+      "name": "Rage Potion",
+      "creates": {
+        "item_id": 5631,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 60,
+        "yellow": 90,
+        "green": 110,
+        "gray": 130
+      },
+      "learned_at": 60,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 5635,
+          "name": "Sharp Claw",
+          "quantity": 1
+        },
+        {
+          "item_id": 2450,
+          "name": "Briarthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11452,
+      "name": "Restorative Potion",
+      "creates": {
+        "item_id": 9030,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 215,
+        "yellow": 225,
+        "green": 245,
+        "gray": 265
+      },
+      "learned_at": 215,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7067,
+          "name": "Elemental Earth",
+          "quantity": 1
+        },
+        {
+          "item_id": 3821,
+          "name": "Goldthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3449,
+      "name": "Shadow Oil",
+      "creates": {
+        "item_id": 3824,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 165,
+        "yellow": 190,
+        "green": 210,
+        "gray": 230
+      },
+      "learned_at": 165,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3818,
+          "name": "Fadeleaf",
+          "quantity": 4
+        },
+        {
+          "item_id": 3369,
+          "name": "Grave Moss",
+          "quantity": 4
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7256,
+      "name": "Shadow Protection Potion",
+      "creates": {
+        "item_id": 6048,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 135,
+        "yellow": 160,
+        "green": 180,
+        "gray": 200
+      },
+      "learned_at": 135,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3369,
+          "name": "Grave Moss",
+          "quantity": 1
+        },
+        {
+          "item_id": 3356,
+          "name": "Kingsblood",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251731,
+      "name": "Spellblasting Potion",
+      "creates": {
+        "item_id": 250934,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 135,
+        "yellow": 140,
+        "green": 142,
+        "gray": 145
+      },
+      "learned_at": 135,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3355,
+          "name": "Wild Steelbloom",
+          "quantity": 1
+        },
+        {
+          "item_id": 3369,
+          "name": "Grave Moss",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17551,
+      "name": "Stonescale Oil",
+      "creates": {
+        "item_id": 13423,
+        "min_qty": 2,
+        "max_qty": 2
+      },
+      "skill_ranges": {
+        "orange": 250,
+        "yellow": 250,
+        "green": 255,
+        "gray": 260
+      },
+      "learned_at": 250,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 13422,
+          "name": "Stonescale Eel",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249633,
+      "name": "Sulfuric Acid",
+      "creates": {
+        "item_id": 249410,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 50,
+        "green": 70,
+        "gray": 90
+      },
+      "learned_at": 50,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 249391,
+          "name": "Pyrite",
+          "quantity": 2
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1244648,
+      "name": "Superior Discolored Healing Potion",
+      "creates": {
+        "item_id": 247242,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 230,
+        "green": 250,
+        "gray": 270
+      },
+      "learned_at": 230,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        },
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 1
+        },
+        {
+          "item_id": 730,
+          "name": "Murloc Eye",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251739,
+      "name": "Superior Frenzy Potion",
+      "creates": {
+        "item_id": 250942,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 240,
+        "yellow": 245,
+        "green": 247,
+        "gray": 250
+      },
+      "learned_at": 240,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8839,
+          "name": "Blindweed",
+          "quantity": 3
+        },
+        {
+          "item_id": 4625,
+          "name": "Firebloom",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17553,
+      "name": "Superior Mana Potion",
+      "creates": {
+        "item_id": 13443,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 260,
+        "yellow": 275,
+        "green": 295,
+        "gray": 315
+      },
+      "learned_at": 260,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 2
+        },
+        {
+          "item_id": 8839,
+          "name": "Blindweed",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251745,
+      "name": "Superior Mender's Potion",
+      "creates": {
+        "item_id": 250948,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 230,
+        "yellow": 235,
+        "green": 237,
+        "gray": 240
+      },
+      "learned_at": 230,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 2
+        },
+        {
+          "item_id": 8836,
+          "name": "Arthas' Tears",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1251733,
+      "name": "Superior Spellblasting Potion",
+      "creates": {
+        "item_id": 250936,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 235,
+        "yellow": 240,
+        "green": 242,
+        "gray": 245
+      },
+      "learned_at": 235,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3819,
+          "name": "Wintersbite",
+          "quantity": 2
+        },
+        {
+          "item_id": 3358,
+          "name": "Khadgar's Whisker",
+          "quantity": 2
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2335,
+      "name": "Swiftness Potion",
+      "creates": {
+        "item_id": 2459,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 60,
+        "yellow": 90,
+        "green": 110,
+        "gray": 130
+      },
+      "learned_at": 60,
+      "source": [
+        2,
+        16,
+        21
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2452,
+          "name": "Swiftthistle",
+          "quantity": 1
+        },
+        {
+          "item_id": 2450,
+          "name": "Briarthorn",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 7841,
+      "name": "Swim Speed Potion",
+      "creates": {
+        "item_id": 6372,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 100,
+        "yellow": 130,
+        "green": 150,
+        "gray": 170
+      },
+      "learned_at": 100,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 2452,
+          "name": "Swiftthistle",
+          "quantity": 1
+        },
+        {
+          "item_id": 6370,
+          "name": "Blackmouth Oil",
+          "quantity": 1
+        },
+        {
+          "item_id": 3371,
+          "name": "Empty Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17559,
+      "name": "Transmute: Air to Fire",
+      "creates": {
+        "item_id": 7078,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 275,
+        "green": 282,
+        "gray": 290
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7082,
+          "name": "Essence of Air",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17187,
+      "name": "Transmute: Arcanite",
+      "creates": {
+        "item_id": 12360,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 275,
+        "green": 282,
+        "gray": 290
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": 169171,
+      "reagents": [
+        {
+          "item_id": 12359,
+          "name": "Thorium Bar",
+          "quantity": 1
+        },
+        {
+          "item_id": 12363,
+          "name": "Arcane Crystal",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17566,
+      "name": "Transmute: Earth to Life",
+      "creates": {
+        "item_id": 12803,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 275,
+        "green": 282,
+        "gray": 290
+      },
+      "learned_at": 275,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7076,
+          "name": "Essence of Earth",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17561,
+      "name": "Transmute: Earth to Water",
+      "creates": {
+        "item_id": 7080,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 275,
+        "green": 282,
+        "gray": 290
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7076,
+          "name": "Essence of Earth",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 25146,
+      "name": "Transmute: Elemental Fire",
+      "creates": {
+        "item_id": 7068,
+        "min_qty": 3,
+        "max_qty": 3
+      },
+      "skill_ranges": {
+        "orange": 300,
+        "yellow": 301,
+        "green": 305,
+        "gray": 310
+      },
+      "learned_at": 300,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": 600,
+      "reagents": [
+        {
+          "item_id": 7077,
+          "name": "Heart of Fire",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17560,
+      "name": "Transmute: Fire to Earth",
+      "creates": {
+        "item_id": 7076,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 275,
+        "green": 282,
+        "gray": 290
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7078,
+          "name": "Essence of Fire",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11479,
+      "name": "Transmute: Iron to Gold",
+      "creates": {
+        "item_id": 3577,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 240,
+        "green": 260,
+        "gray": 280
+      },
+      "learned_at": 225,
+      "source": [
+        5,
+        6
+      ],
+      "cooldown_seconds": 3600,
+      "reagents": [
+        {
+          "item_id": 3575,
+          "name": "Iron Bar",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1317279,
+      "name": "Transmute: Legionite",
+      "creates": {
+        "item_id": 251290,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 275,
+        "green": 282,
+        "gray": 290
+      },
+      "learned_at": 275,
+      "source": [],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 251291,
+          "name": "Heavy Thorium Bar",
+          "quantity": 1
+        },
+        {
+          "item_id": 248819,
+          "name": "Fel Crystal",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17565,
+      "name": "Transmute: Life to Earth",
+      "creates": {
+        "item_id": 7076,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 275,
+        "green": 282,
+        "gray": 290
+      },
+      "learned_at": 275,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12803,
+          "name": "Living Essence",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11480,
+      "name": "Transmute: Mithril to Truesilver",
+      "creates": {
+        "item_id": 6037,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 240,
+        "green": 260,
+        "gray": 280
+      },
+      "learned_at": 225,
+      "source": [
+        5,
+        6
+      ],
+      "cooldown_seconds": 3600,
+      "reagents": [
+        {
+          "item_id": 3860,
+          "name": "Mithril Bar",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17563,
+      "name": "Transmute: Undeath to Water",
+      "creates": {
+        "item_id": 7080,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 275,
+        "green": 282,
+        "gray": 290
+      },
+      "learned_at": 275,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 12808,
+          "name": "Essence of Undeath",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17562,
+      "name": "Transmute: Water to Air",
+      "creates": {
+        "item_id": 7082,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 275,
+        "green": 282,
+        "gray": 290
+      },
+      "learned_at": 275,
+      "source": [
+        5
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7080,
+          "name": "Essence of Water",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 17564,
+      "name": "Transmute: Water to Undeath",
+      "creates": {
+        "item_id": 12808,
+        "min_qty": 0,
+        "max_qty": 0
+      },
+      "skill_ranges": {
+        "orange": 275,
+        "yellow": 275,
+        "green": 282,
+        "gray": 290
+      },
+      "learned_at": 275,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 7080,
+          "name": "Essence of Water",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3451,
+      "name": "Troll's Blood Elixir",
+      "creates": {
+        "item_id": 3826,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 180,
+        "yellow": 200,
+        "green": 220,
+        "gray": 240
+      },
+      "learned_at": 180,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 3357,
+          "name": "Liferoot",
+          "quantity": 1
+        },
+        {
+          "item_id": 2453,
+          "name": "Bruiseweed",
+          "quantity": 1
+        },
+        {
+          "item_id": 3372,
+          "name": "Leaded Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 1249632,
+      "name": "Viridian Dye",
+      "creates": {
+        "item_id": 249431,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 0,
+        "yellow": 230,
+        "green": 250,
+        "gray": 270
+      },
+      "learned_at": 230,
+      "source": [
+        6
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 249274,
+          "name": "Stranglevine",
+          "quantity": 2
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 11458,
+      "name": "Wildvine Potion",
+      "creates": {
+        "item_id": 9144,
+        "min_qty": 1,
+        "max_qty": 1
+      },
+      "skill_ranges": {
+        "orange": 225,
+        "yellow": 225,
+        "green": 237,
+        "gray": 250
+      },
+      "learned_at": 225,
+      "source": [
+        2
+      ],
+      "cooldown_seconds": null,
+      "reagents": [
+        {
+          "item_id": 8153,
+          "name": "Wildvine",
+          "quantity": 1
+        },
+        {
+          "item_id": 8831,
+          "name": "Purple Lotus",
+          "quantity": 1
+        },
+        {
+          "item_id": 8925,
+          "name": "Crystal Vial",
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "items": {
+    "7994": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "9367": {
+      "name": "Plans: Golden Scale Gauntlets",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "6735": {
+      "name": "Plans: Ironforge Breastplate",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "2889": {
+      "name": "Recipe: Beer Basted Boar Ribs",
+      "sell_price": 60,
+      "buy_price": 240
+    },
+    "3679": {
+      "name": "Recipe: Blood Sausage",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "5528": {
+      "name": "Recipe: Clam Chowder",
+      "sell_price": 200,
+      "buy_price": 800
+    },
+    "3681": {
+      "name": "Recipe: Crocolisk Gumbo",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "3678": {
+      "name": "Recipe: Crocolisk Steak",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "3683": {
+      "name": "Recipe: Gooey Spider Cake",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "2697": {
+      "name": "Recipe: Goretusk Liver Pie",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "6329": {
+      "name": "Recipe: Loch Frenzy Delight",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "3680": {
+      "name": "Recipe: Murloc Fin Soup",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "2699": {
+      "name": "Recipe: Redridge Goulash",
+      "sell_price": 200,
+      "buy_price": 800
+    },
+    "2701": {
+      "name": "Recipe: Seasoned Wolf Kabob",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "3736": {
+      "name": "Recipe: Tasty Lion Steak",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "728": {
+      "name": "Recipe: Westfall Stew",
+      "sell_price": 50,
+      "buy_price": 200
+    },
+    "18649": {
+      "name": "Schematic: Blue Firework",
+      "sell_price": 450,
+      "buy_price": 1800
+    },
+    "7289": {
+      "name": "Pattern: Black Whelp Cloak",
+      "sell_price": 162,
+      "buy_price": 650
+    },
+    "20576": {
+      "name": "Pattern: Black Whelp Tunic",
+      "sell_price": 350,
+      "buy_price": 1400
+    },
+    "7361": {
+      "name": "Pattern: Herbalist's Gloves",
+      "sell_price": 450,
+      "buy_price": 1800
+    },
+    "6710": {
+      "name": "Pattern: Moonglow Vest",
+      "sell_price": 137,
+      "buy_price": 0
+    },
+    "13288": {
+      "name": "Pattern: Raptor Hide Belt",
+      "sell_price": 625,
+      "buy_price": 2500
+    },
+    "7290": {
+      "name": "Pattern: Red Whelp Gloves",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "14627": {
+      "name": "Pattern: Bright Yellow Shirt",
+      "sell_price": 200,
+      "buy_price": 800
+    },
+    "4597": {
+      "name": "Recipe: Minor Discolored Healing Potion",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "7981": {
+      "name": "Plans: Barbaric Iron Boots",
+      "sell_price": 1100,
+      "buy_price": 0
+    },
+    "7979": {
+      "name": "Plans: Barbaric Iron Breastplate",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "7982": {
+      "name": "Plans: Barbaric Iron Gloves",
+      "sell_price": 1100,
+      "buy_price": 0
+    },
+    "7980": {
+      "name": "Plans: Barbaric Iron Helm",
+      "sell_price": 850,
+      "buy_price": 0
+    },
+    "7978": {
+      "name": "Plans: Barbaric Iron Shoulders",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "12226": {
+      "name": "Recipe: Crispy Bat Wing",
+      "sell_price": 6,
+      "buy_price": 25
+    },
+    "5488": {
+      "name": "Recipe: Crispy Lizard Tail",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "5487": {
+      "name": "Recipe: Dig Rat Stew",
+      "sell_price": 200,
+      "buy_price": 0
+    },
+    "20075": {
+      "name": "Recipe: Heavy Crocolisk Stew",
+      "sell_price": 500,
+      "buy_price": 2000
+    },
+    "5484": {
+      "name": "Recipe: Roasted Kodo Meat",
+      "sell_price": 60,
+      "buy_price": 240
+    },
+    "5483": {
+      "name": "Recipe: Scorpid Surprise",
+      "sell_price": 35,
+      "buy_price": 140
+    },
+    "6346": {
+      "name": "Formula: Enchant Chest - Lesser Intellect",
+      "sell_price": 100,
+      "buy_price": 400
+    },
+    "18647": {
+      "name": "Schematic: Red Firework",
+      "sell_price": 450,
+      "buy_price": 1800
+    },
+    "5083": {
+      "name": "Pattern: Kodo Hide Bag",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "13287": {
+      "name": "Pattern: Raptor Hide Harness",
+      "sell_price": 625,
+      "buy_price": 2500
+    },
+    "2449": {
+      "name": "Earthroot",
+      "sell_price": 20,
+      "buy_price": 80,
+      "orgrimmar_vendor": false
+    },
+    "765": {
+      "name": "Silverleaf",
+      "sell_price": 10,
+      "buy_price": 40,
+      "orgrimmar_vendor": false
+    },
+    "3371": {
+      "name": "Empty Vial",
+      "sell_price": 1,
+      "buy_price": 20,
+      "orgrimmar_vendor": true
+    },
+    "2454": {
+      "name": "Elixir of Minor Strength",
+      "sell_price": 20,
+      "buy_price": 0
+    },
+    "785": {
+      "name": "Mageroyal",
+      "sell_price": 20,
+      "buy_price": 80,
+      "orgrimmar_vendor": false
+    },
+    "2447": {
+      "name": "Peacebloom",
+      "sell_price": 10,
+      "buy_price": 40,
+      "orgrimmar_vendor": false
+    },
+    "2455": {
+      "name": "Minor Mana Potion",
+      "sell_price": 10,
+      "buy_price": 40
+    },
+    "2456": {
+      "name": "Minor Rejuvenation Potion",
+      "sell_price": 15,
+      "buy_price": 0
+    },
+    "2458": {
+      "name": "Elixir of Minor Fortitude",
+      "sell_price": 15,
+      "buy_price": 0
+    },
+    "2452": {
+      "name": "Swiftthistle",
+      "sell_price": 15,
+      "buy_price": 0
+    },
+    "2450": {
+      "name": "Briarthorn",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "2459": {
+      "name": "Swiftness Potion",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "3383": {
+      "name": "Elixir of Wisdom",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "3355": {
+      "name": "Wild Steelbloom",
+      "sell_price": 50,
+      "buy_price": 200,
+      "orgrimmar_vendor": false
+    },
+    "3384": {
+      "name": "Minor Magic Resistance Potion",
+      "sell_price": 20,
+      "buy_price": 0
+    },
+    "3820": {
+      "name": "Stranglekelp",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "3385": {
+      "name": "Lesser Mana Potion",
+      "sell_price": 30,
+      "buy_price": 120
+    },
+    "1288": {
+      "name": "Large Venom Sac",
+      "sell_price": 185,
+      "buy_price": 0
+    },
+    "2453": {
+      "name": "Bruiseweed",
+      "sell_price": 25,
+      "buy_price": 100,
+      "orgrimmar_vendor": false
+    },
+    "3372": {
+      "name": "Leaded Vial",
+      "sell_price": 10,
+      "buy_price": 200,
+      "orgrimmar_vendor": true
+    },
+    "3386": {
+      "name": "Potion of Poison Cleansing",
+      "sell_price": 35,
+      "buy_price": 0
+    },
+    "3388": {
+      "name": "Lesser Troll's Blood Elixir",
+      "sell_price": 40,
+      "buy_price": 0
+    },
+    "3389": {
+      "name": "Elixir of Lesser Defense",
+      "sell_price": 40,
+      "buy_price": 0
+    },
+    "3390": {
+      "name": "Elixir of Lesser Agility",
+      "sell_price": 35,
+      "buy_price": 0
+    },
+    "3356": {
+      "name": "Kingsblood",
+      "sell_price": 30,
+      "buy_price": 120,
+      "orgrimmar_vendor": false
+    },
+    "3391": {
+      "name": "Elixir of Ogre Strength",
+      "sell_price": 20,
+      "buy_price": 0
+    },
+    "3382": {
+      "name": "Minor Troll's Blood Elixir",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "2457": {
+      "name": "Elixir of Minor Agility",
+      "sell_price": 15,
+      "buy_price": 0
+    },
+    "3818": {
+      "name": "Fadeleaf",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "3823": {
+      "name": "Lesser Invisibility Potion",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "3369": {
+      "name": "Grave Moss",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "3824": {
+      "name": "Shadow Oil",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "3821": {
+      "name": "Goldthorn",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "3825": {
+      "name": "Elixir of Lesser Fortitude",
+      "sell_price": 110,
+      "buy_price": 0
+    },
+    "3357": {
+      "name": "Liferoot",
+      "sell_price": 75,
+      "buy_price": 300,
+      "orgrimmar_vendor": false
+    },
+    "3826": {
+      "name": "Troll's Blood Elixir",
+      "sell_price": 105,
+      "buy_price": 0
+    },
+    "3827": {
+      "name": "Mana Potion",
+      "sell_price": 120,
+      "buy_price": 480
+    },
+    "3358": {
+      "name": "Khadgar's Whisker",
+      "sell_price": 175,
+      "buy_price": 700,
+      "orgrimmar_vendor": false
+    },
+    "3828": {
+      "name": "Draught of Detect Lesser Invisibility",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "3819": {
+      "name": "Wintersbite",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "3829": {
+      "name": "Frost Oil",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "730": {
+      "name": "Murloc Eye",
+      "sell_price": 16,
+      "buy_price": 0
+    },
+    "4596": {
+      "name": "Minor Discolored Healing Potion",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "3858": {
+      "name": "Mithril Ore",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "4623": {
+      "name": "Lesser Stoneshield Potion",
+      "sell_price": 375,
+      "buy_price": 0
+    },
+    "6370": {
+      "name": "Blackmouth Oil",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "5634": {
+      "name": "Free Action Potion",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "5637": {
+      "name": "Large Fang",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "5633": {
+      "name": "Great Rage Potion",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "5635": {
+      "name": "Sharp Claw",
+      "sell_price": 45,
+      "buy_price": 0
+    },
+    "5631": {
+      "name": "Rage Potion",
+      "sell_price": 30,
+      "buy_price": 0
+    },
+    "5996": {
+      "name": "Draught of Water Breathing",
+      "sell_price": 95,
+      "buy_price": 0
+    },
+    "5997": {
+      "name": "Elixir of Minor Defense",
+      "sell_price": 5,
+      "buy_price": 0
+    },
+    "4402": {
+      "name": "Small Flame Sac",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "6371": {
+      "name": "Fire Oil",
+      "sell_price": 12,
+      "buy_price": 0
+    },
+    "6049": {
+      "name": "Fire Protection Potion",
+      "sell_price": 170,
+      "buy_price": 0
+    },
+    "6050": {
+      "name": "Frost Protection Potion",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "6051": {
+      "name": "Holy Protection Potion",
+      "sell_price": 62,
+      "buy_price": 0
+    },
+    "6052": {
+      "name": "Nature Protection Potion",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "6048": {
+      "name": "Shadow Protection Potion",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "6358": {
+      "name": "Oily Blackmouth",
+      "sell_price": 4,
+      "buy_price": 0
+    },
+    "6359": {
+      "name": "Firefin Snapper",
+      "sell_price": 5,
+      "buy_price": 0
+    },
+    "6372": {
+      "name": "Swim Speed Potion",
+      "sell_price": 35,
+      "buy_price": 0
+    },
+    "6373": {
+      "name": "Elixir of Fire Power",
+      "sell_price": 35,
+      "buy_price": 0
+    },
+    "6522": {
+      "name": "Deviate Fish",
+      "sell_price": 4,
+      "buy_price": 0
+    },
+    "6662": {
+      "name": "Elixir of Giant Growth",
+      "sell_price": 95,
+      "buy_price": 0
+    },
+    "8827": {
+      "name": "Draught of Water Walking",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "8949": {
+      "name": "Elixir of Agility",
+      "sell_price": 200,
+      "buy_price": 0
+    },
+    "8951": {
+      "name": "Elixir of Defense",
+      "sell_price": 200,
+      "buy_price": 0
+    },
+    "4625": {
+      "name": "Firebloom",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "8925": {
+      "name": "Crystal Vial",
+      "sell_price": 125,
+      "buy_price": 2500,
+      "orgrimmar_vendor": true
+    },
+    "8956": {
+      "name": "Oil of Immolation",
+      "sell_price": 200,
+      "buy_price": 0
+    },
+    "6149": {
+      "name": "Greater Mana Potion",
+      "sell_price": 120,
+      "buy_price": 480
+    },
+    "7067": {
+      "name": "Elemental Earth",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "9030": {
+      "name": "Restorative Potion",
+      "sell_price": 200,
+      "buy_price": 0
+    },
+    "8831": {
+      "name": "Purple Lotus",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "9036": {
+      "name": "Magic Resistance Potion",
+      "sell_price": 20,
+      "buy_price": 0
+    },
+    "9260": {
+      "name": "Volatile Rum",
+      "sell_price": 400,
+      "buy_price": 1600,
+      "orgrimmar_vendor": false
+    },
+    "9061": {
+      "name": "Goblin Rocket Fuel",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "8153": {
+      "name": "Wildvine",
+      "sell_price": 5,
+      "buy_price": 0
+    },
+    "9144": {
+      "name": "Wildvine Potion",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "3575": {
+      "name": "Iron Bar",
+      "sell_price": 200,
+      "buy_price": 0
+    },
+    "9262": {
+      "name": "Black Vitriol",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "9149": {
+      "name": "Philosopher's Stone",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "8836": {
+      "name": "Arthas' Tears",
+      "sell_price": 95,
+      "buy_price": 0
+    },
+    "9154": {
+      "name": "Draught of Detect Undead",
+      "sell_price": 300,
+      "buy_price": 0
+    },
+    "8839": {
+      "name": "Blindweed",
+      "sell_price": 375,
+      "buy_price": 0
+    },
+    "9155": {
+      "name": "Arcane Elixir",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "8845": {
+      "name": "Ghost Mushroom",
+      "sell_price": 375,
+      "buy_price": 1500,
+      "orgrimmar_vendor": false
+    },
+    "8838": {
+      "name": "Sungrass",
+      "sell_price": 60,
+      "buy_price": 0
+    },
+    "9172": {
+      "name": "Invisibility Potion",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "9179": {
+      "name": "Elixir of Greater Intellect",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "9088": {
+      "name": "Gift of Arthas",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "9187": {
+      "name": "Elixir of Greater Agility",
+      "sell_price": 600,
+      "buy_price": 0
+    },
+    "9197": {
+      "name": "Draught of Dream Vision",
+      "sell_price": 600,
+      "buy_price": 0
+    },
+    "8846": {
+      "name": "Gromsblood",
+      "sell_price": 250,
+      "buy_price": 1000,
+      "orgrimmar_vendor": false
+    },
+    "9206": {
+      "name": "Elixir of Greater Strength",
+      "sell_price": 700,
+      "buy_price": 0
+    },
+    "4342": {
+      "name": "Purple Dye",
+      "sell_price": 625,
+      "buy_price": 2500,
+      "orgrimmar_vendor": true
+    },
+    "9210": {
+      "name": "Ghost Dye",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "9264": {
+      "name": "Elixir of Shadow Power",
+      "sell_price": 35,
+      "buy_price": 0
+    },
+    "9224": {
+      "name": "Potion of Demon Slaying",
+      "sell_price": 700,
+      "buy_price": 0
+    },
+    "9233": {
+      "name": "Draught of Detect Demon",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "3577": {
+      "name": "Gold Bar",
+      "sell_price": 600,
+      "buy_price": 0
+    },
+    "3860": {
+      "name": "Mithril Bar",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "6037": {
+      "name": "Truesilver Bar",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "10592": {
+      "name": "Catseye Draught",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "12190": {
+      "name": "Dreamless Sleep Potion",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "12359": {
+      "name": "Thorium Bar",
+      "sell_price": 600,
+      "buy_price": 0
+    },
+    "12363": {
+      "name": "Arcane Crystal",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "12360": {
+      "name": "Arcanite Bar",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "13422": {
+      "name": "Stonescale Eel",
+      "sell_price": 10,
+      "buy_price": 0
+    },
+    "13423": {
+      "name": "Stonescale Oil",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "13442": {
+      "name": "Mighty Rage Potion",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "13443": {
+      "name": "Superior Mana Potion",
+      "sell_price": 400,
+      "buy_price": 1600
+    },
+    "13445": {
+      "name": "Elixir of Greater Defense",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "13463": {
+      "name": "Dreamfoil",
+      "sell_price": 100,
+      "buy_price": 400,
+      "orgrimmar_vendor": false
+    },
+    "13466": {
+      "name": "Plaguebloom",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "13447": {
+      "name": "Elixir of the Sages",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "13453": {
+      "name": "Elixir of Brute Force",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "7082": {
+      "name": "Essence of Air",
+      "sell_price": 400,
+      "buy_price": 1600,
+      "orgrimmar_vendor": false
+    },
+    "7078": {
+      "name": "Essence of Fire",
+      "sell_price": 400,
+      "buy_price": 1600,
+      "orgrimmar_vendor": false
+    },
+    "7076": {
+      "name": "Essence of Earth",
+      "sell_price": 400,
+      "buy_price": 1600,
+      "orgrimmar_vendor": false
+    },
+    "7080": {
+      "name": "Essence of Water",
+      "sell_price": 400,
+      "buy_price": 1600,
+      "orgrimmar_vendor": false
+    },
+    "12803": {
+      "name": "Living Essence",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "12808": {
+      "name": "Essence of Undeath",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "10620": {
+      "name": "Thorium Ore",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "13455": {
+      "name": "Greater Stoneshield Potion",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "13465": {
+      "name": "Mountain Silversage",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "13452": {
+      "name": "Elixir of the Mongoose",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "13467": {
+      "name": "Icecap",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "13462": {
+      "name": "Purification Potion",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "13454": {
+      "name": "Greater Arcane Elixir",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "7068": {
+      "name": "Elemental Fire",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "13457": {
+      "name": "Greater Fire Protection Potion",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "7070": {
+      "name": "Elemental Water",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "13456": {
+      "name": "Greater Frost Protection Potion",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "13458": {
+      "name": "Greater Nature Protection Potion",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "11176": {
+      "name": "Dream Dust",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "13461": {
+      "name": "Greater Arcane Protection Potion",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "13459": {
+      "name": "Greater Shadow Protection Potion",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "7069": {
+      "name": "Elemental Air",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "13460": {
+      "name": "Greater Holy Protection Potion",
+      "sell_price": 750,
+      "buy_price": 0
+    },
+    "13444": {
+      "name": "Major Mana Potion",
+      "sell_price": 1500,
+      "buy_price": 6000
+    },
+    "13468": {
+      "name": "Black Lotus",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "13503": {
+      "name": "Alchemist's Stone",
+      "sell_price": 25000,
+      "buy_price": 0
+    },
+    "13506": {
+      "name": "Flask of Petrification",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "13510": {
+      "name": "Flask of the Titans",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "13511": {
+      "name": "Flask of Distilled Wisdom",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "13512": {
+      "name": "Flask of Supreme Power",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "13513": {
+      "name": "Flask of Chromatic Resistance",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "3387": {
+      "name": "Limited Invulnerability Potion",
+      "sell_price": 30,
+      "buy_price": 0
+    },
+    "17708": {
+      "name": "Elixir of Frost Power",
+      "sell_price": 35,
+      "buy_price": 0
+    },
+    "15410": {
+      "name": "Scale of Onyxia",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "17967": {
+      "name": "Refined Scale of Onyxia",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "10286": {
+      "name": "Heart of the Wild",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "13464": {
+      "name": "Golden Sansam",
+      "sell_price": 100,
+      "buy_price": 400,
+      "orgrimmar_vendor": false
+    },
+    "18256": {
+      "name": "Imbued Vial",
+      "sell_price": 1500,
+      "buy_price": 30000,
+      "orgrimmar_vendor": true
+    },
+    "18253": {
+      "name": "Major Rejuvenation Potion",
+      "sell_price": 15,
+      "buy_price": 0
+    },
+    "7972": {
+      "name": "Ichor of Undeath",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "18294": {
+      "name": "Draught of Greater Water Breathing",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "12938": {
+      "name": "Blood of Heroes",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "19943": {
+      "name": "Massive Mojo",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "12804": {
+      "name": "Powerful Mojo",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "19931": {
+      "name": "Gurubashi Mojo Madness",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "20007": {
+      "name": "Mageblood Elixir",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "20002": {
+      "name": "Greater Dreamless Sleep Potion",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "20008": {
+      "name": "Living Action Potion",
+      "sell_price": 600,
+      "buy_price": 0
+    },
+    "20004": {
+      "name": "Major Troll's Blood Elixir",
+      "sell_price": 1000,
+      "buy_price": 0
+    },
+    "7077": {
+      "name": "Heart of Fire",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "21546": {
+      "name": "Elixir of Holy Power",
+      "sell_price": 35,
+      "buy_price": 0
+    },
+    "11083": {
+      "name": "Soul Dust",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "210708": {
+      "name": "Elixir of Coalesced Regret",
+      "sell_price": 40,
+      "buy_price": 0
+    },
+    "213371": {
+      "name": "Crate of Tainted Gniodine Solution",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "215430": {
+      "name": "Gnomeregan Fallout",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "217398": {
+      "name": "Lesser Arcane Elixir",
+      "sell_price": 400,
+      "buy_price": 0
+    },
+    "221021": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "220688": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "221312": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "16203": {
+      "name": "Greater Eternal Essence",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "234012": {
+      "name": "Hive Thistle",
+      "sell_price": 15,
+      "buy_price": 0
+    },
+    "234006": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "234011": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "234010": {
+      "name": "",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "279956": {
+      "name": "Mana Well",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "241650": {
+      "name": "Major Discolored Healing Potion",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "246948": {
+      "name": "Distilled Firewater",
+      "sell_price": 200,
+      "buy_price": 0
+    },
+    "247239": {
+      "name": "Lesser Discolored Healing Potion",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "247240": {
+      "name": "Discolored Healing Potion",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "247241": {
+      "name": "Greater Discolored Healing Potion",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "247242": {
+      "name": "Superior Discolored Healing Potion",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "247754": {
+      "name": "Minor Arcane Elixir",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "247755": {
+      "name": "Elixir of Minor Force",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "249399": {
+      "name": "Frilled Lichen",
+      "sell_price": 30,
+      "buy_price": 0
+    },
+    "249409": {
+      "name": "Cerulean Dye",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "249424": {
+      "name": "Rosecap",
+      "sell_price": 95,
+      "buy_price": 0
+    },
+    "249430": {
+      "name": "Magenta Dye",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "249274": {
+      "name": "Stranglevine",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "249431": {
+      "name": "Viridian Dye",
+      "sell_price": 375,
+      "buy_price": 0
+    },
+    "249391": {
+      "name": "Pyrite",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "249410": {
+      "name": "Sulfuric Acid",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "250327": {
+      "name": "Draught of Predatory Senses",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "250328": {
+      "name": "Elixir of Cunning",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "250329": {
+      "name": "Elixir of the Phalanx",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "250330": {
+      "name": "Minor Cleric's Elixir",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "250331": {
+      "name": "Lesser Cleric's Elixir",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "250332": {
+      "name": "Cleric's Elixir",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "250333": {
+      "name": "Greater Cleric's Elixir",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "250334": {
+      "name": "Elixir of Fortitude",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "250335": {
+      "name": "Elixir of Greater Fortitude",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "250336": {
+      "name": "Elixir of Wicked Regeneration",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "250337": {
+      "name": "Elixir of the Owl",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "250338": {
+      "name": "Elixir of Sages",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "250339": {
+      "name": "Minor Mageblood Elixir",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "250340": {
+      "name": "Lesser Mageblood Elixir",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "250341": {
+      "name": "Greater Mageblood Elixir",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "250342": {
+      "name": "Lesser Arcane Elixir",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "250343": {
+      "name": "Elixir of Nature Power",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "250344": {
+      "name": "Elixir of Minor Spirit",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "250345": {
+      "name": "Elixir of Lesser Spirit",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "250346": {
+      "name": "Elixir of Spirit",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "250347": {
+      "name": "Elixir of Greater Spirit",
+      "sell_price": 100,
+      "buy_price": 0
+    },
+    "250348": {
+      "name": "Elixir of the Whale",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "250349": {
+      "name": "Elixir of Strength",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "250350": {
+      "name": "Elixir of Ferocity",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "250351": {
+      "name": "Elixir of the Grizzly",
+      "sell_price": 125,
+      "buy_price": 0
+    },
+    "250353": {
+      "name": "Elixir of Lesser Intellect",
+      "sell_price": 50,
+      "buy_price": 0
+    },
+    "250354": {
+      "name": "Elixir of Intellect",
+      "sell_price": 75,
+      "buy_price": 0
+    },
+    "250932": {
+      "name": "Minor Spellblasting Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250933": {
+      "name": "Lesser Spellblasting Potion",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "250934": {
+      "name": "Spellblasting Potion",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "250935": {
+      "name": "Greater Spellblasting Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250936": {
+      "name": "Superior Spellblasting Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250937": {
+      "name": "Major Spellblasting Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250938": {
+      "name": "Minor Frenzy Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250939": {
+      "name": "Lesser Frenzy Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250940": {
+      "name": "Frenzy Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250941": {
+      "name": "Greater Frenzy Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250942": {
+      "name": "Superior Frenzy Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250943": {
+      "name": "Major Frenzy Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250944": {
+      "name": "Minor Mender's Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250945": {
+      "name": "Lesser Mender's Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250946": {
+      "name": "Mender's Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250947": {
+      "name": "Greater Mender's Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250948": {
+      "name": "Superior Mender's Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250949": {
+      "name": "Major Mender's Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250950": {
+      "name": "Potion of Venomous Blood",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250951": {
+      "name": "Caustic Smog Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250952": {
+      "name": "Disorienting Smog Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250953": {
+      "name": "Dragonfire Potion",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250954": {
+      "name": "Potion of Elemental Purging",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "250955": {
+      "name": "Potion of Beast Slaying",
+      "sell_price": 1,
+      "buy_price": 0
+    },
+    "279970": {
+      "name": "Fermenter",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "273125": {
+      "name": "Lich's Index Finger",
+      "sell_price": 25000,
+      "buy_price": 0
+    },
+    "279990": {
+      "name": "Alchemy Laboratory",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "248822": {
+      "name": "Death Lotus",
+      "sell_price": 1500,
+      "buy_price": 0
+    },
+    "248821": {
+      "name": "Demonsage",
+      "sell_price": 225,
+      "buy_price": 0
+    },
+    "274273": {
+      "name": "Flask of Natural Accuracy",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "274274": {
+      "name": "Flask of Natural Aggression",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "248823": {
+      "name": "Marefoil",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "274275": {
+      "name": "Flask of Natural Precision",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "274276": {
+      "name": "Flask of Natural Swiftness",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "251291": {
+      "name": "Heavy Thorium Bar",
+      "sell_price": 2500,
+      "buy_price": 0
+    },
+    "248819": {
+      "name": "Fel Crystal",
+      "sell_price": 3000,
+      "buy_price": 0
+    },
+    "251290": {
+      "name": "Legionite Bar",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "2553": {
+      "name": "Recipe: Elixir of Minor Agility",
+      "sell_price": 25,
+      "buy_price": 0
+    },
+    "2555": {
+      "name": "Recipe: Swiftness Potion",
+      "sell_price": 40,
+      "buy_price": 0
+    },
+    "3393": {
+      "name": "Recipe: Minor Magic Resistance Potion",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "3394": {
+      "name": "Recipe: Potion of Poison Cleansing",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "3395": {
+      "name": "Recipe: Limited Invulnerability Potion",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "3396": {
+      "name": "Recipe: Elixir of Lesser Agility",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "3830": {
+      "name": "Recipe: Elixir of Lesser Fortitude",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "3831": {
+      "name": "Recipe: Troll's Blood Elixir",
+      "sell_price": 550,
+      "buy_price": 0
+    },
+    "3832": {
+      "name": "Recipe: Elixir of Detect Lesser Invisibility",
+      "sell_price": 550,
+      "buy_price": 0
+    },
+    "4624": {
+      "name": "Recipe: Lesser Stoneshield Potion",
+      "sell_price": 550,
+      "buy_price": 0
+    },
+    "5640": {
+      "name": "Recipe: Rage Potion",
+      "sell_price": 25,
+      "buy_price": 100
+    },
+    "5642": {
+      "name": "Recipe: Free Action Potion",
+      "sell_price": 450,
+      "buy_price": 1800
+    },
+    "5643": {
+      "name": "Recipe: Great Rage Potion",
+      "sell_price": 500,
+      "buy_price": 2000
+    },
+    "6053": {
+      "name": "Recipe: Holy Protection Potion",
+      "sell_price": 200,
+      "buy_price": 800
+    },
+    "6054": {
+      "name": "Recipe: Shadow Protection Potion",
+      "sell_price": 225,
+      "buy_price": 900
+    },
+    "6055": {
+      "name": "Recipe: Fire Protection Potion",
+      "sell_price": 375,
+      "buy_price": 1500
+    },
+    "6056": {
+      "name": "Recipe: Frost Protection Potion",
+      "sell_price": 500,
+      "buy_price": 2000
+    },
+    "6057": {
+      "name": "Recipe: Nature Protection Potion",
+      "sell_price": 500,
+      "buy_price": 2000
+    },
+    "6068": {
+      "name": "Recipe: Shadow Oil",
+      "sell_price": 375,
+      "buy_price": 1500
+    },
+    "6211": {
+      "name": "Recipe: Elixir of Ogre's Strength",
+      "sell_price": 450,
+      "buy_price": 0
+    },
+    "6663": {
+      "name": "Recipe: Elixir of Giant Growth",
+      "sell_price": 150,
+      "buy_price": 0
+    },
+    "9293": {
+      "name": "Recipe: Magic Resistance Potion",
+      "sell_price": 1250,
+      "buy_price": 0
+    },
+    "9294": {
+      "name": "Recipe: Wildvine Potion",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "9295": {
+      "name": "Recipe: Invisibility Potion",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "9296": {
+      "name": "Recipe: Gift of Arthas",
+      "sell_price": 2000,
+      "buy_price": 0
+    },
+    "9297": {
+      "name": "Recipe: Draught of Dream Vision",
+      "sell_price": 2500,
+      "buy_price": 0
+    },
+    "9298": {
+      "name": "Recipe: Elixir of Giants",
+      "sell_price": 2250,
+      "buy_price": 0
+    },
+    "9300": {
+      "name": "Recipe: Potion of Demon Slaying",
+      "sell_price": 2500,
+      "buy_price": 10000
+    },
+    "9301": {
+      "name": "Recipe: Elixir of Shadow Power",
+      "sell_price": 2500,
+      "buy_price": 10000
+    },
+    "9302": {
+      "name": "Recipe: Ghost Dye",
+      "sell_price": 2250,
+      "buy_price": 9000
+    },
+    "9303": {
+      "name": "Recipe: Philosopher's Stone",
+      "sell_price": 2000,
+      "buy_price": 8000
+    },
+    "9304": {
+      "name": "Recipe: Transmute Iron to Gold",
+      "sell_price": 2000,
+      "buy_price": 8000
+    },
+    "9305": {
+      "name": "Recipe: Transmute Mithril to Truesilver",
+      "sell_price": 2000,
+      "buy_price": 8000
+    },
+    "10644": {
+      "name": "Recipe: Goblin Rocket Fuel",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "12958": {
+      "name": "Recipe: Transmute Arcanite",
+      "sell_price": 12500,
+      "buy_price": 50000
+    },
+    "13476": {
+      "name": "Recipe: Mighty Rage Potion",
+      "sell_price": 3000,
+      "buy_price": 0
+    },
+    "13477": {
+      "name": "Recipe: Superior Mana Potion",
+      "sell_price": 3000,
+      "buy_price": 12000
+    },
+    "13478": {
+      "name": "Recipe: Elixir of Superior Defense",
+      "sell_price": 3250,
+      "buy_price": 13000
+    },
+    "13479": {
+      "name": "Recipe: Elixir of the Sages",
+      "sell_price": 3500,
+      "buy_price": 0
+    },
+    "13481": {
+      "name": "Recipe: Elixir of Brute Force",
+      "sell_price": 3750,
+      "buy_price": 0
+    },
+    "13482": {
+      "name": "Recipe: Transmute Air to Fire",
+      "sell_price": 0,
+      "buy_price": 15000
+    },
+    "13483": {
+      "name": "Recipe: Transmute Fire to Earth",
+      "sell_price": 0,
+      "buy_price": 15000
+    },
+    "13484": {
+      "name": "Recipe: Transmute Earth to Water",
+      "sell_price": 0,
+      "buy_price": 15000
+    },
+    "13485": {
+      "name": "Recipe: Transmute Water to Air",
+      "sell_price": 0,
+      "buy_price": 15000
+    },
+    "13486": {
+      "name": "Recipe: Transmute Undeath to Water",
+      "sell_price": 3750,
+      "buy_price": 0
+    },
+    "13487": {
+      "name": "Recipe: Transmute Water to Undeath",
+      "sell_price": 3750,
+      "buy_price": 0
+    },
+    "13488": {
+      "name": "Recipe: Transmute Life to Earth",
+      "sell_price": 3750,
+      "buy_price": 0
+    },
+    "13489": {
+      "name": "Recipe: Transmute Earth to Life",
+      "sell_price": 3750,
+      "buy_price": 0
+    },
+    "13490": {
+      "name": "Recipe: Greater Stoneshield Potion",
+      "sell_price": 4000,
+      "buy_price": 0
+    },
+    "13491": {
+      "name": "Recipe: Elixir of the Mongoose",
+      "sell_price": 4000,
+      "buy_price": 0
+    },
+    "13492": {
+      "name": "Recipe: Purification Potion",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "13493": {
+      "name": "Recipe: Greater Arcane Elixir",
+      "sell_price": 5000,
+      "buy_price": 0
+    },
+    "13494": {
+      "name": "Recipe: Greater Fire Protection Potion",
+      "sell_price": 6000,
+      "buy_price": 0
+    },
+    "13495": {
+      "name": "Recipe: Greater Frost Protection Potion",
+      "sell_price": 6000,
+      "buy_price": 0
+    },
+    "13496": {
+      "name": "Recipe: Greater Nature Protection Potion",
+      "sell_price": 6000,
+      "buy_price": 0
+    },
+    "13497": {
+      "name": "Recipe: Greater Arcane Protection Potion",
+      "sell_price": 6000,
+      "buy_price": 0
+    },
+    "13499": {
+      "name": "Recipe: Greater Shadow Protection Potion",
+      "sell_price": 6000,
+      "buy_price": 0
+    },
+    "13500": {
+      "name": "Recipe: Greater Holy Protection Potion",
+      "sell_price": 6000,
+      "buy_price": 0
+    },
+    "13501": {
+      "name": "Recipe: Major Mana Potion",
+      "sell_price": 7500,
+      "buy_price": 30000
+    },
+    "13517": {
+      "name": "Recipe: Alchemist's Stone",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "13518": {
+      "name": "Recipe: Flask of Petrification",
+      "sell_price": 10000,
+      "buy_price": 40000
+    },
+    "13519": {
+      "name": "Recipe: Flask of the Titans",
+      "sell_price": 10000,
+      "buy_price": 40000
+    },
+    "13520": {
+      "name": "Recipe: Flask of Distilled Wisdom",
+      "sell_price": 10000,
+      "buy_price": 40000
+    },
+    "13521": {
+      "name": "Recipe: Flask of Supreme Power",
+      "sell_price": 10000,
+      "buy_price": 40000
+    },
+    "13522": {
+      "name": "Recipe: Flask of Chromatic Resistance",
+      "sell_price": 10000,
+      "buy_price": 40000
+    },
+    "14634": {
+      "name": "Recipe: Frost Oil",
+      "sell_price": 625,
+      "buy_price": 2500
+    },
+    "17709": {
+      "name": "Recipe: Elixir of Frost Power",
+      "sell_price": 500,
+      "buy_price": 0
+    },
+    "18257": {
+      "name": "Recipe: Major Rejuvenation Potion",
+      "sell_price": 50000,
+      "buy_price": 0
+    },
+    "20011": {
+      "name": "Recipe: Mageblood Elixir",
+      "sell_price": 12500,
+      "buy_price": 50000
+    },
+    "20012": {
+      "name": "Recipe: Greater Dreamless Sleep",
+      "sell_price": 12500,
+      "buy_price": 50000
+    },
+    "20013": {
+      "name": "Recipe: Living Action Potion",
+      "sell_price": 12500,
+      "buy_price": 50000
+    },
+    "20014": {
+      "name": "Recipe: Major Troll's Blood Elixir",
+      "sell_price": 12500,
+      "buy_price": 50000
+    },
+    "20761": {
+      "name": "Recipe: Transmute Elemental Fire",
+      "sell_price": 30000,
+      "buy_price": 120000
+    },
+    "21547": {
+      "name": "Recipe: Elixir of Greater Firepower",
+      "sell_price": 2500,
+      "buy_price": 0
+    },
+    "210709": {
+      "name": "Recipe: Elixir of Coalesced Regret",
+      "sell_price": 25,
+      "buy_price": 100
+    },
+    "215163": {
+      "name": "Recipe: Mildly-Irradiated Rejuvenation Potion",
+      "sell_price": 1280,
+      "buy_price": 50000
+    },
+    "215433": {
+      "name": "Recipe: Insulating Gniodine",
+      "sell_price": 2000,
+      "buy_price": 25000
+    },
+    "215434": {
+      "name": "UNUSED",
+      "sell_price": 1280,
+      "buy_price": 0
+    },
+    "217399": {
+      "name": "Recipe: Lesser Arcane Elixir",
+      "sell_price": 5000,
+      "buy_price": 20000
+    },
+    "236754": {
+      "name": "Recipe: Distilled Firewater",
+      "sell_price": 2500,
+      "buy_price": 0
+    },
+    "241651": {
+      "name": "Recipe: Major Discolored Healing Potion",
+      "sell_price": 250,
+      "buy_price": 0
+    },
+    "250363": {
+      "name": "Recipe: Draught of Predatory Senses",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250364": {
+      "name": "Recipe: Elixir of Cunning",
+      "sell_price": 1375,
+      "buy_price": 6875
+    },
+    "250365": {
+      "name": "Recipe: Elixir of the Phalanx",
+      "sell_price": 1250,
+      "buy_price": 6250
+    },
+    "250366": {
+      "name": "Recipe: Minor Cleric's Elixir",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250367": {
+      "name": "Recipe: Lesser Cleric's Elixir",
+      "sell_price": 475,
+      "buy_price": 2375
+    },
+    "250368": {
+      "name": "Recipe: Cleric's Elixir",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250369": {
+      "name": "Recipe: Greater Cleric's Elixir",
+      "sell_price": 975,
+      "buy_price": 4875
+    },
+    "250370": {
+      "name": "Recipe: Elixir of Fortitude",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250371": {
+      "name": "Recipe: Elixir of Greater Fortitude",
+      "sell_price": 1000,
+      "buy_price": 5000
+    },
+    "250372": {
+      "name": "Recipe: Elixir of Wicked Regeneration",
+      "sell_price": 1425,
+      "buy_price": 7125
+    },
+    "250373": {
+      "name": "Recipe: Elixir of the Owl",
+      "sell_price": 1400,
+      "buy_price": 7000
+    },
+    "250374": {
+      "name": "Recipe: Elixir of Sages",
+      "sell_price": 1375,
+      "buy_price": 6875
+    },
+    "250375": {
+      "name": "Recipe: Minor Mageblood Elixir",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250376": {
+      "name": "Recipe: Lesser Mageblood Elixir",
+      "sell_price": 375,
+      "buy_price": 1875
+    },
+    "250377": {
+      "name": "Recipe: Greater Mageblood Elixir",
+      "sell_price": 875,
+      "buy_price": 4375
+    },
+    "250378": {
+      "name": "Recipe: Lesser Arcane Elixir",
+      "sell_price": 600,
+      "buy_price": 3000
+    },
+    "250379": {
+      "name": "Recipe: Elixir of Nature Power",
+      "sell_price": 1425,
+      "buy_price": 7125
+    },
+    "250380": {
+      "name": "Recipe: Elixir of Minor Spirit",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250381": {
+      "name": "Recipe: Elixir of Lesser Spirit",
+      "sell_price": 325,
+      "buy_price": 1625
+    },
+    "250382": {
+      "name": "Recipe: Elixir of Spirit",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250383": {
+      "name": "Recipe: Elixir of Greater Spirit",
+      "sell_price": 825,
+      "buy_price": 4125
+    },
+    "250384": {
+      "name": "Recipe: Elixir of the Whale",
+      "sell_price": 1375,
+      "buy_price": 6875
+    },
+    "250385": {
+      "name": "Recipe: Elixir of Strength",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250386": {
+      "name": "Recipe: Elixir of Ferocity",
+      "sell_price": 1375,
+      "buy_price": 6875
+    },
+    "250387": {
+      "name": "Recipe: Elixir of the Grizzly",
+      "sell_price": 1500,
+      "buy_price": 7500
+    },
+    "250388": {
+      "name": "Recipe: Elixir of Lesser Intellect",
+      "sell_price": 475,
+      "buy_price": 2375
+    },
+    "250389": {
+      "name": "Recipe: Elixir of Intellect",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250976": {
+      "name": "Recipe: Minor Spellblasting Potion",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250977": {
+      "name": "Recipe: Lesser Spellblasting Potion",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250978": {
+      "name": "Recipe: Spellblasting Potion",
+      "sell_price": 675,
+      "buy_price": 3375
+    },
+    "250979": {
+      "name": "Recipe: Greater Spellblasting Potion",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250980": {
+      "name": "Recipe: Superior Spellblasting Potion",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250981": {
+      "name": "Recipe: Major Spellblasting Potion",
+      "sell_price": 1425,
+      "buy_price": 7125
+    },
+    "250982": {
+      "name": "Recipe: Minor Frenzy Potion",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250983": {
+      "name": "Recipe: Lesser Frenzy Potion",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250984": {
+      "name": "Recipe: Frenzy Potion",
+      "sell_price": 700,
+      "buy_price": 3500
+    },
+    "250985": {
+      "name": "Recipe: Greater Frenzy Potion",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250986": {
+      "name": "Recipe: Superior Frenzy Potion",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250987": {
+      "name": "Recipe: Major Frenzy Potion",
+      "sell_price": 1450,
+      "buy_price": 7250
+    },
+    "250988": {
+      "name": "Recipe: Minor Mender's Potion",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250989": {
+      "name": "Recipe: Lesser Mender's Potion",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250990": {
+      "name": "Recipe: Mender's Potion",
+      "sell_price": 650,
+      "buy_price": 3250
+    },
+    "250992": {
+      "name": "Recipe: Superior Mender's Potion",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "250993": {
+      "name": "Recipe: Major Mender's Potion",
+      "sell_price": 1400,
+      "buy_price": 7000
+    },
+    "250994": {
+      "name": "Recipe: Potion of Venomous Blood",
+      "sell_price": 1375,
+      "buy_price": 6875
+    },
+    "250995": {
+      "name": "Recipe: Caustic Smog Potion",
+      "sell_price": 1325,
+      "buy_price": 6625
+    },
+    "250996": {
+      "name": "Recipe: Disorienting Smog Potion",
+      "sell_price": 900,
+      "buy_price": 4500
+    },
+    "250997": {
+      "name": "Recipe: Dragonfire Potion",
+      "sell_price": 1225,
+      "buy_price": 6125
+    },
+    "250998": {
+      "name": "Recipe: Potion of Elemental Purging",
+      "sell_price": 1400,
+      "buy_price": 7000
+    },
+    "250999": {
+      "name": "Recipe: Potion of Beast Slaying",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "273085": {
+      "name": "Blueprint: Fermenter",
+      "sell_price": 375,
+      "buy_price": 0
+    },
+    "273112": {
+      "name": "Blueprint: Alchemy Laboratory",
+      "sell_price": 120000,
+      "buy_price": 0
+    },
+    "274277": {
+      "name": "Recipe: Flask of Natural Accuracy",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "274278": {
+      "name": "Recipe: Flask of Natural Aggression",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "274279": {
+      "name": "Recipe: Flask of Natural Precision",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "274280": {
+      "name": "Recipe: Flask of Natural Swiftness",
+      "sell_price": 0,
+      "buy_price": 0
+    },
+    "284871": {
+      "name": "Recipe: Transmute Legionite",
+      "sell_price": 12500,
+      "buy_price": 0
+    },
+    "271621": {
+      "name": "Alchemy Certification",
+      "sell_price": 0,
+      "buy_price": 0
+    }
+  }
+}
