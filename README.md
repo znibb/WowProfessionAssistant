@@ -32,3 +32,6 @@ Get-Item .\prices\Auctionator.lua | Format-List FullName, LinkType, Target
 1. Run `./update-prices.py auctionator` to port price data to JSON structure
 1. Run `./profit-craft.py <profession|all>` to show what's profitable
 1. Profit
+
+Faction-specific recipes are marked with `(A)` for Alliance or `(H)` for Horde
+after the recipe name, using `data/faction_recipes_manual.json`.

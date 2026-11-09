@@ -34,6 +34,7 @@ from rich.markup import escape
 from rich import box
 
 DATA_DIR   = Path(__file__).parent / "data"
+FACTION_RECIPES_PATH = DATA_DIR / "faction_recipes_manual.json"
 PRICES_PATH = Path(__file__).parent / "prices" / "prices.json"
 console = Console(width=135)
 
@@ -41,6 +42,21 @@ console = Console(width=135)
 # ---------------------------------------------------------------------------
 # Formatting helpers
 # ---------------------------------------------------------------------------
+
+def load_faction_markers(profession: str) -> dict[str, str]:
+    """Map craft names to faction markers from the manual recipe list."""
+    if not FACTION_RECIPES_PATH.exists():
+        return {}
+
+    factions = json.loads(FACTION_RECIPES_PATH.read_text(encoding="utf-8"))
+    markers = {}
+    for faction in factions.values():
+        for recipe in faction["professions"].get(profession, []):
+            # Manual entries name the teaching item (e.g. "Plans: ...").
+            name = recipe["name"].partition(": ")[-1].strip().casefold()
+            markers[name] = faction["marker"]
+    return markers
+
 
 def copper_to_str(copper: int) -> str:
     """Format a copper amount as a compact gold/silver/copper string."""
@@ -101,6 +117,7 @@ def analyze(data: dict, max_skill: int, prices: dict) -> list[dict]:
     results are sorted by that; otherwise sorted by break-even budget.
     """
     items = data["items"]
+    faction_markers = load_faction_markers(data.get("profession", ""))
 
     # Build lookup: created item_id → recipe, for resolving craftable intermediates
     item_to_recipe: dict[int, dict] = {}
@@ -210,8 +227,13 @@ def analyze(data: dict, max_skill: int, prices: dict) -> list[dict]:
         else:
             estimated_profit = None
 
+        recipe_name = recipe["name"]
+        faction_marker = faction_markers.get(recipe_name.strip().casefold())
+        if faction_marker:
+            recipe_name = f"{recipe_name} ({faction_marker})"
+
         results.append({
-            "recipe_name":        recipe["name"],
+            "recipe_name":        recipe_name,
             "required_skill":     required_skill,
             "vendor_income":      vendor_income,
             "vendor_mats":        vendor_mats,

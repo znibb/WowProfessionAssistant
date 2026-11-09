@@ -1,0 +1,229 @@
+{
+  "alliance": {
+    "marker": "A",
+    "professions": {
+      "blacksmithing": [
+        {
+          "item_id": 9367,
+          "name": "Plans: Golden Scale Gauntlets",
+          "url": "https://www.wowhead.com/forever/item=9367/plans-golden-scale-gauntlets"
+        },
+        {
+          "item_id": 6735,
+          "name": "Plans: Ironforge Breastplate",
+          "url": "https://www.wowhead.com/forever/item=6735/plans-ironforge-breastplate"
+        }
+      ],
+      "cooking": [
+        {
+          "item_id": 2889,
+          "name": "Recipe: Beer Basted Boar Ribs",
+          "url": "https://www.wowhead.com/forever/item=2889/recipe-beer-basted-boar-ribs"
+        },
+        {
+          "item_id": 3679,
+          "name": "Recipe: Blood Sausage",
+          "url": "https://www.wowhead.com/forever/item=3679/recipe-blood-sausage"
+        },
+        {
+          "item_id": 5528,
+          "name": "Recipe: Clam Chowder",
+          "url": "https://www.wowhead.com/forever/item=5528/recipe-clam-chowder"
+        },
+        {
+          "item_id": 3681,
+          "name": "Recipe: Crocolisk Gumbo",
+          "url": "https://www.wowhead.com/forever/item=3681/recipe-crocolisk-gumbo"
+        },
+        {
+          "item_id": 3678,
+          "name": "Recipe: Crocolisk Steak",
+          "url": "https://www.wowhead.com/forever/item=3678/recipe-crocolisk-steak"
+        },
+        {
+          "item_id": 3683,
+          "name": "Recipe: Gooey Spider Cake",
+          "url": "https://www.wowhead.com/forever/item=3683/recipe-gooey-spider-cake"
+        },
+        {
+          "item_id": 2697,
+          "name": "Recipe: Goretusk Liver Pie",
+          "url": "https://www.wowhead.com/forever/item=2697/recipe-goretusk-liver-pie"
+        },
+        {
+          "item_id": 6329,
+          "name": "Recipe: Loch Frenzy Delight",
+          "url": "https://www.wowhead.com/forever/item=6329/recipe-loch-frenzy-delight"
+        },
+        {
+          "item_id": 3680,
+          "name": "Recipe: Murloc Fin Soup",
+          "url": "https://www.wowhead.com/forever/item=3680/recipe-murloc-fin-soup"
+        },
+        {
+          "item_id": 2699,
+          "name": "Recipe: Redridge Goulash",
+          "url": "https://www.wowhead.com/forever/item=2699/recipe-redridge-goulash"
+        },
+        {
+          "item_id": 2701,
+          "name": "Recipe: Seasoned Wolf Kabob",
+          "url": "https://www.wowhead.com/forever/item=2701/recipe-seasoned-wolf-kabob"
+        },
+        {
+          "item_id": 3736,
+          "name": "Recipe: Tasty Lion Steak",
+          "url": "https://www.wowhead.com/forever/item=3736/recipe-tasty-lion-steak"
+        },
+        {
+          "item_id": 728,
+          "name": "Recipe: Westfall Stew",
+          "url": "https://www.wowhead.com/forever/item=728/recipe-westfall-stew"
+        }
+      ],
+      "engineering": [
+        {
+          "item_id": 18649,
+          "name": "Schematic: Blue Firework",
+          "url": "https://www.wowhead.com/forever/item=18649/schematic-blue-firework"
+        }
+      ],
+      "leatherworking": [
+        {
+          "item_id": 7289,
+          "name": "Pattern: Black Whelp Cloak",
+          "url": "https://www.wowhead.com/forever/item=7289/pattern-black-whelp-cloak"
+        },
+        {
+          "item_id": 20576,
+          "name": "Pattern: Black Whelp Tunic",
+          "url": "https://www.wowhead.com/forever/item=20576/pattern-black-whelp-tunic"
+        },
+        {
+          "item_id": 7361,
+          "name": "Pattern: Herbalist's Gloves",
+          "url": "https://www.wowhead.com/forever/item=7361/pattern-herbalists-gloves"
+        },
+        {
+          "item_id": 6710,
+          "name": "Pattern: Moonglow Vest",
+          "url": "https://www.wowhead.com/forever/item=6710/pattern-moonglow-vest"
+        },
+        {
+          "item_id": 13288,
+          "name": "Pattern: Raptor Hide Belt",
+          "url": "https://www.wowhead.com/forever/item=13288/pattern-raptor-hide-belt"
+        },
+        {
+          "item_id": 7290,
+          "name": "Pattern: Red Whelp Gloves",
+          "url": "https://www.wowhead.com/forever/item=7290/pattern-red-whelp-gloves"
+        }
+      ],
+      "tailoring": [
+        {
+          "item_id": 14627,
+          "name": "Pattern: Bright Yellow Shirt",
+          "url": "https://www.wowhead.com/forever/item=14627/pattern-bright-yellow-shirt"
+        }
+      ]
+    }
+  },
+  "horde": {
+    "marker": "H",
+    "professions": {
+      "alchemy": [
+        {
+          "item_id": 4597,
+          "name": "Recipe: Minor Discolored Healing Potion",
+          "url": "https://www.wowhead.com/forever/item=4597/recipe-minor-discolored-healing-potion"
+        }
+      ],
+      "blacksmithing": [
+        {
+          "item_id": 7981,
+          "name": "Plans: Barbaric Iron Boots",
+          "url": "https://www.wowhead.com/forever/item=7981/plans-barbaric-iron-boots"
+        },
+        {
+          "item_id": 7979,
+          "name": "Plans: Barbaric Iron Breastplate",
+          "url": "https://www.wowhead.com/forever/item=7979/plans-barbaric-iron-breastplate"
+        },
+        {
+          "item_id": 7982,
+          "name": "Plans: Barbaric Iron Gloves",
+          "url": "https://www.wowhead.com/forever/item=7982/plans-barbaric-iron-gloves"
+        },
+        {
+          "item_id": 7980,
+          "name": "Plans: Barbaric Iron Helm",
+          "url": "https://www.wowhead.com/forever/item=7980/plans-barbaric-iron-helm"
+        },
+        {
+          "item_id": 7978,
+          "name": "Plans: Barbaric Iron Shoulders",
+          "url": "https://www.wowhead.com/forever/item=7978/plans-barbaric-iron-shoulders"
+        }
+      ],
+      "cooking": [
+        {
+          "item_id": 12226,
+          "name": "Recipe: Crispy Bat Wing",
+          "url": "https://www.wowhead.com/forever/item=12226/recipe-crispy-bat-wing"
+        },
+        {
+          "item_id": 5488,
+          "name": "Recipe: Crispy Lizard Tail",
+          "url": "https://www.wowhead.com/forever/item=5488/recipe-crispy-lizard-tail"
+        },
+        {
+          "item_id": 5487,
+          "name": "Recipe: Dig Rat Stew",
+          "url": "https://www.wowhead.com/forever/item=5487/recipe-dig-rat-stew"
+        },
+        {
+          "item_id": 20075,
+          "name": "Recipe: Heavy Crocolisk Stew",
+          "url": "https://www.wowhead.com/forever/item=20075/recipe-heavy-crocolisk-stew"
+        },
+        {
+          "item_id": 5484,
+          "name": "Recipe: Roasted Kodo Meat",
+          "url": "https://www.wowhead.com/forever/item=5484/recipe-roasted-kodo-meat"
+        },
+        {
+          "item_id": 5483,
+          "name": "Recipe: Scorpid Surprise",
+          "url": "https://www.wowhead.com/forever/item=5483/recipe-scorpid-surprise"
+        }
+      ],
+      "enchanting": [
+        {
+          "item_id": 6346,
+          "name": "Formula: Enchant Chest - Lesser Intellect",
+          "url": "https://www.wowhead.com/forever/item=6346/formula-enchant-chest-lesser-intellect"
+        }
+      ],
+      "engineering": [
+        {
+          "item_id": 18647,
+          "name": "Schematic: Red Firework",
+          "url": "https://www.wowhead.com/forever/item=18647/schematic-red-firework"
+        }
+      ],
+      "leatherworking": [
+        {
+          "item_id": 5083,
+          "name": "Pattern: Kodo Hide Bag",
+          "url": "https://www.wowhead.com/forever/item=5083/pattern-kodo-hide-bag"
+        },
+        {
+          "item_id": 13287,
+          "name": "Pattern: Raptor Hide Harness",
+          "url": "https://www.wowhead.com/forever/item=13287/pattern-raptor-hide-harness"
+        }
+      ]
+    }
+  }
+}
